@@ -1,0 +1,54 @@
+{
+  "games": [
+    {
+      "id": "roblox",
+      "title": "Roblox",
+      "description": "Milyonlarca oyun barindiran devasa bir platform. Arkadashlarinla oyna, kendi oyununu tasarla, sanal dunyalari kesffet.",
+      "iconUrl": "https://raw.githubusercontent.com/nukIeer/gameshieldcdn/main/games/roblox/icon.png",
+      "bannerUrl": "https://raw.githubusercontent.com/nukIeer/gameshieldcdn/main/games/roblox/banner.png",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.roblox.client",
+      "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.roblox.client",
+      "tapTapUrl": "https://www.taptap.io/app/roblox"
+    },
+    {
+      "id": "minecraft",
+      "title": "Minecraft",
+      "description": "Bloklarla insa et, hayatta kal, kesffet. Sinirsizolanaklar sunan sandbox macera oyunu.",
+      "iconUrl": "https://raw.githubusercontent.com/nukIeer/gameshieldcdn/main/games/minecraft/icon.png",
+      "bannerUrl": "https://raw.githubusercontent.com/nukIeer/gameshieldcdn/main/games/minecraft/banner.png",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe",
+      "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.mojang.minecraftpe",
+      "tapTapUrl": "https://www.taptap.io/app/minecraft"
+    },
+    {
+      "id": "freefire",
+      "title": "Free Fire",
+      "description": "Hizli tempolu battle royale. 50 oyuncu, 1 hayatta kalan. Takim kur, strateji gelistir, kazan.",
+      "iconUrl": "https://raw.githubusercontent.com/nukIeer/gameshieldcdn/main/games/freefire/icon.png",
+      "bannerUrl": "https://raw.githubusercontent.com/nukIeer/gameshieldcdn/main/games/freefire/banner.png",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.dts.freefireth",
+      "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.dts.freefireth",
+      "tapTapUrl": "https://www.taptap.io/app/free-fire"
+    },
+    {
+      "id": "pubg",
+      "title": "PUBG Mobile",
+      "description": "Dunyanin en populer battle royale oyunu. Gercekci grafik, taktiksel oyun deneyimi.",
+      "iconUrl": "https://raw.githubusercontent.com/nukIeer/gameshieldcdn/main/games/pubg/icon.png",
+      "bannerUrl": "https://raw.githubusercontent.com/nukIeer/gameshieldcdn/main/games/pubg/banner.png",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.tencent.ig",
+      "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.tencent.ig",
+      "tapTapUrl": "https://www.taptap.io/app/pubg-mobile"
+    },
+    {
+      "id": "brawlstars",
+      "title": "Brawl Stars",
+      "description": "Supercell'in hizli tempolu cok oyunculu aksiyon oyunu. Farkli brawler'larla carpis, ligi tirmhan.",
+      "iconUrl": "https://raw.githubusercontent.com/nukIeer/gameshieldcdn/main/games/brawlstars/icon.png",
+      "bannerUrl": "https://raw.githubusercontent.com/nukIeer/gameshieldcdn/main/games/brawlstars/banner.png",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars",
+      "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.supercell.brawlstars",
+      "tapTapUrl": "https://www.taptap.io/app/brawl-stars"
+    }
+  ]
+}
