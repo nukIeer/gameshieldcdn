@@ -1,0 +1,138 @@
+import os
+import json
+import requests
+from bs4 import BeautifulSoup
+import re
+import time
+
+# GitHub CDN Base URL
+CDN_BASE_URL = "https://raw.githubusercontent.com/nukIeer/gameshieldcdn/main/games"
+
+def format_size(bytes_size):
+    """Bayt cinsinden boyutu MB'a çevirir."""
+    if not bytes_size: return "Bilinmiyor"
+    return f"{round(bytes_size / (1024 * 1024), 1)}MB"
+
+def get_trending_unames(page=1):
+    """Aptoide üzerinden trend olan oyunların kısa isimlerini (uname) çeker."""
+    url = f"https://en.aptoide.com/games/trending?page={page}"
+    headers = {'User-Agent': 'Mozilla/5.0'}
+    
+    response = requests.get(url, headers=headers)
+    if response.status_code != 200:
+        return []
+        
+    soup = BeautifulSoup(response.text, 'html.parser')
+    script = soup.find('script', id='__NEXT_DATA__')
+    if not script: return []
+        
+    data = json.loads(script.string)
+    games = data.get('props', {}).get('pageProps', {}).get('gridApps', {}).get('list', [])
+    return [game.get('uname') for game in games if game.get('uname')]
+
+def get_game_details(uname):
+    """Oyunun kendi sayfasına gidip tüm detaylı JSON verisini çeker."""
+    url = f"https://{uname}.en.aptoide.com/app"
+    headers = {'User-Agent': 'Mozilla/5.0'}
+    
+    try:
+        res = requests.get(url, headers=headers, timeout=10)
+        if res.status_code == 200:
+            soup = BeautifulSoup(res.text, 'html.parser')
+            script = soup.find('script', id='__NEXT_DATA__')
+            if script:
+                data = json.loads(script.string)
+                return data.get('props', {}).get('pageProps', {}).get('app', {})
+    except Exception as e:
+        print(f"Detay çekilemedi ({uname}): {e}")
+    return None
+
+def download_image(url, filepath):
+    """Verilen URL'deki görseli indirir."""
+    if not url: return
+    try:
+        r = requests.get(url, stream=True, timeout=10)
+        if r.status_code == 200:
+            with open(filepath, 'wb') as f:
+                for chunk in r.iter_content(1024):
+                    f.write(chunk)
+    except Exception:
+        pass
+
+def main():
+    print("Oyun listesi toplanıyor...")
+    unames = []
+    # 100 oyun için 2 sayfa tarıyoruz
+    for p in range(1, 3):
+        unames.extend(get_trending_unames(page=p))
+        
+    output_json = {"games": []}
+    
+    for i, uname in enumerate(unames, 1):
+        print(f"[{i}/{len(unames)}] Veriler çekiliyor: {uname}")
+        app_data = get_game_details(uname)
+        
+        if not app_data:
+            continue
+            
+        package = app_data.get('package', '')
+        game_id = re.sub(r'[^a-z0-9]', '', uname.split('-')[0].lower()) 
+        if not game_id: continue
+        
+        # Detaylı verileri ayıklıyoruz
+        title = app_data.get('name', uname)
+        desc = app_data.get('media', {}).get('description', 'Açıklama bulunamadı.')
+        whats_new = app_data.get('media', {}).get('news', 'Güncelleme notu yok.')
+        rating = app_data.get('stats', {}).get('prating', {}).get('avg', 'N/A')
+        downloads = app_data.get('stats', {}).get('pdownloads', 'N/A')
+        version = app_data.get('file', {}).get('vername', 'N/A')
+        android_v = app_data.get('hardware', {}).get('version', {}).get('number', 'N/A')
+        age = app_data.get('age', {}).get('pegi', 'N/A')
+        
+        size_bytes = app_data.get('size') or app_data.get('file', {}).get('filesize', 0)
+        size_mb = format_size(size_bytes)
+        
+        icon_url = app_data.get('icon', '')
+        banner_url = app_data.get('graphic', '')
+        
+        # Klasörleri oluştur ve görselleri indir
+        game_dir = f"games/{game_id}"
+        os.makedirs(game_dir, exist_ok=True)
+        
+        if icon_url: download_image(icon_url, f"{game_dir}/icon.png")
+        if banner_url: download_image(banner_url, f"{game_dir}/banner.png")
+            
+        # İstediğin o dolu dolu JSON yapısı
+        game_info = {
+            "id": game_id,
+            "title": title,
+            "package": package,
+            "version": version,
+            "androidVersion": android_v,
+            "size": size_mb,
+            "rating": rating,
+            "downloads": downloads,
+            "ageRating": age,
+            "description": desc.strip(),
+            "whatsNew": whats_new.strip(),
+            "iconUrl": f"{CDN_BASE_URL}/{game_id}/icon.png",
+            "bannerUrl": f"{CDN_BASE_URL}/{game_id}/banner.png",
+            "playStoreUrl": f"https://play.google.com/store/apps/details?id={package}" if package else None,
+            "galaxyStoreUrl": f"https://galaxystore.samsung.com/detail/{package}" if package else None,
+            "apk1": None,
+            "apk2": None,
+            "mirrors": ["https://dummy-mirror1.com", "https://dummy-mirror2.com"]
+        }
+        
+        output_json["games"].append(game_info)
+        time.sleep(0.5) # Sunucuyu çok yormamak için ufak bir bekleme
+        
+    with open("games.json", "w", encoding="utf-8") as f:
+        json.dump(output_json, f, ensure_ascii=False, indent=4)
+        
+    print("\nBam! Tüm görseller, açıklamalar ve APK link placeholder'ları klasöre ve JSON'a eklendi. GitHub'a atmaya hazırsın.")
+
+if __name__ == "__main__":
+    if not os.path.exists("games"):
+        os.makedirs("games")
+    main()
