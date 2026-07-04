@@ -1,0 +1,422 @@
+I already have an existing mobile application project.
+
+Do not create a new app from scratch.
+
+Your job is to redesign and integrate ONLY the Market / Store / Download section of the existing app as a simple MVP.
+
+The goal is to create a beautiful, premium-looking game market interface that loads its game data from a static JSON file hosted on GitHub.
+
+Before writing or modifying any code, first inspect the existing project structure and create a detailed task list for the whole Market MVP implementation.
+
+You must break the work into clear tasks, such as:
+- finding the existing Market / Store / Download screen
+- checking existing navigation
+- checking existing assets
+- checking existing models/services
+- creating or updating JSON data models
+- creating GitHub JSON API service
+- redesigning the Market UI
+- creating reusable UI components
+- adding local-only fake rating storage
+- adding loading/error/empty states
+- connecting buttons to download links
+- testing the full flow
+
+Do not start implementation before listing the tasks.
+
+Important:
+This is an MVP. Keep it simple.
+Do not add unnecessary features.
+Do not add comments system.
+Do not add real user review system.
+Do not add real backend rating system.
+Do not add authentication.
+Do not add payment system.
+Do not add complex reward system.
+Do not add social features.
+Do not rewrite unrelated screens.
+
+Only focus on:
+1. Beautiful Market UI
+2. GitHub JSON integration
+3. Local-only fake star/rating interaction
+4. Download/Open button logic
+5. Game detail view or bottom sheet
+6. Loading/error/empty states
+
+Existing app rule:
+- Preserve the existing app structure.
+- Preserve existing navigation unless the Market flow requires a small change.
+- Do not remove unrelated features.
+- Do not rename the whole project.
+- Do not create a new app shell.
+- Modify only the Market / Store / Download related files unless absolutely necessary.
+
+Data source:
+The app must load game data from a GitHub-hosted static JSON file.
+
+Use this JSON endpoint:
+
+https://raw.githubusercontent.com/nukIeer/gameshieldcdn/main/games.json
+
+The JSON structure may look like this:
+
+{
+  "games": [
+    {
+      "id": "brawlstars",
+      "title": "Brawl Stars",
+      "package": "com.supercell.brawlstars",
+      "details": {
+        "downloads": "100M+",
+        "rating": "4.56",
+        "size": "39.5MB",
+        "ageRating": "PEGI-12",
+        "androidVersion": "8.1.0+",
+        "version": "1.0.0"
+      },
+      "description": "Fast-paced multiplayer action game.",
+      "whatsNew": "Bug fixes and improvements.",
+      "media": {
+        "iconUrl": "https://raw.githubusercontent.com/nukIeer/gameshieldcdn/main/games/brawlstars/icon.png",
+        "bannerUrl": "https://raw.githubusercontent.com/nukIeer/gameshieldcdn/main/games/brawlstars/banner.png",
+        "screenshots": [
+          "https://raw.githubusercontent.com/nukIeer/gameshieldcdn/main/games/brawlstars/screenshots/1.jpg"
+        ]
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars",
+        "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.supercell.brawlstars",
+        "apk1": null,
+        "apk2": null,
+        "mirrors": [
+          "https://dummy-mirror1.com"
+        ]
+      }
+    }
+  ]
+}
+
+Create or update data models/classes for this JSON structure.
+
+Required model fields:
+- id
+- title
+- package
+- details.downloads
+- details.rating
+- details.size
+- details.ageRating
+- details.androidVersion
+- details.version
+- description
+- whatsNew
+- media.iconUrl
+- media.bannerUrl
+- media.screenshots
+- downloadLinks.playStoreUrl
+- downloadLinks.galaxyStoreUrl
+- downloadLinks.apk1
+- downloadLinks.apk2
+- downloadLinks.mirrors
+
+The model must be null-safe.
+
+If a field is missing:
+- Missing title → "Unknown Game"
+- Missing description → "No description available"
+- Missing rating → 0.0
+- Missing downloads → empty text or "Unknown"
+- Missing icon → use local placeholder asset
+- Missing banner → use gradient fallback
+- Missing download links → disable download button
+
+API integration:
+Create or update a service/repository that fetches the JSON from GitHub using HTTP GET.
+
+The service must:
+- Fetch the remote JSON asynchronously
+- Decode JSON safely
+- Convert JSON into clean model objects
+- Handle network errors
+- Handle invalid JSON
+- Handle empty games array
+- Return loading, success, and error states to the UI
+
+The UI must not parse raw JSON directly.
+The UI must consume clean model objects only.
+
+GitHub CDN behavior:
+Treat the GitHub raw JSON endpoint as a simple static CDN source.
+Structure the code so the JSON URL can be changed later from one config file or constant.
+Do not hardcode the URL in many different files.
+
+Market UI design:
+Redesign the Market page to look like a premium mobile game marketplace inspired by TapTap’s Top Games section.
+
+Do not copy TapTap exactly.
+Use a similar clean game-store feeling.
+
+Visual direction:
+- Premium gaming launcher
+- Metallic UI
+- Dark glass / futuristic style
+- Deep black background
+- Dark blue-gray surfaces
+- Metallic silver accents
+- Electric cyan or neon blue highlights
+- Optional subtle purple glow
+- Rounded cards
+- Soft shadows
+- Clean typography
+- Good spacing
+- High contrast
+- Smooth scrolling
+- Not childish
+- Not cluttered
+- Not too colorful
+
+Use the uploaded local assets:
+- Inspect the project assets folder.
+- Use suitable images, banners, icons, backgrounds, gradients, textures, and placeholders.
+- Wide images should be used as banners.
+- Square images should be used as icons/placeholders.
+- Decorative images can be used as background overlays.
+- If no suitable asset exists, create a clean gradient fallback.
+
+Main Market Screen:
+The screen should include:
+
+1. Header
+- Market title
+- Subtitle
+- Search bar
+- Optional small status text
+
+Example:
+Title: "Game Market"
+Subtitle: "Discover and download top games"
+
+2. Featured Area
+- A large featured game banner using the first game or a selected featured game
+- Background image or gradient
+- Game title
+- Short description
+- Fake rating display
+- Main action button
+
+3. Top Games List
+A vertical list of game cards similar to a modern game store.
+
+Each card must show:
+- Game icon
+- Game title
+- Fake star rating visual
+- Numeric rating from JSON
+- Downloads count
+- File size
+- Version if available
+- Short description snippet
+- Download / Install / Open / Unavailable button
+
+Card layout example:
+
+[Icon] Game Title
+       ★★★★☆ 4.56 | 100M+ downloads
+       39.5MB | v1.0.0
+       Short description...
+                              [Download]
+
+4. Game Detail View
+When the user taps a game card, open either a detail screen or a bottom sheet.
+
+The detail view must show:
+- Large banner
+- Icon
+- Title
+- Fake star rating
+- Downloads
+- Size
+- Version
+- Android version requirement
+- Age rating
+- Description
+- What’s New
+- Screenshot carousel if screenshots exist
+- Main download button
+
+Fake rating behavior:
+This app does NOT need a real rating/review system.
+
+Implement rating only as UI/demo/local behavior.
+
+Rules:
+- Display rating from JSON as the default rating.
+- Show stars visually.
+- User may tap stars if easy to implement.
+- If user taps stars, save the selected rating locally on the device only.
+- Do not send rating anywhere.
+- Do not create backend rating logic.
+- Do not create review/comment UI.
+- Local rating should be stored using the simplest local storage available in the current framework.
+- If local rating exists for a game ID, display local rating instead of remote rating.
+- If not, display JSON rating.
+
+Download button logic:
+Implement simple MVP button behavior.
+
+Button state:
+- If apk1 exists → button says "Download"
+- Else if apk2 exists → button says "Download"
+- Else if mirrors list has at least one item → button says "Mirror"
+- Else if playStoreUrl exists → button says "Store"
+- Else → button disabled, says "Unavailable"
+
+On button tap:
+- If apk1 exists → open apk1 URL
+- Else if apk2 exists → open apk2 URL
+- Else if mirrors list has items → open the first mirror URL
+- Else if playStoreUrl exists → open playStoreUrl
+- Else show a snackbar/toast: "No download link available"
+
+Do not implement silent installation.
+Do not implement APK modification.
+Do not implement package patching.
+Do not implement complex installer logic in this MVP.
+Opening the URL is enough for now.
+
+The code should be structured so these can be added later:
+- download manager
+- download progress
+- APK install intent
+- SHA256 verification
+- package version detection
+- update detection
+
+Loading state:
+Add a polished loading state:
+- skeleton cards
+- shimmer effect if the framework already supports it or if easy
+- otherwise simple placeholder cards
+
+Error state:
+Add a clean error card:
+- message: "Could not load games"
+- retry button
+
+Empty state:
+Add a clean empty screen:
+- message: "No games available"
+- refresh button
+
+Search:
+Add simple local search.
+Search should filter games by:
+- title
+- package name
+- description
+
+No remote search needed.
+
+Optional category chips:
+If easy, add static filter chips:
+- Top
+- Updated
+- Popular
+- Small Size
+- New
+
+These can filter locally using available fields.
+If this complicates the MVP, keep only the UI chips without complex logic.
+
+Component structure:
+Refactor into reusable components.
+
+Suggested components:
+- MarketScreen
+- MarketHeader
+- MarketSearchBar
+- FeaturedGameBanner
+- TopGamesList
+- GameCard
+- GameRating
+- DownloadActionButton
+- GameDetailView or GameDetailBottomSheet
+- ScreenshotCarousel
+- LoadingSkeleton
+- MarketErrorState
+- MarketEmptyState
+
+Do not put everything into one huge file if the current project structure supports components.
+
+Style/theme:
+Create reusable style tokens if possible:
+- colors
+- spacing
+- border radius
+- shadows
+- typography
+
+Performance:
+- Use cached image loading if the current framework supports it.
+- Use lazy scrolling list for game cards.
+- Avoid heavy animations.
+- Keep UI smooth on mid-range Android devices.
+
+Implementation workflow:
+First, create a task list before coding.
+
+The task list must include:
+1. Inspect project structure
+2. Locate Market/Store/Download screen
+3. Locate asset folders
+4. Locate existing navigation
+5. Locate existing HTTP/network utilities
+6. Locate existing local storage utility, if any
+7. Create/update JSON models
+8. Create/update GitHub JSON service
+9. Create loading/error/success state handling
+10. Build Market UI layout
+11. Build Featured banner
+12. Build GameCard
+13. Build fake local rating storage
+14. Build detail page/bottom sheet
+15. Connect download button logic
+16. Add local search
+17. Add placeholders/fallback visuals
+18. Test null/missing fields
+19. Test empty JSON
+20. Test network error
+21. Provide final summary
+
+After completing the implementation, provide:
+- List of files changed
+- List of files created
+- Explanation of how GitHub JSON integration works
+- Explanation of how to update games.json
+- Explanation of how fake local rating works
+- Explanation of how download button chooses the URL
+- Any assumptions made
+- Any missing assets or data needed
+
+Remember:
+This is only an MVP Market redesign and GitHub JSON integration task.
+
+Do not build unrelated features.
+
+Do not create real reviews.
+Do not create real rating backend.
+Do not create user accounts.
+Do not create payments.
+Do not create rewards.
+Do not create APK patching.
+Do not create VPN/network booster.
+Do not create a full app from scratch.
+
+Focus only on:
+- beautiful market UI
+- GitHub JSON integration
+- fake local star rating
+- game cards
+- detail view
+- download link handling
