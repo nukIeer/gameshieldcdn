@@ -41,7 +41,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.roblox.client",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -77,7 +79,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.tencent.ig",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -117,7 +121,134 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.game.minicraft.village",
                 "mirrors": [
                     "https://dummy-mirror1.com"
+                ],
+                "apk1": null,
+                "apk2": null
+            }
+        },
+        {
+            "id": "subway",
+            "title": "Subway Princess Runner",
+            "package": "com.rioo.runnersubway",
+            "details": {
+                "downloads": "500M+",
+                "rating": 3.92,
+                "size": "239.1MB",
+                "ageRating": "PEGI-12",
+                "androidVersion": "N/A",
+                "version": "8.5.8"
+            },
+            "description": "Subway Princess Runner is an endless running game where players guide an escaping princess through obstacles, accumulating points and unlocking progression rewards throughout extended play. The gameplay is built on three core movement mechanics: moving across lanes, jumping over barriers, and sliding under low-hanging hazards. These actions are executed through swipe controls that direct the character left and right across paths in real-time, creating ongoing tactical navigation decisions.\n\nThe game establishes narrative context through a princess fleeing a pursuing policeman, providing character motivation for the endless-running loop. Players focus on the primary objective: extending each run by avoiding hazards and collecting rewards scattered throughout the environment.\n\nPlayers encounter various obstacles, including trains, buses, and rolling logs, each demanding different response strategies and timing. The game's environments rotate across themed locations: snow scenes with icy terrain, city scenes with urban hazards, and forest scenes with natural obstacles. This environmental rotation provides visual variety while maintaining consistent gameplay mechanics, preventing visual repetition across extended sessions.\n\nThe hoverboard mechanic, activated by double-tapping during play, introduces a special capability that extends beyond standard movement. Players can perform stunts while the hoverboard is active, adding skill-based moments of heightened capability. This feature provides gameplay variety and expands the actions available to players.\n\nProgression operates through multiple overlapping systems that interconnect rewards and advancement. Experience points are earned by completing tasks and opening chests discovered throughout levels. These points feed into a level upgrade system that directly increases gameplay scores, translating character progression into measurable performance improvements. Gems serve as a collectible currency that can be spent on upgrades or cosmetics, creating persistent value as players advance.\n\nThe booster system grants temporary enhancements during runs, with upgrade mechanics that extend their duration and potency over time. This layered approach creates both immediate tactical decisions and longer-term strategic planning, as players balance using power immediately against investing in strengthening boosters for future use.\n\nThe game features multiple playable characters beyond the princess, with cosmetic options that allow visual differentiation while maintaining consistent gameplay. Competitive and social elements are integrated through leaderboards that track player performance. Multiplayer features enable direct competition and progress comparison between friends and other players, creating engagement incentives for sustained play. Interface customization includes gravity sensitivity control, allowing players to adjust device responsiveness to their preferences.\n\nThe soundtrack establishes atmosphere and tone throughout sessions without dominating the core gameplay of running, dodging obstacles, and collecting rewards.",
+            "whatsNew": "Midsummer Season is live | Run with the fireflies at night!\n\n- New Season Pass\n\n  - Limited-time “flower crowns” drop on the track; collect them to level up the Pass\n\n  - Unlock: Freja & the Flower‑Crown Board\n\n- Crazy Runner\n\n  - Complete challenge milestones to claim exclusive rewards\n\n  - Unlock: Fishing Girl & Frog Board\n\n- Seasonal Specials Shop\n\n  - Limited-time arrivals: Mecha Dragon, IT Programmer, Scientist",
+            "media": {
+                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/subway/icon.png",
+                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/subway/banner.png",
+                "screenshots": [
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/subway/screenshots/1.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/subway/screenshots/2.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/subway/screenshots/3.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/subway/screenshots/4.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/subway/screenshots/5.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/subway/screenshots/6.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/subway/screenshots/7.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/subway/screenshots/8.jpg"
                 ]
+            },
+            "downloadLinks": {
+                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway",
+                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.rioo.runnersubway",
+                "mirrors": [
+                    "https://dummy-mirror1.com"
+                ],
+                "apk1": null,
+                "apk2": null
+            }
+        },
+        {
+            "id": "temple",
+            "title": "Temple Run",
+            "package": "com.imangi.templerun",
+            "details": {
+                "downloads": "500M+",
+                "rating": 4.08,
+                "size": "154.2MB",
+                "ageRating": "PEGI-3",
+                "androidVersion": "N/A",
+                "version": "1.39.0"
+            },
+            "description": "Temple Run is an action-adventure game that is available for the Android platform, where players navigate through ancient temples while avoiding obstacles and escaping from pursuing enemies. This fast-paced game is popular among users and offers an engaging experience as players attempt to outrun Demon Monkeys after stealing a cursed idol. To join in on the excitement, interested users can download Temple Run and become part of a global community of players.\n\nThe core gameplay of Temple Run involves controlling a character who runs automatically through a series of intricate pathways. Players use swipe gestures to perform actions such as jumping over gaps, sliding under obstacles, and turning to avoid hazards along the way. This intuitive control scheme allows for quick reflexes and precise movements, which are crucial for progressing further in the game. The thrill of navigating through ancient ruins and treacherous cliffs adds to the overall adrenaline rush.\n\nTemple Run features a variety of environments that players traverse, each with its own set of challenges. As players progress, they encounter different types of obstacles, including fire traps, pitfalls, and walls that require precise timing to navigate. Collecting coins during the run is an essential aspect, as these coins can be used to unlock power-ups and characters, enhancing the gameplay experience. \n\nIn addition to the primary gameplay elements, Temple Run offers several power-ups that can be activated during a run. These power-ups provide temporary boosts such as invincibility, coin magnets, and speed boosts, which can help players cover more distance and achieve higher scores. Players can customize their experience by selecting different characters, each with unique abilities that can influence gameplay.\n\nThe game encourages competition among friends and players worldwide by allowing users to compare scores. With the social aspect integrated into the game, players can challenge their friends to beat their high scores, fostering a sense of community and engagement. This competitive element is a significant draw, as players are motivated to improve their skills and climb the leaderboards.\n\nTemple Run also incorporates a system for completing missions and achieving objectives. Successfully completing these missions rewards players with additional coins and experience points, which can then be used to level up and unlock new features. This progression system adds depth to the gameplay, giving players goals to strive for beyond simply running as far as possible.\n\nMoreover, the game is designed with vibrant graphics and smooth animations, enhancing the overall user experience. The visuals depict lush environments inspired by ancient cultures, contributing to the immersive nature of the gameplay. The sound effects and music further complement the atmosphere, providing an engaging backdrop to the fast-paced action.\n\nAs players dive into the world of Temple Run, they can expect a challenging experience that tests their reflexes and decision-making skills. The game’s straightforward mechanics combined with the ever-increasing difficulty levels keep players engaged and returning for more. Regular updates may introduce new features, characters, and environments, ensuring that the gameplay remains fresh and exciting.\n\nTemple Run has garnered significant recognition in the gaming community, with millions of players worldwide enjoying the game. It has received positive reviews from various gaming outlets, celebrating its fun and addictive nature. Players have praised the game for its ability to provide a thrilling experience that can be enjoyed in short bursts or longer sessions.\n\nIn summary, Temple Run offers a dynamic and engaging gameplay experience that combines reflex-based challenges with a competitive edge. The ability to download Temple Run on the Android platform opens the door for players to join a global phenomenon. With its intuitive controls, diverse environments, and a variety of characters and power-ups, Temple Run remains a popular choice among action-adventure games. The thrill of escape and the joy of achieving high scores contribute to its lasting appeal in the mobile gaming landscape.",
+            "whatsNew": "New ways to play Temple Run, one of the most popular apps of all time!\n\nIntroducing Global Challenges! Earn in-game rewards while you play.",
+            "media": {
+                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/icon.png",
+                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/banner.png",
+                "screenshots": [
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/screenshots/1.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/screenshots/2.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/screenshots/3.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/screenshots/4.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/screenshots/5.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/screenshots/6.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/screenshots/7.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/screenshots/8.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/screenshots/9.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/screenshots/10.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/screenshots/11.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/screenshots/12.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/screenshots/13.png"
+                ]
+            },
+            "downloadLinks": {
+                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.imangi.templerun",
+                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.imangi.templerun",
+                "mirrors": [
+                    "https://dummy-mirror1.com"
+                ],
+                "apk1": null,
+                "apk2": null
+            }
+        },
+        {
+            "id": "sonic",
+            "title": "Sonic Dash Run",
+            "package": "com.sega.sonicdash",
+            "details": {
+                "downloads": "500M+",
+                "rating": 4.35,
+                "size": "91.1MB",
+                "ageRating": "PEGI-3",
+                "androidVersion": "N/A",
+                "version": "10.1.0"
+            },
+            "description": "Endless runner action has never been faster with Sonic Dash! Feel the speed in this mobile adventure game as you navigate fun 3D runner race courses with Sonic the Hedgehog, Knuckles, Tails, Shadow, and more. Collect rings, race past challenging obstacles, and battle epic bosses in this fast running game by SEGA! Sonic Dash is a fun run game for kids and adults alike.\n\nEnjoy running games with a Sonic twist! Run, race, and jump fast with Sonic and friends. This exciting endless running game brings you a blazing fast mobile adventure experience with easy to use controls to help you dominate each course. Collect rings, spin dash through badniks, and battle Dr. Eggman in epic boss battles in a 3D runner like no other!\n\nCollect character cards and unlock your favorite Sonic characters! Put your running, racing, and jumping capabilities to the test. Play as Knuckles, Tails, Amy, and more in endless running games in a fast-paced mobile adventure battle game that only the Sonic universe can deliver. If you’re a fan of Original, Classic Sonic and Classic SEGA games, you’ll love the endless runner adventure that Sonic Dash has to offer!\n\nEndless running games and battles have never looked better! Sonic Dash combines endless runner gameplay with the iconic Sonic universe! Featuring inspired track design from classic Sonic levels such as Green Hill Zone with its loop de loops and corkscrews! Experience new levels in this Sonic mobile adventure game such as the Beach Zone and run through the sand or take to the skies in the Sky Sanctuary Zone!\n\nExperience an endless runner adventure like no other! Run with Sonic & friends, collect rings, battle bosses, level up, and earn rewards today! Experience speed the Sonic way in this spectacular 3D runner! Download today!\n\nEPIC ENDLESS RUNNER WITH SONIC\n- Dash into an endless running game like no other\n- Casual fun run adventure or record breaking challenge? It’s up to you!\n- Spin dash badniks, collect rings, & earn rewards in this running battle game!\n- Run with easy to use controls\n\nCOLLECT YOUR FAVORITE SONIC CHARACTERS\n- Sonic, Shadow, Tails, Knuckles, and many more await the next fun run\n- Start up your next endless running game with your favorite Sonic character\n- This 3D Runner will take you on a speedy battle adventure alongside Sonic and beloved characters\n\nRUNNING GAMES HAVE NEVER LOOKED SO GOOD\n- Endless runner battle game within the iconic Sonic Universe\n- Run, dash, & jump through Green Hill Zone, Beach Zone, and more\n- Enjoy a fun run upside down on loop de loops, on a corkscrew, or underwater\n\nEPIC 3D RUNNER BOSS BATTLES\n- Run fast & battle bosses like Dr. Eggman and Zazz\n- Jump & dodge their attacks & finish them with a spin dash attack\n- Collect & earn big points and rewards\n\nMORE THAN JUST AN ENDLESS RUNNER\n- Customize your endless running game outside of the course\n- Save animal friends and explore this Sonic mobile adventure universe\n- Customize your very own zone in a fun run experience that goes beyond the track\n\nPrivacy Policy: http://www.sega.com/mprivacy/\nTerms of Use: http://www.sega.com/Mobile_EULA\n\nSEGA’s Sonic Dash is ad-supported and in-app purchases are not required to progress. Ad-free play is available with an in-app purchase.",
+            "whatsNew": "New Runner! \n\n- Striker Sonic! The first soccer player!",
+            "media": {
+                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/icon.png",
+                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/banner.png",
+                "screenshots": [
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/screenshots/1.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/screenshots/2.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/screenshots/3.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/screenshots/4.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/screenshots/5.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/screenshots/6.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/screenshots/7.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/screenshots/8.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/screenshots/9.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/screenshots/10.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/screenshots/11.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/screenshots/12.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/screenshots/13.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/screenshots/14.png"
+                ]
+            },
+            "downloadLinks": {
+                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sega.sonicdash",
+                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.sega.sonicdash",
+                "mirrors": [
+                    "https://dummy-mirror1.com"
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -166,7 +297,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.miniclip.eightballpool",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -212,7 +345,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.fingersoft.hillclimb",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -248,7 +383,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.outfit7.mytalkingtom2",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -283,7 +420,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.dts.freefireth",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -326,7 +465,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/me.pou.app",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -362,7 +503,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.outfit7.mytalkingangelafree",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -408,7 +551,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ludo.king",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -444,7 +589,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.block.juggle",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -484,7 +631,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.Garawell.BridgeRace",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -520,7 +669,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.outfit7.mytalkingangela2",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -556,7 +707,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.dts.freefiremax",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -593,7 +746,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.outfit7.mytalkingtomfriends",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -637,7 +792,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.rubygames.assassin",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -671,7 +828,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.PlayMax.playergames",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -714,7 +873,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/net.bat.store",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -751,7 +912,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.outfit7.herodash",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -795,7 +958,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.azurgames.stackball",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -831,7 +996,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.wildspike.wormszone",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -875,7 +1042,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.miniclip.carrom",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -914,7 +1083,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.innersloth.spacemafia",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -952,7 +1123,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.playgendary.kickthebuddy",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -990,7 +1163,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.dvloper.granny",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -1030,7 +1205,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.amanotes.beathopper",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -1066,43 +1243,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.supercell.brawlstars",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
-            }
-        },
-        {
-            "id": "subway",
-            "title": "Subway Princess Runner",
-            "package": "com.rioo.runnersubway",
-            "details": {
-                "downloads": "500M+",
-                "rating": 3.92,
-                "size": "239.1MB",
-                "ageRating": "PEGI-12",
-                "androidVersion": "N/A",
-                "version": "8.5.8"
-            },
-            "description": "Subway Princess Runner is an endless running game where players guide an escaping princess through obstacles, accumulating points and unlocking progression rewards throughout extended play. The gameplay is built on three core movement mechanics: moving across lanes, jumping over barriers, and sliding under low-hanging hazards. These actions are executed through swipe controls that direct the character left and right across paths in real-time, creating ongoing tactical navigation decisions.\n\nThe game establishes narrative context through a princess fleeing a pursuing policeman, providing character motivation for the endless-running loop. Players focus on the primary objective: extending each run by avoiding hazards and collecting rewards scattered throughout the environment.\n\nPlayers encounter various obstacles, including trains, buses, and rolling logs, each demanding different response strategies and timing. The game's environments rotate across themed locations: snow scenes with icy terrain, city scenes with urban hazards, and forest scenes with natural obstacles. This environmental rotation provides visual variety while maintaining consistent gameplay mechanics, preventing visual repetition across extended sessions.\n\nThe hoverboard mechanic, activated by double-tapping during play, introduces a special capability that extends beyond standard movement. Players can perform stunts while the hoverboard is active, adding skill-based moments of heightened capability. This feature provides gameplay variety and expands the actions available to players.\n\nProgression operates through multiple overlapping systems that interconnect rewards and advancement. Experience points are earned by completing tasks and opening chests discovered throughout levels. These points feed into a level upgrade system that directly increases gameplay scores, translating character progression into measurable performance improvements. Gems serve as a collectible currency that can be spent on upgrades or cosmetics, creating persistent value as players advance.\n\nThe booster system grants temporary enhancements during runs, with upgrade mechanics that extend their duration and potency over time. This layered approach creates both immediate tactical decisions and longer-term strategic planning, as players balance using power immediately against investing in strengthening boosters for future use.\n\nThe game features multiple playable characters beyond the princess, with cosmetic options that allow visual differentiation while maintaining consistent gameplay. Competitive and social elements are integrated through leaderboards that track player performance. Multiplayer features enable direct competition and progress comparison between friends and other players, creating engagement incentives for sustained play. Interface customization includes gravity sensitivity control, allowing players to adjust device responsiveness to their preferences.\n\nThe soundtrack establishes atmosphere and tone throughout sessions without dominating the core gameplay of running, dodging obstacles, and collecting rewards.",
-            "whatsNew": "Midsummer Season is live | Run with the fireflies at night!\n\n- New Season Pass\n\n  - Limited-time “flower crowns” drop on the track; collect them to level up the Pass\n\n  - Unlock: Freja & the Flower‑Crown Board\n\n- Crazy Runner\n\n  - Complete challenge milestones to claim exclusive rewards\n\n  - Unlock: Fishing Girl & Frog Board\n\n- Seasonal Specials Shop\n\n  - Limited-time arrivals: Mecha Dragon, IT Programmer, Scientist",
-            "media": {
-                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/subway/icon.png",
-                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/subway/banner.png",
-                "screenshots": [
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/subway/screenshots/1.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/subway/screenshots/2.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/subway/screenshots/3.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/subway/screenshots/4.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/subway/screenshots/5.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/subway/screenshots/6.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/subway/screenshots/7.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/subway/screenshots/8.jpg"
-                ]
-            },
-            "downloadLinks": {
-                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway",
-                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.rioo.runnersubway",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -1151,7 +1294,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.billiards.city.pool.nation.club",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -1203,7 +1348,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.youmusic.magictiles",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -1247,7 +1394,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.aim.racing",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -1283,7 +1432,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ea.gp.fifamobile",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -1320,7 +1471,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.fungames.blockcraft",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -1356,7 +1509,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.outfit7.talkingtomgoldrun",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -1393,48 +1548,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/air.com.hypah.io.slither",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
-            }
-        },
-        {
-            "id": "temple",
-            "title": "Temple Run",
-            "package": "com.imangi.templerun",
-            "details": {
-                "downloads": "500M+",
-                "rating": 4.08,
-                "size": "154.2MB",
-                "ageRating": "PEGI-3",
-                "androidVersion": "N/A",
-                "version": "1.39.0"
-            },
-            "description": "Temple Run is an action-adventure game that is available for the Android platform, where players navigate through ancient temples while avoiding obstacles and escaping from pursuing enemies. This fast-paced game is popular among users and offers an engaging experience as players attempt to outrun Demon Monkeys after stealing a cursed idol. To join in on the excitement, interested users can download Temple Run and become part of a global community of players.\n\nThe core gameplay of Temple Run involves controlling a character who runs automatically through a series of intricate pathways. Players use swipe gestures to perform actions such as jumping over gaps, sliding under obstacles, and turning to avoid hazards along the way. This intuitive control scheme allows for quick reflexes and precise movements, which are crucial for progressing further in the game. The thrill of navigating through ancient ruins and treacherous cliffs adds to the overall adrenaline rush.\n\nTemple Run features a variety of environments that players traverse, each with its own set of challenges. As players progress, they encounter different types of obstacles, including fire traps, pitfalls, and walls that require precise timing to navigate. Collecting coins during the run is an essential aspect, as these coins can be used to unlock power-ups and characters, enhancing the gameplay experience. \n\nIn addition to the primary gameplay elements, Temple Run offers several power-ups that can be activated during a run. These power-ups provide temporary boosts such as invincibility, coin magnets, and speed boosts, which can help players cover more distance and achieve higher scores. Players can customize their experience by selecting different characters, each with unique abilities that can influence gameplay.\n\nThe game encourages competition among friends and players worldwide by allowing users to compare scores. With the social aspect integrated into the game, players can challenge their friends to beat their high scores, fostering a sense of community and engagement. This competitive element is a significant draw, as players are motivated to improve their skills and climb the leaderboards.\n\nTemple Run also incorporates a system for completing missions and achieving objectives. Successfully completing these missions rewards players with additional coins and experience points, which can then be used to level up and unlock new features. This progression system adds depth to the gameplay, giving players goals to strive for beyond simply running as far as possible.\n\nMoreover, the game is designed with vibrant graphics and smooth animations, enhancing the overall user experience. The visuals depict lush environments inspired by ancient cultures, contributing to the immersive nature of the gameplay. The sound effects and music further complement the atmosphere, providing an engaging backdrop to the fast-paced action.\n\nAs players dive into the world of Temple Run, they can expect a challenging experience that tests their reflexes and decision-making skills. The game’s straightforward mechanics combined with the ever-increasing difficulty levels keep players engaged and returning for more. Regular updates may introduce new features, characters, and environments, ensuring that the gameplay remains fresh and exciting.\n\nTemple Run has garnered significant recognition in the gaming community, with millions of players worldwide enjoying the game. It has received positive reviews from various gaming outlets, celebrating its fun and addictive nature. Players have praised the game for its ability to provide a thrilling experience that can be enjoyed in short bursts or longer sessions.\n\nIn summary, Temple Run offers a dynamic and engaging gameplay experience that combines reflex-based challenges with a competitive edge. The ability to download Temple Run on the Android platform opens the door for players to join a global phenomenon. With its intuitive controls, diverse environments, and a variety of characters and power-ups, Temple Run remains a popular choice among action-adventure games. The thrill of escape and the joy of achieving high scores contribute to its lasting appeal in the mobile gaming landscape.",
-            "whatsNew": "New ways to play Temple Run, one of the most popular apps of all time!\n\nIntroducing Global Challenges! Earn in-game rewards while you play.",
-            "media": {
-                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/icon.png",
-                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/banner.png",
-                "screenshots": [
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/screenshots/1.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/screenshots/2.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/screenshots/3.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/screenshots/4.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/screenshots/5.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/screenshots/6.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/screenshots/7.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/screenshots/8.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/screenshots/9.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/screenshots/10.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/screenshots/11.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/screenshots/12.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/temple/screenshots/13.png"
-                ]
-            },
-            "downloadLinks": {
-                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.imangi.templerun",
-                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.imangi.templerun",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -1474,49 +1590,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.skgames.trafficrider",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
-            }
-        },
-        {
-            "id": "sonic",
-            "title": "Sonic Dash Run",
-            "package": "com.sega.sonicdash",
-            "details": {
-                "downloads": "500M+",
-                "rating": 4.35,
-                "size": "91.1MB",
-                "ageRating": "PEGI-3",
-                "androidVersion": "N/A",
-                "version": "10.1.0"
-            },
-            "description": "Endless runner action has never been faster with Sonic Dash! Feel the speed in this mobile adventure game as you navigate fun 3D runner race courses with Sonic the Hedgehog, Knuckles, Tails, Shadow, and more. Collect rings, race past challenging obstacles, and battle epic bosses in this fast running game by SEGA! Sonic Dash is a fun run game for kids and adults alike.\n\nEnjoy running games with a Sonic twist! Run, race, and jump fast with Sonic and friends. This exciting endless running game brings you a blazing fast mobile adventure experience with easy to use controls to help you dominate each course. Collect rings, spin dash through badniks, and battle Dr. Eggman in epic boss battles in a 3D runner like no other!\n\nCollect character cards and unlock your favorite Sonic characters! Put your running, racing, and jumping capabilities to the test. Play as Knuckles, Tails, Amy, and more in endless running games in a fast-paced mobile adventure battle game that only the Sonic universe can deliver. If you’re a fan of Original, Classic Sonic and Classic SEGA games, you’ll love the endless runner adventure that Sonic Dash has to offer!\n\nEndless running games and battles have never looked better! Sonic Dash combines endless runner gameplay with the iconic Sonic universe! Featuring inspired track design from classic Sonic levels such as Green Hill Zone with its loop de loops and corkscrews! Experience new levels in this Sonic mobile adventure game such as the Beach Zone and run through the sand or take to the skies in the Sky Sanctuary Zone!\n\nExperience an endless runner adventure like no other! Run with Sonic & friends, collect rings, battle bosses, level up, and earn rewards today! Experience speed the Sonic way in this spectacular 3D runner! Download today!\n\nEPIC ENDLESS RUNNER WITH SONIC\n- Dash into an endless running game like no other\n- Casual fun run adventure or record breaking challenge? It’s up to you!\n- Spin dash badniks, collect rings, & earn rewards in this running battle game!\n- Run with easy to use controls\n\nCOLLECT YOUR FAVORITE SONIC CHARACTERS\n- Sonic, Shadow, Tails, Knuckles, and many more await the next fun run\n- Start up your next endless running game with your favorite Sonic character\n- This 3D Runner will take you on a speedy battle adventure alongside Sonic and beloved characters\n\nRUNNING GAMES HAVE NEVER LOOKED SO GOOD\n- Endless runner battle game within the iconic Sonic Universe\n- Run, dash, & jump through Green Hill Zone, Beach Zone, and more\n- Enjoy a fun run upside down on loop de loops, on a corkscrew, or underwater\n\nEPIC 3D RUNNER BOSS BATTLES\n- Run fast & battle bosses like Dr. Eggman and Zazz\n- Jump & dodge their attacks & finish them with a spin dash attack\n- Collect & earn big points and rewards\n\nMORE THAN JUST AN ENDLESS RUNNER\n- Customize your endless running game outside of the course\n- Save animal friends and explore this Sonic mobile adventure universe\n- Customize your very own zone in a fun run experience that goes beyond the track\n\nPrivacy Policy: http://www.sega.com/mprivacy/\nTerms of Use: http://www.sega.com/Mobile_EULA\n\nSEGA’s Sonic Dash is ad-supported and in-app purchases are not required to progress. Ad-free play is available with an in-app purchase.",
-            "whatsNew": "New Runner! \n\n- Striker Sonic! The first soccer player!",
-            "media": {
-                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/icon.png",
-                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/banner.png",
-                "screenshots": [
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/screenshots/1.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/screenshots/2.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/screenshots/3.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/screenshots/4.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/screenshots/5.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/screenshots/6.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/screenshots/7.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/screenshots/8.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/screenshots/9.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/screenshots/10.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/screenshots/11.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/screenshots/12.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/screenshots/13.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/sonic/screenshots/14.png"
-                ]
-            },
-            "downloadLinks": {
-                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sega.sonicdash",
-                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.sega.sonicdash",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -1552,7 +1628,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.robtopx.geometryjumplite",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -1595,7 +1673,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/net.mobigame.zombietsunami",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -1628,7 +1708,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ansangha.drdriving",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -1667,7 +1749,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/bubbleshooter.orig",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -1701,7 +1785,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.fingersoft.benjibananas",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -1742,7 +1828,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ea.games.r3_row",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -1788,7 +1876,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.budgestudios.HelloKittyNailSalon",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -1822,7 +1912,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.nekki.vector",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -1856,7 +1948,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ea.game.simpsons4_row",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -1890,7 +1984,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.nekki.vector",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -1924,7 +2020,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ea.game.simpsons4_row",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -1960,7 +2058,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ffgames.racingincar",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -2000,7 +2100,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.bestcoolfungames.antsmasher",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -2039,7 +2141,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.bubadu.bubbu",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -2084,7 +2188,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.socialquantum.acityint",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -2121,7 +2227,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/at.ner.lepsWorld2",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -2173,7 +2281,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.criticalforceentertainment.criticalops",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -2215,7 +2325,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.dodreams.driveahead",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -2248,7 +2360,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/org.ppsspp.ppsspp",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -2282,7 +2396,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ansangha.drparking4",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -2326,7 +2442,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ta.strike.ops",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -2358,7 +2476,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.v09.real.moto.bike.driving.racing.city.open.world",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -2402,7 +2522,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.oakever.tiletrip",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -2456,7 +2578,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.uc.minigame.relax",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -2492,7 +2616,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.playspare.supermarket.store.simulator",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -2528,7 +2654,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.sh.fidget.toys.mini.relaxing.antistress.games",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -2570,7 +2698,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.vitastudio.mahjong",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -2606,7 +2736,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.atesgamestudio.rollance",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -2644,7 +2776,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.dino.moto.race.master",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -2678,7 +2812,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.fun.lastwar.gp",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -2730,7 +2866,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/io.supercent.pizzaidle",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -2776,7 +2914,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/io.supercent.linkedcubic",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -2822,7 +2962,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.JindoBlu.OfflineGames",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -2862,7 +3004,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.gnarlygamestudio.agenthunt",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -2906,7 +3050,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ig.moto.racing",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -2942,7 +3088,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.drivezone.car.race.game",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -2975,7 +3123,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.xplay.pop_antistress_simulator",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -3018,7 +3168,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.gamovation.tileclub",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -3069,7 +3221,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.pazugames.avatarworld",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -3103,7 +3257,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.cdg.tictactoe",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -3150,7 +3306,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.paurau.SlowMoRun",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -3194,7 +3352,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.pd.vehiclemasters",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -3230,7 +3390,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.netease.newspike",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -3281,7 +3443,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/io.supercent.burgeridle",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -3314,7 +3478,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.starplay.spider.fighter.openworld",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -3352,7 +3518,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.studio27.MelonPlayground",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -3395,7 +3563,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.redlinegames.attackhole",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -3435,7 +3605,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.JindoBlu.FourPlayers",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -3473,7 +3645,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.kayac.level_up_number",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -3516,7 +3690,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.piano.tiles.music.game.circles.dancing.beat.magictiles",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -3552,7 +3728,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.football.soccer.league",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -3595,7 +3773,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.chillingo.robberybobfree.android.row",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -3642,7 +3822,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.scopely.monopolygo",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -3682,7 +3864,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.master.hotelmaster",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         },
         {
@@ -3718,7 +3902,9 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/onetap.game.tictactoe",
                 "mirrors": [
                     "https://dummy-mirror1.com"
-                ]
+                ],
+                "apk1": null,
+                "apk2": null
             }
         }
     ]
