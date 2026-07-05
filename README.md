@@ -14,8 +14,8 @@ games/
 ## Gorsel URL Formati
 
 ```
-https://raw.githubusercontent.com/nukIeer/gameshieldcdn/main/games/<oyun-id>/icon.png
-https://raw.githubusercontent.com/nukIeer/gameshieldcdn/main/games/<oyun-id>/banner.png
+https://raw.githubusercontent.com/nukIeer/gameshieldcdn/master/games/<oyun-id>/icon.png
+https://raw.githubusercontent.com/nukIeer/gameshieldcdn/master/games/<oyun-id>/banner.png
 ```
 
 ## Mevcut Oyunlar
@@ -44,8 +44,8 @@ https://raw.githubusercontent.com/nukIeer/gameshieldcdn/main/games/<oyun-id>/ban
       "id": "roblox",
       "title": "Roblox",
       "description": "Roblox, milyonlarca oyun barindiran devasa bir oyun platformudur.",
-      "iconUrl": "https://raw.githubusercontent.com/nukIeer/gameshieldcdn/main/games/roblox/icon.png",
-      "bannerUrl": "https://raw.githubusercontent.com/nukIeer/gameshieldcdn/main/games/roblox/banner.png",
+      "iconUrl": "https://raw.githubusercontent.com/nukIeer/gameshieldcdn/master/games/roblox/icon.png",
+      "bannerUrl": "https://raw.githubusercontent.com/nukIeer/gameshieldcdn/master/games/roblox/banner.png",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.roblox.client",
       "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.roblox.client",
       "tapTapUrl": "https://www.taptap.io/app/roblox"
@@ -53,3 +53,4 @@ https://raw.githubusercontent.com/nukIeer/gameshieldcdn/main/games/<oyun-id>/ban
   ]
 }
 ```
+
