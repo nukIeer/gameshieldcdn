@@ -6,7 +6,7 @@ import re
 import time
 
 # GitHub CDN Base URL
-CDN_BASE_URL = "https://raw.githubusercontent.com/nukIeer/gameshieldcdn/master/games"
+CDN_BASE_URL = "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games"
 
 def format_size(bytes_size):
     """Bayt cinsinden boyutu MB'a çevirir."""
@@ -136,3 +136,4 @@ if __name__ == "__main__":
     if not os.path.exists("games"):
         os.makedirs("games")
     main()
+

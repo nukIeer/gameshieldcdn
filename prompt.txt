@@ -57,7 +57,7 @@ The app must load game data from a GitHub-hosted static JSON file.
 
 Use this JSON endpoint:
 
-https://raw.githubusercontent.com/nukIeer/gameshieldcdn/master/games.json
+https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games.json
 
 The JSON structure may look like this:
 
@@ -78,10 +78,10 @@ The JSON structure may look like this:
       "description": "Fast-paced multiplayer action game.",
       "whatsNew": "Bug fixes and improvements.",
       "media": {
-        "iconUrl": "https://raw.githubusercontent.com/nukIeer/gameshieldcdn/master/games/brawlstars/icon.png",
-        "bannerUrl": "https://raw.githubusercontent.com/nukIeer/gameshieldcdn/master/games/brawlstars/banner.png",
+        "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/brawlstars/icon.png",
+        "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/brawlstars/banner.png",
         "screenshots": [
-          "https://raw.githubusercontent.com/nukIeer/gameshieldcdn/master/games/brawlstars/screenshots/1.jpg"
+          "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/brawlstars/screenshots/1.jpg"
         ]
       },
       "downloadLinks": {
@@ -420,3 +420,4 @@ Focus only on:
 - game cards
 - detail view
 - download link handling
+
