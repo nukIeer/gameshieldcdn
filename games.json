@@ -39,11 +39,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.roblox.client",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.roblox.client",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -77,11 +77,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.tencent.ig",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.tencent.ig",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -119,11 +119,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.game.minicraft.village",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.game.minicraft.village",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -157,11 +157,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.rioo.runnersubway",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -200,11 +200,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.imangi.templerun",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.imangi.templerun",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -244,11 +244,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sega.sonicdash",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.sega.sonicdash",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -295,11 +295,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.miniclip.eightballpool",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -343,11 +343,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.fingersoft.hillclimb",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -381,11 +381,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.outfit7.mytalkingtom2",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -418,11 +418,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.dts.freefireth",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.dts.freefireth",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -463,11 +463,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=me.pou.app",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/me.pou.app",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -501,11 +501,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.outfit7.mytalkingangelafree",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -549,11 +549,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ludo.king",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ludo.king",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -587,11 +587,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.block.juggle",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.block.juggle",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -629,11 +629,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.Garawell.BridgeRace",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.Garawell.BridgeRace",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -667,11 +667,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.outfit7.mytalkingangela2",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -705,11 +705,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.dts.freefiremax",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.dts.freefiremax",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -744,11 +744,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.outfit7.mytalkingtomfriends",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -790,11 +790,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rubygames.assassin",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.rubygames.assassin",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -826,11 +826,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.PlayMax.playergames",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -871,11 +871,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=net.bat.store",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/net.bat.store",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -910,11 +910,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.outfit7.herodash",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.outfit7.herodash",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -956,11 +956,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.azurgames.stackball",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.azurgames.stackball",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -994,11 +994,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.wildspike.wormszone",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.wildspike.wormszone",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -1040,11 +1040,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.miniclip.carrom",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.miniclip.carrom",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -1081,11 +1081,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.innersloth.spacemafia",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -1121,11 +1121,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.playgendary.kickthebuddy",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.playgendary.kickthebuddy",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -1161,11 +1161,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.dvloper.granny",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.dvloper.granny",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -1203,11 +1203,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.amanotes.beathopper",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.amanotes.beathopper",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -1241,11 +1241,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.supercell.brawlstars",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -1292,11 +1292,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.billiards.city.pool.nation.club",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.billiards.city.pool.nation.club",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -1346,11 +1346,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.youmusic.magictiles",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -1392,11 +1392,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.aim.racing",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.aim.racing",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -1430,11 +1430,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ea.gp.fifamobile",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -1469,11 +1469,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.fungames.blockcraft",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.fungames.blockcraft",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -1507,11 +1507,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.outfit7.talkingtomgoldrun",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.outfit7.talkingtomgoldrun",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -1546,11 +1546,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=air.com.hypah.io.slither",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/air.com.hypah.io.slither",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -1588,11 +1588,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.skgames.trafficrider",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.skgames.trafficrider",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -1626,11 +1626,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.robtopx.geometryjumplite",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -1671,11 +1671,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=net.mobigame.zombietsunami",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/net.mobigame.zombietsunami",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -1706,11 +1706,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ansangha.drdriving",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -1747,11 +1747,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=bubbleshooter.orig",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/bubbleshooter.orig",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -1783,11 +1783,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.fingersoft.benjibananas",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.fingersoft.benjibananas",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -1802,7 +1802,7 @@
                 "androidVersion": "N/A",
                 "version": "14.0.1"
             },
-            "description": "Real Racing 3 is a motorsport simulation game centered on Formula 1 racing with officially licensed circuits and a collection of over 300 detailed car models. The game offers immersive single-player and multiplayer racing experiences across thousands of competitive events.\n\nThe racing event library includes more than 4,000 individual races, distributed across multiple event formats designed to test different racing skills and strategies. Formula 1 Grand Prix events follow the official race calendar and structure. Cup races provide competitive series racing, while elimination races remove the last-place finisher after each lap, creating pressure-filled competitions with dwindling participant counts. Endurance challenges extend event duration and test driver stamina and resource management. Time trial events focus on individual performance against a clock. Night racing introduces reduced visibility conditions and altered track characteristics.\n\nThe game features over 40 officially licensed racing circuits positioned at 20 real-world racing destinations. Notable circuits include Interlagos in Brazil, Monza in Italy, Silverstone in the United Kingdom, Hockenheimring in Germany, Le Mans in France, Dubai Autodrome in the United Arab Emirates, Yas Marina in Abu Dhabi, and Circuit of the Americas in Texas. Track layouts vary significantly across these destinations. Multiple configuration options for individual circuits allow different racing lines and strategic approaches within the same location, extending the racing experience across single-player progression and competitive events.\n\nThe vehicle roster comprises licensed models from eight manufacturers: Porsche, Bugatti, Chevrolet, Aston Martin, Audi, Ford, McLaren, and Koenigsegg. These manufacturers represent a mix of performance-focused and luxury automotive brands. Each car model features detailed specifications that affect handling, acceleration, and top speed characteristics. The 43-car grid capacity in races accommodates large field sizes comparable to professional racing series, enabling varied strategic elements and overtaking opportunities throughout extended events.\n\nReal Racing 3 supports multiplayer racing for up to eight players competing in real-time across platforms, with cross-platform functionality enabling players on different devices to race together in the same events. The game implements Time-Shifted Multiplayer technology, which allows players to race against AI-controlled versions of other players' driving patterns and performance data. This feature enables competitive racing even when live opponents are unavailable and extends the multiplayer experience through asynchronous gameplay. Social leaderboards display player rankings based on event performance, facilitating ongoing comparison against other competitors worldwide.\n\nThe user interface offers significant customization options for both visual presentation and control responsiveness. Players can configure their heads-up display to emphasize or minimize on-screen information according to personal preference. Control schemes are fully customizable, allowing players to adapt steering, acceleration, and braking inputs to their preferred input method and sensitivity levels. Multiple camera angles provide different perspectives on track action, from cockpit views to chase camera positions, enabling players to select viewpoints that match their racing style and visibility preferences.\n\nThe racing simulation includes detailed car damage modeling that affects vehicle performance. Vehicle impacts cause visible damage to the exterior, with effects on handling balance and acceleration response. Functional rearview mirrors provide realistic visibility of traffic behind the player, requiring attention management similar to real-world driving. Dynamic reflections in the environment enhance graphical realism during races. The game runs on the Mint 3 Engine and delivers HD graphics with detailed track environments, weather effects, and vehicle rendering that emphasize track authenticity and competitive clarity across different racing conditions and times of day.\n\nVirtual currency transactions form the foundation of the game's monetization system. Players can purchase in-game currency using real money, then spend it on cosmetic and functional items available in the shop. A selection of items are randomly distributed, creating variable acquisition patterns and collection-based gameplay. The game requires continuous internet connectivity for all features, as gameplay and account management depend on server communication. Third-party analytics services collect performance and behavioral data during sessions. The application includes integrated links to external websites and social networking platforms. The game is designed for players 13 years of age and older.",
+            "description": "Real Racing 3 is a motorsport simulation game centered on Formula 1 racing with officially licensed circuits and a collection of over 300 detailed car models. The game offers immersive single-player and multiplayer racing experiences across thousands of competitive events.\n\nThe racing event library includes more than 4,000 individual races, distributed across multiple event formats designed to test different racing skills and strategies. Formula 1 Grand Prix events follow the official race calendar and structure. Cup races provide competitive series racing, while elimination races remove the last-place finisher after each lap, creating pressure-filled competitions with dwindling participant counts. Endurance challenges extend event duration and test driver stamina and resource management. Time trial events focus on individual performance against a clock. Night racing introduces reduced visibility conditions and altered track characteristics.\n\nThe game features over 40 officially licensed racing circuits positioned at 20 real-world racing destinations. Notable circuits include Interlagos in Brazil, Monza in Italy, Silverstone in the United Kingdom, Hockenheimring in Germany, Le Mans in France, Dubai Autodrome in the United Arab Emirates, Yas Marina in Abu Dhabi, and Circuit of the Americas in Texas. Track layouts vary significantly across these destinations. Multiple configuration options for individual circuits allow different racing lines and strategic approaches within the same location, extending the racing experience across single-player progression and competitive events.\n\nThe vehicle roster comprises licensed models from eight manufacturers: Porsche, Bugatti, Chevrolet, Aston Martin, Audi, Ford, McLaren, and Koenigsegg. These manufacturers represent a mix of performance-focused and luxury automotive brands. Each car model features detailed specifications that affect handling, acceleration, and top speed characteristics. The 43-car grid capacity in races accommodates large field sizes comparable to professional racing series, enabling varied strategic elements and overtaking opportunities throughout extended events.\n\nReal Racing 3 supports multiplayer racing for up to eight players competing in real-time across platforms, with cross-platform functionality enabling players on different devices to race together in the same events. The game implements Time-Shifted Multiplayer technology, which allows players to race against AI-controlled versions of other players' driving patterns and performance data. This feature enables competitive racing even when live opponents are unavailable and extends the multiplayer experience through asynchronous gameplay. Social leaderboards display player rankings based on event performance, facilitating ongoing comparison against other competitors worldwide.\n\nThe user interface offers significant customization options for both visual presentation and control responsiveness. Players can configure their heads-up display to emphasize or minimize on-screen information according to personal preference. Control schemes are fully customizable, allowing players to adapt steering, acceleration, and braking inputs to their preferred input method and sensitivity levels. Multiple camera angles provide different perspectives on track action, from cockpit views to chase camera positions, enabling players to select viewpoints that match their racing style and visibility preferences.\n\nThe racing simulation includes detailed car damage modeling that affects vehicle performance. Vehicle impacts cause visible damage to the exterior, with effects on handling balance and acceleration response. Functional rearview webpage provide realistic visibility of traffic behind the player, requiring attention management similar to real-world driving. Dynamic reflections in the environment enhance graphical realism during races. The game runs on the Mint 3 Engine and delivers HD graphics with detailed track environments, weather effects, and vehicle rendering that emphasize track authenticity and competitive clarity across different racing conditions and times of day.\n\nVirtual currency transactions form the foundation of the game's monetization system. Players can purchase in-game currency using real money, then spend it on cosmetic and functional items available in the shop. A selection of items are randomly distributed, creating variable acquisition patterns and collection-based gameplay. The game requires continuous internet connectivity for all features, as gameplay and account management depend on server communication. Third-party analytics services collect performance and behavioral data during sessions. The application includes integrated links to external websites and social networking platforms. The game is designed for players 13 years of age and older.",
             "whatsNew": "In this update we've made some behind-the-scenes improvements to keep everything running smoothly, including regular bug fixes.",
             "media": {
                 "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/real/icon.png",
@@ -1826,11 +1826,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ea.games.r3_row",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ea.games.r3_row",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -1874,11 +1874,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.budgestudios.HelloKittyNailSalon",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.budgestudios.HelloKittyNailSalon",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -1910,11 +1910,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nekki.vector",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.nekki.vector",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -1946,11 +1946,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ea.game.simpsons4_row",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ea.game.simpsons4_row",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -1982,11 +1982,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nekki.vector",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.nekki.vector",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -2018,11 +2018,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ea.game.simpsons4_row",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ea.game.simpsons4_row",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -2056,11 +2056,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ffgames.racingincar",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -2098,11 +2098,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.bestcoolfungames.antsmasher",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.bestcoolfungames.antsmasher",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -2139,11 +2139,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.bubadu.bubbu",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.bubadu.bubbu",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -2186,11 +2186,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.socialquantum.acityint",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.socialquantum.acityint",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -2225,11 +2225,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=at.ner.lepsWorld2",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/at.ner.lepsWorld2",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -2279,11 +2279,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.criticalforceentertainment.criticalops",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.criticalforceentertainment.criticalops",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -2323,11 +2323,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.dodreams.driveahead",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.dodreams.driveahead",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -2358,11 +2358,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/org.ppsspp.ppsspp",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -2394,11 +2394,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ansangha.drparking4",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ansangha.drparking4",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -2440,11 +2440,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ta.strike.ops",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ta.strike.ops",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -2474,11 +2474,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.v09.real.moto.bike.driving.racing.city.open.world",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.v09.real.moto.bike.driving.racing.city.open.world",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -2520,11 +2520,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.oakever.tiletrip",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -2576,11 +2576,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.uc.minigame.relax",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.uc.minigame.relax",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -2614,11 +2614,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.playspare.supermarket.store.simulator",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.playspare.supermarket.store.simulator",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -2652,11 +2652,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sh.fidget.toys.mini.relaxing.antistress.games",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.sh.fidget.toys.mini.relaxing.antistress.games",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -2696,11 +2696,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.vitastudio.mahjong",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -2734,11 +2734,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.atesgamestudio.rollance",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.atesgamestudio.rollance",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -2774,11 +2774,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.dino.moto.race.master",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.dino.moto.race.master",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -2810,11 +2810,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.fun.lastwar.gp",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.fun.lastwar.gp",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -2864,11 +2864,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/io.supercent.pizzaidle",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -2912,11 +2912,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/io.supercent.linkedcubic",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -2960,11 +2960,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.JindoBlu.OfflineGames",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.JindoBlu.OfflineGames",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -3002,11 +3002,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gnarlygamestudio.agenthunt",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.gnarlygamestudio.agenthunt",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -3048,11 +3048,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ig.moto.racing",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ig.moto.racing",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -3086,11 +3086,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.drivezone.car.race.game",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.drivezone.car.race.game",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -3121,11 +3121,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.xplay.pop_antistress_simulator",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.xplay.pop_antistress_simulator",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -3166,11 +3166,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.gamovation.tileclub",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -3219,11 +3219,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.pazugames.avatarworld",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.pazugames.avatarworld",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -3255,11 +3255,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.cdg.tictactoe",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.cdg.tictactoe",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -3304,11 +3304,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.paurau.SlowMoRun",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.paurau.SlowMoRun",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -3350,11 +3350,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.pd.vehiclemasters",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.pd.vehiclemasters",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -3388,11 +3388,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.netease.newspike",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.netease.newspike",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -3441,11 +3441,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=io.supercent.burgeridle",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/io.supercent.burgeridle",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -3476,11 +3476,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.starplay.spider.fighter.openworld",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.starplay.spider.fighter.openworld",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -3516,11 +3516,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.studio27.MelonPlayground",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.studio27.MelonPlayground",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -3561,11 +3561,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.redlinegames.attackhole",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.redlinegames.attackhole",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -3603,11 +3603,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.JindoBlu.FourPlayers",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.JindoBlu.FourPlayers",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -3643,11 +3643,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kayac.level_up_number",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.kayac.level_up_number",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -3688,11 +3688,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.piano.tiles.music.game.circles.dancing.beat.magictiles",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.piano.tiles.music.game.circles.dancing.beat.magictiles",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -3726,11 +3726,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.football.soccer.league",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.football.soccer.league",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -3771,11 +3771,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.chillingo.robberybobfree.android.row",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -3820,11 +3820,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.scopely.monopolygo",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.scopely.monopolygo",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -3862,11 +3862,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.master.hotelmaster",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.master.hotelmaster",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         },
         {
@@ -3900,11 +3900,11 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=onetap.game.tictactoe",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/onetap.game.tictactoe",
-                "mirrors": [
-                    "https://dummy-mirror1.com"
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
                 ],
-                "apk1": null,
-                "apk2": null
+                "load1": null,
+                "load2": null
             }
         }
     ]
