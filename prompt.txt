@@ -87,8 +87,6 @@ The JSON structure may look like this:
       "downloadLinks": {
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars",
         "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.supercell.brawlstars",
-        "apk1": null,
-        "apk2": null,
         "mirrors": [
           "https://dummy-mirror1.com"
         ]
@@ -116,8 +114,6 @@ Required model fields:
 - media.screenshots
 - downloadLinks.playStoreUrl
 - downloadLinks.galaxyStoreUrl
-- downloadLinks.apk1
-- downloadLinks.apk2
 - downloadLinks.mirrors
 
 The model must be null-safe.
@@ -266,16 +262,12 @@ Download button logic:
 Implement simple MVP button behavior.
 
 Button state:
-- If apk1 exists → button says "Download"
-- Else if apk2 exists → button says "Download"
-- Else if mirrors list has at least one item → button says "Mirror"
+- If mirrors list has at least one item → button says "Mirror"
 - Else if playStoreUrl exists → button says "Store"
 - Else → button disabled, says "Unavailable"
 
 On button tap:
-- If apk1 exists → open apk1 URL
-- Else if apk2 exists → open apk2 URL
-- Else if mirrors list has items → open the first mirror URL
+- If mirrors list has items → open the first mirror URL
 - Else if playStoreUrl exists → open playStoreUrl
 - Else show a snackbar/toast: "No download link available"
 

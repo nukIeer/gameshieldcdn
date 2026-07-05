@@ -1,6 +1,126 @@
 {
     "games": [
         {
+            "id": "roblox",
+            "title": "Roblox",
+            "package": "com.roblox.client",
+            "details": {
+                "downloads": "1B+",
+                "rating": 4.38,
+                "size": "137.0MB",
+                "ageRating": "PEGI-12",
+                "androidVersion": "N/A",
+                "version": "2.727.1199"
+            },
+            "description": "Roblox is an online multiplayer game for Android, and, at the same time, a platform to create your own games and share them with other users. Although many users probably download Roblox to their Android devices because of the vast number of games and minigames it offers, the truth behind this successful game is that it’s all about experiences. In Roblox, you can play games, create games, hang out with your friends and even attend cultural events like concerts and other shows. It can easily be considered the original metaverse of the Android world, with millions of experiences to enjoy and amazing developer tools to create even more of them. Need more reasons to download Roblox? It comes with amazing extra features like unlimited customization options, an in-app currency and safety filters for children. Just keep reading to learn everything about Roblox! \r\n\r\nThe first thing you’ll need to do after downloading Roblox in your Android device is either logging in to your exiting account or create a new one. A Roblox account comes in very handy to access your virtual world from a different device, keep a history and an inventory of items and develop your online identity.  \r\n\r\nRoblox is a massive universe full of experiences that include socializing, creating, enjoying live events and, of course, playing games! The options are unlimited, since Roblox is a wiki-kind of platform: everyone can develop their own game or experience and publish it on this metaverse for the whole world to enjoy. Which such a vast number of games and experiences, the genres and style are very varied: from puzzle games that will you thinking for a while, to action titles with crazy fantasy inspired designs. There are simulators like Them Park Tycoon 2 on which you can build your own amusement park and invite your friends to it. Or action RPGs like Dungeon Quest, a massive multiplayer online RPG with dungeon crawler to explore and find treasures. \r\n\r\nBut Roblox experiences are not only about gaming, but also about sharing moments and creating memories in special events. Lil Nas X put on an epic live performance for over 30 million people! The future of live shows is here and Roblox is the place to enjoy them. Roblox offers these flabbergasting experiences to be enjoyed anywhere from your Android device or by any other device, because Roblox is a cross-platform: PC, Mac, iOS, Xbox One... even VR devices like Oculus Rift and HTC Vive. \r\n\r\nThe creation aspect of Roblox is brough to us by Roblox Studio; the PC or Mac tool to create your very own games, experiences and universes. There is extensive documentation and guidelines on how to use Roblox Studio and the best part... it’s completely free to use! \r\n\r\nIn such an open and diverse universe like Roblox, customization is a must. You will fin unlimited options in the Roblox Catalog for you to find a unique style for your avatar. Any developer can publish items in Roblox Catalog, which results in a massive library of options that for sure will suit your needs. In the Roblox world, payments are made with its unique currency Robux, that you can receive in many ways, like monthly subscriptions, Amazon gift cards, or even as a present from someone else! \r\n\r\nRoblox is one of the most used metaverse by children all over the world, and thar’s why it comes with some pretty cool settings for the parents to control what their kids can do in the app, including who they can talk with. The best part is that these settings can be blocked through a security PIN so only you can change the settings again. \r\n\r\nFor all those Android gamers that want to have new experiences, contribute to the creation of a new digital metaverse and just share moments with their friends; Roblox is here for you! \r\n\r\nCREATE YOUR OWN EXPERIENCES: https://www.roblox.com/develop\r\nSUPPORT: https://en.help.roblox.com/hc/en-us\r\nCONTACT: https://corp.roblox.com/contact/\r\nPRIVACY POLICY: https://www.roblox.com/info/privacy\r\nPARENT’S GUIDE: https://corp.roblox.com/parents/\r\nTERMS OF USE: https://en.help.roblox.com/hc/en-us/articles/115004647846",
+            "whatsNew": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability.",
+            "media": {
+                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/icon.png",
+                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/banner.png",
+                "screenshots": [
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/1.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/2.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/3.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/4.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/5.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/6.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/7.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/8.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/9.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/10.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/11.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/12.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/13.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/14.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/15.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/16.jpg"
+                ]
+            },
+            "downloadLinks": {
+                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.roblox.client",
+                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.roblox.client",
+                "mirrors": [
+                    "https://dummy-mirror1.com"
+                ]
+            }
+        },
+        {
+            "id": "pubg",
+            "title": "PUBG MOBILE",
+            "package": "com.tencent.ig",
+            "details": {
+                "downloads": "1B+",
+                "rating": 4.18,
+                "size": "1173.4MB",
+                "ageRating": "PEGI-12",
+                "androidVersion": "N/A",
+                "version": "4.4.0"
+            },
+            "description": "PUBG MOBILE is a free-to-play multiplayer action shooter built on Unreal Engine 4 that organizes gameplay around 100-player battle royale matches where teams compete for victory. The core experience places players on maps to scavenge resources, engage in combat, and outlast opponents, though the game extends beyond traditional royale formats through multiple specialized game modes targeting different playstyles.\n\nThe primary battle royale mode operates across five maps: Erangel, Sanhok, Miramar, Vikendi, and Livik. Each map features distinct geography, point-of-interest layouts, and environmental characteristics unique to that region. Terrain on these maps evolves between seasonal updates, altering loot spawn locations and creating new tactical pathways. Dynamic weather systems alter visibility and audio behavior throughout matches, changing how sound travels and what players can observe. Night battles introduce darkness that restricts visibility and requires engagement tactics adapted to low-light conditions. Players can approach matches as solo competitors, in duos, or within squads of up to four members. Real-time voice chat enables squad-based communication, allowing players to share tactical information, call out enemy positions, and coordinate movements across map distances.\n\nPUBG MOBILE expands its gameplay scope beyond the core royale experience with multiple alternative modes. Payload provides team-oriented objectives distinct from survival mechanics, 4v4 Team Deathmatch restricts matches to rapid-fire twelve-player formats, Metro Royale scales the royale concept down to smaller player counts, Arcade offers accelerated rounds with modified ruleset options, Domination emphasizes territory control and objective capture, Mecha Fusion introduces heavily-armored unit combat scenarios, and Ignition provides additional tactical variants. This mode diversity accommodates varying play session lengths and playstyle preferences, enabling players to practice specific skills or engage with more structured competitive formats outside traditional royale rounds.\n\nCombat systems emphasize both weapon proficiency and tactical positioning. Available weapons include assault rifles, sniper rifles, shotguns, and melee items. Each weapon features individual recoil patterns that demand player practice to control effectively during engagements. An attachment system allows extensive weapon customization with scopes, grips, magazines, and other modular components that modify accuracy, handling characteristics, and effective damage ranges. Transportation across maps utilizes motorcycles, trucks, armored cars, and helicopters with specific spawn locations. These vehicles create early-game strategic decisions around map positioning and looting efficiency.\n\nThe visual presentation employs HD graphics with realistic lighting effects and detailed character animations conveying movement and action responses during combat. The audio design uses 3D sound positioning to enable players to locate gunfire, footsteps, equipment usage, and vehicle movements through spatial audio alone. This audio-visual combination creates environmental awareness and tactical positioning information independent of direct visual observation.\n\nCosmetics enable appearance personalization, while gear configuration enables loadout modification. These cosmetics connect to seasonal content and thematic updates released on defined schedules. PUBG MOBILE operates on a seasonal schedule with regular patches, balance adjustments, and new content cycles. Collaborations with external properties periodically introduce branded cosmetics and event content into seasonal rotation.\n\nTime-limited rewards structure engagement around seasonal cycles through battle pass systems offering cosmetics, weapon blueprints, and in-game currency tied to seasonal milestones. These progression systems combine cosmetic collection with gameplay incentives, creating long-term engagement aligned with seasonal schedules.\n\nWithin night battles, reduced visibility forces closer engagement ranges and increases the importance of audio localization, as 3D sound positioning becomes the primary information source for detecting distant threats. Dynamic weather systems create variable conditions across consecutive matches on identical maps—rain affects movement audio propagation and visibility while clear conditions provide enhanced audio clarity for detecting distant engagements. These environmental variables generate meaningful tactical variety, requiring players to adapt strategies between consecutive matches.",
+            "whatsNew": "The 8th Anniversary Version is now available! Are you ready for the new themed gameplay, new UI, new firearms and vehicles, and better perks?\r\n\r\nBattle Royale\r\n1. Themed Mode: The new character skill specialization system lets you create highlights based on your specialty, whether you're a sharpshooter, master medic, scouting sentinel, stealth hunter, or vehicle expert.\r\n2. Classic Mode: New M1 Garand sniper rifle and upgraded Tracked Amphicarrier vehicle have been added.\r\nNew UI: Smoother and streamlined for a new sensory experience.\r\nNew Card Collection System: Get a free 3-level upgradable firearm on your first try! Multiple exclusvie card series are now available. Collect them all to unlock the gallery!\r\nWOW: WOW 3rd Anniversary, upgraded incentive system, plus US $10 million prize pool available all year!\r\n\r\nRumor: Highly anticipated popular gameplay is said to be coming back, along with fun mini-games!The surprises don't stop there! A major collaboration featuring the popular anime Jujutsu Kaisen, renowned band OneRepublic, and top creator MrBeast is coming, kicking off the 8th Anniversary with a grand collaboration party! More excitement is coming to the battlegrounds!\r\n\r\n8TH ANNIVERSARY FOR EVERY #1! No matter who you are or how you like to play, we hope you find your way of having fun in the 8th Anniversary's Evolving Universe!",
+            "media": {
+                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/pubg/icon.png",
+                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/pubg/banner.png",
+                "screenshots": [
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/pubg/screenshots/1.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/pubg/screenshots/2.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/pubg/screenshots/3.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/pubg/screenshots/4.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/pubg/screenshots/5.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/pubg/screenshots/6.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/pubg/screenshots/7.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/pubg/screenshots/8.jpg"
+                ]
+            },
+            "downloadLinks": {
+                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.tencent.ig",
+                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.tencent.ig",
+                "mirrors": [
+                    "https://dummy-mirror1.com"
+                ]
+            }
+        },
+        {
+            "id": "minecraft",
+            "title": "Village City Life Building",
+            "package": "com.game.minicraft.village",
+            "details": {
+                "downloads": "100M+",
+                "rating": 3.86,
+                "size": "191.2MB",
+                "ageRating": "PEGI-12",
+                "androidVersion": "N/A",
+                "version": "1.2.19"
+            },
+            "description": "This game is a building game, which simulates the real world and provides players with limitless resources to design their own city. You will be transformed into a multiplayer and create your own city with massive square castles, island or even with house and square house in gameworld.\nWhen participating in world construction, simulated in the real world, you can design special structures under square graphics in the tropical jungle, or explore the vast desert with seasonal changes of nature, including rain cycles, grass growth, and real life, animals and even mountains,...\nWith construction games, you can create a city with huge buildings, you need to be familiar with cubes. There are hundreds of different types of cube, From huge cube world, each with its own characteristics and uses, requiring your exploration and discovery.\nDo not underestimate these simple squares, if you arrange minicube skillfully, a dream city and world will gradually take shape. From gardens, houses, boats, cottages, villas to square castles. As long as you dare to imagine, your dream house and city can become a reality. Let’s adventure, simulate and build your city now.\nCube's world will be even more exciting when you have your own 2D graphics pets, called lucky pets. Work hard, earn money and buy yourself the most powerful pets to make your city become more lively. They will help you go far, go fast, even fly around the world. The game has many places for exploration and adventure, simulating the real world.\nDon't just focus on building games, practice other skills with survival multiplayer mode: run away from giant monsters, traps and fight other players to survive. This will be a great opportunity to improve your aiming and moving skills.\nA secret to winning every battle is to use weapons to target your opponent's blind spot, with an example behind. Defense is equally important, equip yourself with state-of-the-art armor. Regularly upgrading your armor will also increase your chances of winning. As long as you practice hard, your mobility, ability to use weapons and reflexes will improve, now you can even destroy multiple opponents at the same time.\nThis game also provides players with many other interesting mini games, making your world more attractive than ever. Each minigame is a difficult challenge with hideous monsters, requiring ingenuity and quickness.\nJoin to build your world and become the master.",
+            "whatsNew": "- Improve Game Performance\n\n- Fix bugs",
+            "media": {
+                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minicraft/icon.png",
+                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minicraft/banner.png",
+                "screenshots": [
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minicraft/screenshots/1.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minicraft/screenshots/2.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minicraft/screenshots/3.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minicraft/screenshots/4.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minicraft/screenshots/5.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minicraft/screenshots/6.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minicraft/screenshots/7.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minicraft/screenshots/8.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minicraft/screenshots/9.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minicraft/screenshots/10.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minicraft/screenshots/11.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minicraft/screenshots/12.jpg"
+                ]
+            },
+            "downloadLinks": {
+                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.game.minicraft.village",
+                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.game.minicraft.village",
+                "mirrors": [
+                    "https://dummy-mirror1.com"
+                ]
+            }
+        },
+        {
             "id": "8",
             "title": "8 Ball Pool",
             "package": "com.miniclip.eightballpool",
@@ -44,11 +164,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.miniclip.eightballpool",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -93,11 +210,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.fingersoft.hillclimb",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -132,50 +246,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.outfit7.mytalkingtom2",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
-                ]
-            }
-        },
-        {
-            "id": "pubg",
-            "title": "PUBG MOBILE",
-            "package": "com.tencent.ig",
-            "details": {
-                "downloads": "1B+",
-                "rating": 4.18,
-                "size": "1173.4MB",
-                "ageRating": "PEGI-12",
-                "androidVersion": "N/A",
-                "version": "4.4.0"
-            },
-            "description": "PUBG MOBILE is a free-to-play multiplayer action shooter built on Unreal Engine 4 that organizes gameplay around 100-player battle royale matches where teams compete for victory. The core experience places players on maps to scavenge resources, engage in combat, and outlast opponents, though the game extends beyond traditional royale formats through multiple specialized game modes targeting different playstyles.\n\nThe primary battle royale mode operates across five maps: Erangel, Sanhok, Miramar, Vikendi, and Livik. Each map features distinct geography, point-of-interest layouts, and environmental characteristics unique to that region. Terrain on these maps evolves between seasonal updates, altering loot spawn locations and creating new tactical pathways. Dynamic weather systems alter visibility and audio behavior throughout matches, changing how sound travels and what players can observe. Night battles introduce darkness that restricts visibility and requires engagement tactics adapted to low-light conditions. Players can approach matches as solo competitors, in duos, or within squads of up to four members. Real-time voice chat enables squad-based communication, allowing players to share tactical information, call out enemy positions, and coordinate movements across map distances.\n\nPUBG MOBILE expands its gameplay scope beyond the core royale experience with multiple alternative modes. Payload provides team-oriented objectives distinct from survival mechanics, 4v4 Team Deathmatch restricts matches to rapid-fire twelve-player formats, Metro Royale scales the royale concept down to smaller player counts, Arcade offers accelerated rounds with modified ruleset options, Domination emphasizes territory control and objective capture, Mecha Fusion introduces heavily-armored unit combat scenarios, and Ignition provides additional tactical variants. This mode diversity accommodates varying play session lengths and playstyle preferences, enabling players to practice specific skills or engage with more structured competitive formats outside traditional royale rounds.\n\nCombat systems emphasize both weapon proficiency and tactical positioning. Available weapons include assault rifles, sniper rifles, shotguns, and melee items. Each weapon features individual recoil patterns that demand player practice to control effectively during engagements. An attachment system allows extensive weapon customization with scopes, grips, magazines, and other modular components that modify accuracy, handling characteristics, and effective damage ranges. Transportation across maps utilizes motorcycles, trucks, armored cars, and helicopters with specific spawn locations. These vehicles create early-game strategic decisions around map positioning and looting efficiency.\n\nThe visual presentation employs HD graphics with realistic lighting effects and detailed character animations conveying movement and action responses during combat. The audio design uses 3D sound positioning to enable players to locate gunfire, footsteps, equipment usage, and vehicle movements through spatial audio alone. This audio-visual combination creates environmental awareness and tactical positioning information independent of direct visual observation.\n\nCosmetics enable appearance personalization, while gear configuration enables loadout modification. These cosmetics connect to seasonal content and thematic updates released on defined schedules. PUBG MOBILE operates on a seasonal schedule with regular patches, balance adjustments, and new content cycles. Collaborations with external properties periodically introduce branded cosmetics and event content into seasonal rotation.\n\nTime-limited rewards structure engagement around seasonal cycles through battle pass systems offering cosmetics, weapon blueprints, and in-game currency tied to seasonal milestones. These progression systems combine cosmetic collection with gameplay incentives, creating long-term engagement aligned with seasonal schedules.\n\nWithin night battles, reduced visibility forces closer engagement ranges and increases the importance of audio localization, as 3D sound positioning becomes the primary information source for detecting distant threats. Dynamic weather systems create variable conditions across consecutive matches on identical maps—rain affects movement audio propagation and visibility while clear conditions provide enhanced audio clarity for detecting distant engagements. These environmental variables generate meaningful tactical variety, requiring players to adapt strategies between consecutive matches.",
-            "whatsNew": "The 8th Anniversary Version is now available! Are you ready for the new themed gameplay, new UI, new firearms and vehicles, and better perks?\r\n\r\nBattle Royale\r\n1. Themed Mode: The new character skill specialization system lets you create highlights based on your specialty, whether you're a sharpshooter, master medic, scouting sentinel, stealth hunter, or vehicle expert.\r\n2. Classic Mode: New M1 Garand sniper rifle and upgraded Tracked Amphicarrier vehicle have been added.\r\nNew UI: Smoother and streamlined for a new sensory experience.\r\nNew Card Collection System: Get a free 3-level upgradable firearm on your first try! Multiple exclusvie card series are now available. Collect them all to unlock the gallery!\r\nWOW: WOW 3rd Anniversary, upgraded incentive system, plus US $10 million prize pool available all year!\r\n\r\nRumor: Highly anticipated popular gameplay is said to be coming back, along with fun mini-games!The surprises don't stop there! A major collaboration featuring the popular anime Jujutsu Kaisen, renowned band OneRepublic, and top creator MrBeast is coming, kicking off the 8th Anniversary with a grand collaboration party! More excitement is coming to the battlegrounds!\r\n\r\n8TH ANNIVERSARY FOR EVERY #1! No matter who you are or how you like to play, we hope you find your way of having fun in the 8th Anniversary's Evolving Universe!",
-            "media": {
-                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/pubg/icon.png",
-                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/pubg/banner.png",
-                "screenshots": [
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/pubg/screenshots/1.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/pubg/screenshots/2.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/pubg/screenshots/3.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/pubg/screenshots/4.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/pubg/screenshots/5.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/pubg/screenshots/6.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/pubg/screenshots/7.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/pubg/screenshots/8.jpg"
-                ]
-            },
-            "downloadLinks": {
-                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.tencent.ig",
-                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.tencent.ig",
-                "apk1": null,
-                "apk2": null,
-                "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -209,11 +281,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.dts.freefireth",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.dts.freefireth",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -255,11 +324,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=me.pou.app",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/me.pou.app",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -294,11 +360,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.outfit7.mytalkingangelafree",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -343,58 +406,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ludo.king",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ludo.king",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
-                ]
-            }
-        },
-        {
-            "id": "roblox",
-            "title": "Roblox",
-            "package": "com.roblox.client",
-            "details": {
-                "downloads": "1B+",
-                "rating": 4.38,
-                "size": "137.0MB",
-                "ageRating": "PEGI-12",
-                "androidVersion": "N/A",
-                "version": "2.727.1199"
-            },
-            "description": "Roblox is an online multiplayer game for Android, and, at the same time, a platform to create your own games and share them with other users. Although many users probably download Roblox to their Android devices because of the vast number of games and minigames it offers, the truth behind this successful game is that it’s all about experiences. In Roblox, you can play games, create games, hang out with your friends and even attend cultural events like concerts and other shows. It can easily be considered the original metaverse of the Android world, with millions of experiences to enjoy and amazing developer tools to create even more of them. Need more reasons to download Roblox? It comes with amazing extra features like unlimited customization options, an in-app currency and safety filters for children. Just keep reading to learn everything about Roblox! \r\n\r\nThe first thing you’ll need to do after downloading Roblox in your Android device is either logging in to your exiting account or create a new one. A Roblox account comes in very handy to access your virtual world from a different device, keep a history and an inventory of items and develop your online identity.  \r\n\r\nRoblox is a massive universe full of experiences that include socializing, creating, enjoying live events and, of course, playing games! The options are unlimited, since Roblox is a wiki-kind of platform: everyone can develop their own game or experience and publish it on this metaverse for the whole world to enjoy. Which such a vast number of games and experiences, the genres and style are very varied: from puzzle games that will you thinking for a while, to action titles with crazy fantasy inspired designs. There are simulators like Them Park Tycoon 2 on which you can build your own amusement park and invite your friends to it. Or action RPGs like Dungeon Quest, a massive multiplayer online RPG with dungeon crawler to explore and find treasures. \r\n\r\nBut Roblox experiences are not only about gaming, but also about sharing moments and creating memories in special events. Lil Nas X put on an epic live performance for over 30 million people! The future of live shows is here and Roblox is the place to enjoy them. Roblox offers these flabbergasting experiences to be enjoyed anywhere from your Android device or by any other device, because Roblox is a cross-platform: PC, Mac, iOS, Xbox One... even VR devices like Oculus Rift and HTC Vive. \r\n\r\nThe creation aspect of Roblox is brough to us by Roblox Studio; the PC or Mac tool to create your very own games, experiences and universes. There is extensive documentation and guidelines on how to use Roblox Studio and the best part... it’s completely free to use! \r\n\r\nIn such an open and diverse universe like Roblox, customization is a must. You will fin unlimited options in the Roblox Catalog for you to find a unique style for your avatar. Any developer can publish items in Roblox Catalog, which results in a massive library of options that for sure will suit your needs. In the Roblox world, payments are made with its unique currency Robux, that you can receive in many ways, like monthly subscriptions, Amazon gift cards, or even as a present from someone else! \r\n\r\nRoblox is one of the most used metaverse by children all over the world, and thar’s why it comes with some pretty cool settings for the parents to control what their kids can do in the app, including who they can talk with. The best part is that these settings can be blocked through a security PIN so only you can change the settings again. \r\n\r\nFor all those Android gamers that want to have new experiences, contribute to the creation of a new digital metaverse and just share moments with their friends; Roblox is here for you! \r\n\r\nCREATE YOUR OWN EXPERIENCES: https://www.roblox.com/develop\r\nSUPPORT: https://en.help.roblox.com/hc/en-us\r\nCONTACT: https://corp.roblox.com/contact/\r\nPRIVACY POLICY: https://www.roblox.com/info/privacy\r\nPARENT’S GUIDE: https://corp.roblox.com/parents/\r\nTERMS OF USE: https://en.help.roblox.com/hc/en-us/articles/115004647846",
-            "whatsNew": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability.",
-            "media": {
-                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/icon.png",
-                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/banner.png",
-                "screenshots": [
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/1.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/2.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/3.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/4.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/5.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/6.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/7.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/8.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/9.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/10.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/11.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/12.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/13.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/14.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/15.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/roblox/screenshots/16.jpg"
-                ]
-            },
-            "downloadLinks": {
-                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.roblox.client",
-                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.roblox.client",
-                "apk1": null,
-                "apk2": null,
-                "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -429,11 +442,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.block.juggle",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.block.juggle",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -472,11 +482,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.Garawell.BridgeRace",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.Garawell.BridgeRace",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -511,11 +518,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.outfit7.mytalkingangela2",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -550,11 +554,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.dts.freefiremax",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.dts.freefiremax",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -590,11 +591,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.outfit7.mytalkingtomfriends",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -637,11 +635,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rubygames.assassin",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.rubygames.assassin",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -674,11 +669,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.PlayMax.playergames",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -720,11 +712,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=net.bat.store",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/net.bat.store",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -760,11 +749,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.outfit7.herodash",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.outfit7.herodash",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -807,11 +793,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.azurgames.stackball",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.azurgames.stackball",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -846,11 +829,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.wildspike.wormszone",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.wildspike.wormszone",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -893,11 +873,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.miniclip.carrom",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.miniclip.carrom",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -935,11 +912,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.innersloth.spacemafia",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -976,11 +950,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.playgendary.kickthebuddy",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.playgendary.kickthebuddy",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -1017,11 +988,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.dvloper.granny",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.dvloper.granny",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -1060,11 +1028,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.amanotes.beathopper",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.amanotes.beathopper",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -1099,11 +1064,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.supercell.brawlstars",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -1138,11 +1100,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.rioo.runnersubway",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -1190,11 +1149,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.billiards.city.pool.nation.club",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.billiards.city.pool.nation.club",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -1245,11 +1201,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.youmusic.magictiles",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -1292,11 +1245,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.aim.racing",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.aim.racing",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -1331,11 +1281,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ea.gp.fifamobile",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -1371,11 +1318,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.fungames.blockcraft",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.fungames.blockcraft",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -1410,11 +1354,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.outfit7.talkingtomgoldrun",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.outfit7.talkingtomgoldrun",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -1450,11 +1391,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=air.com.hypah.io.slither",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/air.com.hypah.io.slither",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -1494,11 +1432,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.imangi.templerun",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.imangi.templerun",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -1537,11 +1472,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.skgames.trafficrider",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.skgames.trafficrider",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -1582,11 +1514,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sega.sonicdash",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.sega.sonicdash",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -1621,11 +1550,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.robtopx.geometryjumplite",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -1667,11 +1593,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=net.mobigame.zombietsunami",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/net.mobigame.zombietsunami",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -1703,11 +1626,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ansangha.drdriving",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -1745,11 +1665,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=bubbleshooter.orig",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/bubbleshooter.orig",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -1782,11 +1699,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.fingersoft.benjibananas",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.fingersoft.benjibananas",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -1826,11 +1740,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ea.games.r3_row",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ea.games.r3_row",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -1875,11 +1786,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.budgestudios.HelloKittyNailSalon",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.budgestudios.HelloKittyNailSalon",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -1912,11 +1820,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nekki.vector",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.nekki.vector",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -1949,11 +1854,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ea.game.simpsons4_row",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ea.game.simpsons4_row",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -1986,11 +1888,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nekki.vector",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.nekki.vector",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -2023,11 +1922,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ea.game.simpsons4_row",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ea.game.simpsons4_row",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -2062,11 +1958,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ffgames.racingincar",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -2105,11 +1998,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.bestcoolfungames.antsmasher",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.bestcoolfungames.antsmasher",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -2147,11 +2037,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.bubadu.bubbu",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.bubadu.bubbu",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -2195,11 +2082,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.socialquantum.acityint",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.socialquantum.acityint",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -2235,11 +2119,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=at.ner.lepsWorld2",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/at.ner.lepsWorld2",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -2290,11 +2171,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.criticalforceentertainment.criticalops",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.criticalforceentertainment.criticalops",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -2335,11 +2213,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.dodreams.driveahead",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.dodreams.driveahead",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -2371,11 +2246,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/org.ppsspp.ppsspp",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -2408,11 +2280,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ansangha.drparking4",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ansangha.drparking4",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -2455,11 +2324,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ta.strike.ops",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ta.strike.ops",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -2490,11 +2356,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.v09.real.moto.bike.driving.racing.city.open.world",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.v09.real.moto.bike.driving.racing.city.open.world",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -2537,11 +2400,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.oakever.tiletrip",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -2594,11 +2454,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.uc.minigame.relax",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.uc.minigame.relax",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -2633,11 +2490,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.playspare.supermarket.store.simulator",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.playspare.supermarket.store.simulator",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -2672,11 +2526,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sh.fidget.toys.mini.relaxing.antistress.games",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.sh.fidget.toys.mini.relaxing.antistress.games",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -2717,11 +2568,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.vitastudio.mahjong",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -2756,11 +2604,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.atesgamestudio.rollance",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.atesgamestudio.rollance",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -2797,11 +2642,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.dino.moto.race.master",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.dino.moto.race.master",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -2834,11 +2676,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.fun.lastwar.gp",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.fun.lastwar.gp",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -2889,11 +2728,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/io.supercent.pizzaidle",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -2938,11 +2774,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/io.supercent.linkedcubic",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -2987,11 +2820,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.JindoBlu.OfflineGames",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.JindoBlu.OfflineGames",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -3030,11 +2860,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gnarlygamestudio.agenthunt",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.gnarlygamestudio.agenthunt",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -3077,11 +2904,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ig.moto.racing",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.ig.moto.racing",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -3116,11 +2940,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.drivezone.car.race.game",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.drivezone.car.race.game",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -3152,11 +2973,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.xplay.pop_antistress_simulator",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.xplay.pop_antistress_simulator",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -3198,11 +3016,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.gamovation.tileclub",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -3252,11 +3067,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.pazugames.avatarworld",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.pazugames.avatarworld",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -3289,11 +3101,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.cdg.tictactoe",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.cdg.tictactoe",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -3339,54 +3148,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.paurau.SlowMoRun",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.paurau.SlowMoRun",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
-                ]
-            }
-        },
-        {
-            "id": "minicraft",
-            "title": "Village City Life Building",
-            "package": "com.game.minicraft.village",
-            "details": {
-                "downloads": "100M+",
-                "rating": 3.86,
-                "size": "191.2MB",
-                "ageRating": "PEGI-12",
-                "androidVersion": "N/A",
-                "version": "1.2.19"
-            },
-            "description": "This game is a building game, which simulates the real world and provides players with limitless resources to design their own city. You will be transformed into a multiplayer and create your own city with massive square castles, island or even with house and square house in gameworld.\nWhen participating in world construction, simulated in the real world, you can design special structures under square graphics in the tropical jungle, or explore the vast desert with seasonal changes of nature, including rain cycles, grass growth, and real life, animals and even mountains,...\nWith construction games, you can create a city with huge buildings, you need to be familiar with cubes. There are hundreds of different types of cube, From huge cube world, each with its own characteristics and uses, requiring your exploration and discovery.\nDo not underestimate these simple squares, if you arrange minicube skillfully, a dream city and world will gradually take shape. From gardens, houses, boats, cottages, villas to square castles. As long as you dare to imagine, your dream house and city can become a reality. Let’s adventure, simulate and build your city now.\nCube's world will be even more exciting when you have your own 2D graphics pets, called lucky pets. Work hard, earn money and buy yourself the most powerful pets to make your city become more lively. They will help you go far, go fast, even fly around the world. The game has many places for exploration and adventure, simulating the real world.\nDon't just focus on building games, practice other skills with survival multiplayer mode: run away from giant monsters, traps and fight other players to survive. This will be a great opportunity to improve your aiming and moving skills.\nA secret to winning every battle is to use weapons to target your opponent's blind spot, with an example behind. Defense is equally important, equip yourself with state-of-the-art armor. Regularly upgrading your armor will also increase your chances of winning. As long as you practice hard, your mobility, ability to use weapons and reflexes will improve, now you can even destroy multiple opponents at the same time.\nThis game also provides players with many other interesting mini games, making your world more attractive than ever. Each minigame is a difficult challenge with hideous monsters, requiring ingenuity and quickness.\nJoin to build your world and become the master.",
-            "whatsNew": "- Improve Game Performance\n\n- Fix bugs",
-            "media": {
-                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minicraft/icon.png",
-                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minicraft/banner.png",
-                "screenshots": [
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minicraft/screenshots/1.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minicraft/screenshots/2.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minicraft/screenshots/3.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minicraft/screenshots/4.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minicraft/screenshots/5.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minicraft/screenshots/6.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minicraft/screenshots/7.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minicraft/screenshots/8.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minicraft/screenshots/9.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minicraft/screenshots/10.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minicraft/screenshots/11.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minicraft/screenshots/12.jpg"
-                ]
-            },
-            "downloadLinks": {
-                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.game.minicraft.village",
-                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.game.minicraft.village",
-                "apk1": null,
-                "apk2": null,
-                "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -3429,11 +3192,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.pd.vehiclemasters",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.pd.vehiclemasters",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -3468,11 +3228,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.netease.newspike",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.netease.newspike",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -3522,11 +3279,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=io.supercent.burgeridle",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/io.supercent.burgeridle",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -3558,11 +3312,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.starplay.spider.fighter.openworld",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.starplay.spider.fighter.openworld",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -3599,11 +3350,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.studio27.MelonPlayground",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.studio27.MelonPlayground",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -3645,11 +3393,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.redlinegames.attackhole",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.redlinegames.attackhole",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -3688,11 +3433,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.JindoBlu.FourPlayers",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.JindoBlu.FourPlayers",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -3729,11 +3471,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kayac.level_up_number",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.kayac.level_up_number",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -3775,11 +3514,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.piano.tiles.music.game.circles.dancing.beat.magictiles",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.piano.tiles.music.game.circles.dancing.beat.magictiles",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -3814,11 +3550,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.football.soccer.league",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.football.soccer.league",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -3860,11 +3593,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.chillingo.robberybobfree.android.row",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -3910,11 +3640,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.scopely.monopolygo",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.scopely.monopolygo",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -3953,11 +3680,8 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=com.master.hotelmaster",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.master.hotelmaster",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         },
@@ -3992,14 +3716,10 @@
             "downloadLinks": {
                 "playStoreUrl": "https://play.google.com/store/apps/details?id=onetap.game.tictactoe",
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/onetap.game.tictactoe",
-                "apk1": null,
-                "apk2": null,
                 "mirrors": [
-                    "https://dummy-mirror1.com",
-                    "https://dummy-mirror2.com"
+                    "https://dummy-mirror1.com"
                 ]
             }
         }
     ]
 }
-

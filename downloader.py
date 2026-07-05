@@ -7,6 +7,12 @@ import time
 
 # GitHub CDN Base URL (Senin depona göre)
 CDN_BASE_URL = "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games"
+PRIORITY_UNAMES = [
+    "discord-chat-for-gamers",
+    "minecraft-pocket-edition-2018",
+    "roblox",
+    "pubg-mobile",
+]
 
 def format_size(bytes_size):
     """Bayt cinsinden boyutu MB'a çevirir."""
@@ -73,6 +79,8 @@ def main():
     # 100 oyun için 2 sayfa tarıyoruz
     for p in range(1, 3):
         unames.extend(get_trending_unames(page=p))
+    # Oncelikli oyunlari basta zorunlu tutup tekrar edenleri temizle.
+    unames = list(dict.fromkeys(PRIORITY_UNAMES + unames))
         
     output_json = {"games": []}
     
@@ -84,7 +92,11 @@ def main():
             continue
             
         package = app_data.get('package', '')
-        game_id = re.sub(r'[^a-z0-9]', '', uname.split('-')[0].lower()) 
+        game_id = re.sub(r'[^a-z0-9]', '', uname.split('-')[0].lower())
+        if package == 'com.discord':
+            game_id = 'discord'
+        elif package == 'com.mojang.minecraftpe':
+            game_id = 'minecraft'
         if not game_id: continue
         
         # 1. VERİLERİ TOPLA
@@ -155,9 +167,7 @@ def main():
             "downloadLinks": {
                 "playStoreUrl": f"https://play.google.com/store/apps/details?id={package}" if package else None,
                 "galaxyStoreUrl": f"https://galaxystore.samsung.com/detail/{package}" if package else None,
-                "apk1": None,
-                "apk2": None,
-                "mirrors": ["https://dummy-mirror1.com", "https://dummy-mirror2.com"]
+                "mirrors": ["https://dummy-mirror1.com"]
             }
         }
         
