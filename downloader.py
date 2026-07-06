@@ -7,6 +7,7 @@ import time
 
 # GitHub CDN Base URL (Senin depona göre)
 CDN_BASE_URL = "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games"
+WEBPAGE_BASE_URL = "https://game-guard-three.vercel.app/game"
 PRIORITY_UNAMES = [
     "discord-chat-for-gamers",
     "minecraft-pocket-edition-2018",
@@ -167,7 +168,9 @@ def main():
             "downloadLinks": {
                 "playStoreUrl": f"https://play.google.com/store/apps/details?id={package}" if package else None,
                 "galaxyStoreUrl": f"https://galaxystore.samsung.com/detail/{package}" if package else None,
-                "mirrors": ["https://dummy-mirror1.com"]
+                "webpage": [f"{WEBPAGE_BASE_URL}/{game_id}"],
+                "load1": None,
+                "load2": None
             }
         }
         
