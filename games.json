@@ -1662,7 +1662,7 @@
             }
         },
         {
-            "id": "dr",
+            "id": "drdriving",
             "title": "Dr. Driving",
             "package": "com.ansangha.drdriving",
             "details": {
