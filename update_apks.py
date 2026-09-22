@@ -132,8 +132,8 @@ def main() -> None:
                 dl["apkInfo"] = gh_apk["info"]
                 game.setdefault("details", {})["version"] = gh_apk["info"]["version"]
             continue
-        if game.get("platform") == "windows":
-            # PC oyunlarının linkleri elle yönetilir, Aptoide'de aranmaz.
+        if "winlator" in (game.get("requires") or []):
+            # Winlator ile çalışan oyunların linkleri elle yönetilir, Aptoide'de aranmaz.
             continue
 
         pinned = (dl.get("apkInfo") or {}).get("signatureSha1")
