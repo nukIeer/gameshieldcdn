@@ -1,8 +1,8 @@
-"""PC (Winlator) oyunlarını ve GitHub'dan resmi APK'sı yayınlanan açık kaynak oyunları ekler.
+"""Winlator APK'sı içinde çalışan oyunları ve GitHub'dan resmi APK'sı yayınlanan açık kaynak oyunları ekler.
 
-PC oyunları için şema:
-    "platform": "windows"           -> uygulama "PC · Winlator gerekli" rozeti gösterir
-    "requires": ["winlator"]        -> önce bu id'li kayıt (Winlator) kurulmalı
+Şema:
+    "requires": ["winlator"]        -> Winlator APK'sı içinde çalışır; uygulama "Winlator gerekli"
+                                       rozeti gösterir ve önce bu id'li kaydı (Winlator) kurdurur
     downloadLinks.pcStoreUrls       -> ücretli oyunlar için resmi mağaza linkleri (dosya yok)
     downloadLinks.load1             -> sadece yasal olarak ücretsiz dağıtılan oyunlarda dosya linki
 """
@@ -48,7 +48,6 @@ def pc_entry(game_id: str, title: str, description: str, media: dict, version: s
         "id": game_id,
         "title": title,
         "package": None,
-        "platform": "windows",
         "requires": ["winlator"],
         "details": {
             "downloads": "N/A",
@@ -79,9 +78,9 @@ def steam_media(game_id: str, appid: int) -> dict:
 def build_gta5() -> dict:
     return pc_entry(
         "gta5",
-        "Grand Theft Auto V (PC)",
-        "Explore Los Santos and Blaine County in Rockstar's open-world classic. This is the PC version and "
-        "runs on Android through Winlator. The game is NOT included: you must buy it on Steam, Epic Games "
+        "Grand Theft Auto V",
+        "Explore Los Santos and Blaine County in Rockstar's open-world classic. It runs on your phone inside the "
+        "Winlator app. The game is NOT included: you must buy it on Steam, Epic Games "
         "or the Rockstar Store and download it with your own account."
         + WINLATOR_STEPS.format(step2="Buy the game and copy the installed game folder to your phone.")
         + "\n\nPerformance: GTA V is a heavy game. It only runs on high-end phones (Snapdragon 8 Gen 2 or "
@@ -106,7 +105,7 @@ def build_teeworlds() -> dict:
     gh = fetch_github_apk("teeworlds/teeworlds", r"win64\.zip$")
     return pc_entry(
         "teeworlds",
-        "Teeworlds (PC)",
+        "Teeworlds",
         "A free, open-source online multiplayer shooter with cute 2D characters. Grapple across maps, "
         "play deathmatch or capture the flag with players around the world."
         + WINLATOR_STEPS.format(step2="Download the Windows zip below and extract it on your phone."),
@@ -134,7 +133,7 @@ def build_spelunky() -> dict:
     idol.convert("RGBA").resize((512, 512), Image.NEAREST).save(icon_path, "PNG", optimize=True)
     return pc_entry(
         "spelunkyclassic",
-        "Spelunky Classic (PC)",
+        "Spelunky Classic",
         "The original 2008 freeware Spelunky by Derek Yu. Explore randomly generated caves, grab treasure, "
         "rescue damsels and avoid deadly traps. Released for free by its creator."
         + WINLATOR_STEPS.format(step2="Download the zip below and extract it on your phone."),

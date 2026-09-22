@@ -24,8 +24,7 @@ games/<oyun-id>/
   "id": "roblox",
   "title": "Roblox",
   "package": "com.roblox.client",
-  "platform": "windows",            // opsiyonel; yoksa Android
-  "requires": ["winlator"],         // opsiyonel; once kurulmasi gereken kayitlarin id'leri
+  "requires": ["winlator"],         // opsiyonel; oyun bu APK'nin icinde calisir, once o kurulur
   "tags": ["nostalgia"],            // opsiyonel; "nostalgia", "emulator"
   "details": {
     "downloads": "1B+", "rating": 4.38, "size": "137.0MB", "ageRating": "PEGI-12",
@@ -38,7 +37,7 @@ games/<oyun-id>/
   "downloadLinks": {
     "playStoreUrl": "...",          // Play Store'dan kalkmis oyunlarda null
     "galaxyStoreUrl": "...",
-    "pcStoreUrls": ["..."],         // PC oyunlari icin resmi magazalar (Steam, Epic...)
+    "pcStoreUrls": ["..."],         // Winlator oyunlarinin resmi magazalari (Steam, Epic...)
     "webpage": ["..."],
     "load1": "...",                 // dogrulanmis APK / dosya linki veya null
     "load2": null,
@@ -48,14 +47,15 @@ games/<oyun-id>/
 }
 ```
 
-### Winlator gerektiren PC oyunlari
+### Winlator ile calisan oyunlar
 
-`platform: "windows"` ve `requires: ["winlator"]` olan kayitlarda uygulama:
+Winlator bir Android APK'sidir; `requires: ["winlator"]` olan oyunlar telefonda onun icinde calisir.
+Bu kayitlarda uygulama:
 
-1. Karta "PC · Winlator gerekli" rozeti koyar.
+1. Karta "Winlator gerekli" rozeti koyar.
 2. Cihazda `com.winlator` kurulu degilse once `winlator` kaydinin `load1` linkini acar.
 3. Kuruluysa oyunun `load1` dosyasini indirir; `load1` yoksa (ucretli oyun, orn. GTA V)
-   `pcStoreUrls` icindeki magazaya yonlendirir. Kullanici oyunu kendi hesabiyla alip Winlator'da acar.
+   `pcStoreUrls` icindeki resmi magazaya yonlendirir. Kullanici oyunu kendi hesabiyla alip Winlator'da acar.
 
 Ucretli oyunlarin dosyalari **asla** eklenmez, sadece resmi magaza linkleri verilir.
 
@@ -65,6 +65,6 @@ Ucretli oyunlarin dosyalari **asla** eklenmez, sadece resmi magaza linkleri veri
 |---|---|
 | `update_apks.py` | Her gun GitHub Actions ile calisir. Aptoide'den sadece TRUSTED, orijinal imzali APK'lari kabul eder (yeniden imzalanmis/modlu APK'lar ve `superpocket` gibi magazalar engelli, imza SHA1'i sabitlenir). `apkInfo.source == "github"` olanlari GitHub Releases'tan gunceller. |
 | `add_playstore_games.py` | Play Store'dan oyun bilgisi/gorsel ceker; Play'den kalkmis klasikleri Aptoide'den orijinal imzayla ekler; kalkmis oyunlarin Play linkini temizler. |
-| `add_special_games.py` | Winlator ile oynanan PC oyunlarini ve GitHub'dan resmi APK'si olan acik kaynak oyunlari ekler. |
+| `add_special_games.py` | Winlator ile oynanan oyunlari ve GitHub'dan resmi APK'si olan acik kaynak oyunlari ekler. |
 
 Kurulum: `python -m pip install requests google-play-scraper pillow`

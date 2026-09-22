@@ -5625,9 +5625,8 @@
         },
         {
             "id": "gta5",
-            "title": "Grand Theft Auto V (PC)",
+            "title": "Grand Theft Auto V",
             "package": null,
-            "platform": "windows",
             "requires": [
                 "winlator"
             ],
@@ -5640,7 +5639,7 @@
                 "version": "Enhanced / Legacy",
                 "isFree": false
             },
-            "description": "Explore Los Santos and Blaine County in Rockstar's open-world classic. This is the PC version and runs on Android through Winlator. The game is NOT included: you must buy it on Steam, Epic Games or the Rockstar Store and download it with your own account.\n\nHow to play on Android:\n1. Install Winlator (listed in this market).\n2. Buy the game and copy the installed game folder to your phone.\n3. In Winlator, create a container, open the game folder from the file manager and run the .exe.\n\nPerformance: GTA V is a heavy game. It only runs on high-end phones (Snapdragon 8 Gen 2 or newer recommended) at low settings. The \"Legacy\" edition that comes with your purchase uses DirectX 11 and works better in Winlator than the \"Enhanced\" edition. GTA Online does not work because of its anti-cheat.",
+            "description": "Explore Los Santos and Blaine County in Rockstar's open-world classic. It runs on your phone inside the Winlator app. The game is NOT included: you must buy it on Steam, Epic Games or the Rockstar Store and download it with your own account.\n\nHow to play on Android:\n1. Install Winlator (listed in this market).\n2. Buy the game and copy the installed game folder to your phone.\n3. In Winlator, create a container, open the game folder from the file manager and run the .exe.\n\nPerformance: GTA V is a heavy game. It only runs on high-end phones (Snapdragon 8 Gen 2 or newer recommended) at low settings. The \"Legacy\" edition that comes with your purchase uses DirectX 11 and works better in Winlator than the \"Enhanced\" edition. GTA Online does not work because of its anti-cheat.",
             "whatsNew": "",
             "media": {
                 "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/gta5/icon.png",
@@ -5673,9 +5672,8 @@
         },
         {
             "id": "teeworlds",
-            "title": "Teeworlds (PC)",
+            "title": "Teeworlds",
             "package": null,
-            "platform": "windows",
             "requires": [
                 "winlator"
             ],
@@ -5723,9 +5721,8 @@
         },
         {
             "id": "spelunkyclassic",
-            "title": "Spelunky Classic (PC)",
+            "title": "Spelunky Classic",
             "package": null,
-            "platform": "windows",
             "requires": [
                 "winlator"
             ],
