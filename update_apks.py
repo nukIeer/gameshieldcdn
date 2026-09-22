@@ -82,14 +82,37 @@ def pick_trusted_apk(meta: Optional[dict], pinned_sha1: Optional[str]) -> Option
     }
 
 
+def fetch_github_apk(repo: str) -> Optional[dict]:
+    """Açık kaynak uygulamalar (ör. Winlator) için GitHub'daki son sürümün APK'sını bulur."""
+    res = requests.get(f"https://api.github.com/repos/{repo}/releases/latest", timeout=20)
+    if res.status_code != 200:
+        return None
+    release = res.json()
+    for asset in release.get("assets", []):
+        if asset.get("name", "").endswith(".apk"):
+            return {
+                "path": asset["browser_download_url"],
+                "info": {
+                    "source": "github",
+                    "repo": repo,
+                    "version": release.get("tag_name", "").lstrip("v"),
+                    "size": f"{round(asset.get('size', 0) / (1024 * 1024), 1)}MB",
+                },
+            }
+    return None
+
+
 def main() -> None:
     with open(GAMES_JSON_PATH, "r", encoding="utf-8") as fh:
         data = json.load(fh)
     games = data.get("games", [])
 
+    def is_github(g: dict) -> bool:
+        return ((g.get("downloadLinks") or {}).get("apkInfo") or {}).get("source") == "github"
+
     # Ücretli oyunların Aptoide kopyası korsandır, onları hiç sorgulamıyoruz.
     packages = [
-        None if (g.get("details") or {}).get("isFree") is False else g.get("package")
+        None if is_github(g) or (g.get("details") or {}).get("isFree") is False else g.get("package")
         for g in games
     ]
     with ThreadPoolExecutor(max_workers=8) as pool:
@@ -98,6 +121,15 @@ def main() -> None:
     found = 0
     for game, meta in zip(games, metas):
         dl = game.setdefault("downloadLinks", {})
+        if is_github(game):
+            gh_apk = fetch_github_apk(dl["apkInfo"]["repo"])
+            if gh_apk:
+                found += 1
+                dl["load1"] = gh_apk["path"]
+                dl["apkInfo"] = gh_apk["info"]
+                game.setdefault("details", {})["version"] = gh_apk["info"]["version"]
+            continue
+
         pinned = (dl.get("apkInfo") or {}).get("signatureSha1")
         apk = pick_trusted_apk(meta, pinned)
 
