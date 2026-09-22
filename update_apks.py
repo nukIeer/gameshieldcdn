@@ -9,9 +9,18 @@ GAMES_JSON_PATH = "games.json"
 APTOIDE_META_URL = "https://ws75.aptoide.com/api/7/app/getMeta/package_name={package}"
 
 # Aptoide'de popüler oyunların "999.0" / "1000" sürümlü ~2.6MB'lık sahte kopyaları var.
-# Sadece Aptoide'nin TRUSTED işaretlediği ve makul boyuttaki APK'ları kabul ediyoruz.
-MIN_APK_SIZE = 5 * 1024 * 1024
+# Sadece Aptoide'nin TRUSTED işaretlediği APK'ları kabul ediyoruz.
+MIN_APK_SIZE = 512 * 1024
 FAKE_VERSIONS = {"999", "999.0", "1000", "1000.0"}
+
+# TRUSTED sadece virüs taraması demek; bazı mağazalar APK'ları kendi sertifikalarıyla
+# yeniden imzalıyor (modlanmış/değiştirilmiş). Bu imzalayıcıları ve mağazaları reddediyoruz.
+BLOCKED_STORES = {"superpocket"}
+BLOCKED_SIGNERS = {
+    "7D:64:F9:C2:53:C7:EF:35:A0:72:0F:6F:8A:80:2B:D4:B9:20:AA:3A",  # Jx Clarynx / anon.org
+    "1C:C6:3A:91:D4:47:91:8E:EA:7E:38:04:2C:54:E6:06:8D:CA:EA:E3",  # APKMODY
+}
+BLOCKED_SIGNER_WORDS = ("apkmody", "anon.org", "modded", "apkpure", "happymod", "an1.com")
 
 
 def fetch_meta(package: str) -> Optional[dict]:
@@ -27,7 +36,7 @@ def fetch_meta(package: str) -> Optional[dict]:
     raise RuntimeError(f"Aptoide'ye ulaşılamadı: {package}")
 
 
-def pick_trusted_apk(meta: Optional[dict]) -> Optional[dict]:
+def pick_trusted_apk(meta: Optional[dict], pinned_sha1: Optional[str]) -> Optional[dict]:
     if not meta:
         return None
 
@@ -35,10 +44,22 @@ def pick_trusted_apk(meta: Optional[dict]) -> Optional[dict]:
     rank = (f.get("malware") or {}).get("rank")
     version = str(f.get("vername") or "")
     size = f.get("filesize") or 0
+    store = (meta.get("store") or {}).get("name")
+    sig = f.get("signature") or {}
+    sha1 = sig.get("sha1")
+    owner = (sig.get("owner") or "").lower()
 
     if rank != "TRUSTED" or version in FAKE_VERSIONS or size < MIN_APK_SIZE:
         return None
-    if not f.get("path"):
+    if not f.get("path") or not sha1:
+        return None
+    if store in BLOCKED_STORES or sha1 in BLOCKED_SIGNERS:
+        return None
+    if any(word in owner for word in BLOCKED_SIGNER_WORDS):
+        return None
+    # İlk kabul edilen imza sabitlenir; sonradan farklı imzalı bir APK gelirse reddedilir.
+    if pinned_sha1 and sha1 != pinned_sha1:
+        print(f"  ! imza degisti, reddedildi: {meta.get('package')} ({store})")
         return None
 
     obb = meta.get("obb") or {}
@@ -49,11 +70,13 @@ def pick_trusted_apk(meta: Optional[dict]) -> Optional[dict]:
         "path_alt": f.get("path_alt"),
         "info": {
             "source": "aptoide",
-            "store": (meta.get("store") or {}).get("name"),
+            "store": store,
             "version": version,
             "versionCode": f.get("vercode"),
             "size": f"{round(size / (1024 * 1024), 1)}MB",
             "md5": f.get("md5sum"),
+            "signatureSha1": sha1,
+            "signer": sig.get("owner"),
             "obbUrl": main_obb,
         },
     }
@@ -64,20 +87,30 @@ def main() -> None:
         data = json.load(fh)
     games = data.get("games", [])
 
-    packages = [g.get("package") for g in games]
+    # Ücretli oyunların Aptoide kopyası korsandır, onları hiç sorgulamıyoruz.
+    packages = [
+        None if (g.get("details") or {}).get("isFree") is False else g.get("package")
+        for g in games
+    ]
     with ThreadPoolExecutor(max_workers=8) as pool:
         metas = list(pool.map(lambda p: fetch_meta(p) if p else None, packages))
 
     found = 0
     for game, meta in zip(games, metas):
-        apk = pick_trusted_apk(meta)
         dl = game.setdefault("downloadLinks", {})
+        pinned = (dl.get("apkInfo") or {}).get("signatureSha1")
+        apk = pick_trusted_apk(meta, pinned)
 
         if apk:
             found += 1
             dl["load1"] = apk["path"]
             dl["load2"] = apk["path_alt"] if apk["path_alt"] != apk["path"] else None
             dl["apkInfo"] = apk["info"]
+        elif pinned:
+            # Önceden doğrulanmış imzayı kaybetmemek için sadece linkleri kapatıyoruz.
+            dl["load1"] = None
+            dl["load2"] = None
+            dl["apkInfo"] = {"signatureSha1": pinned}
         else:
             dl["load1"] = None
             dl["load2"] = None
