@@ -80,8 +80,17 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/"
                 ],
-                "load1": null,
-                "load2": null
+                "load1": "https://pool.apk.aptoide.com/appupdater/com-tencent-ig-21525-76531991-ac9ba3006c7c1dcdddf320f8e821f9c7.apk",
+                "load2": null,
+                "apkInfo": {
+                    "source": "aptoide",
+                    "store": "appupdater",
+                    "version": "4.6.0",
+                    "versionCode": 21525,
+                    "size": "102.4MB",
+                    "md5": "ac9ba3006c7c1dcdddf320f8e821f9c7",
+                    "obbUrl": "https://pool.obb.aptoide.com/appupdater/main-20920-com-tencent-ig-4caa29cc4c42766a20254cc8591569ab.obb"
+                }
             }
         },
         {
@@ -346,8 +355,17 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/"
                 ],
-                "load1": null,
-                "load2": null
+                "load1": "https://pool.apk.aptoide.com/appupdater/com-fingersoft-hillclimb-756-76370324-87b42d35136f4b3028f46f6e7d67899c.apk",
+                "load2": null,
+                "apkInfo": {
+                    "source": "aptoide",
+                    "store": "appupdater",
+                    "version": "1.67.0",
+                    "versionCode": 756,
+                    "size": "112.2MB",
+                    "md5": "87b42d35136f4b3028f46f6e7d67899c",
+                    "obbUrl": null
+                }
             }
         },
         {
@@ -466,8 +484,17 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/"
                 ],
-                "load1": null,
-                "load2": null
+                "load1": "https://pool.apk.aptoide.com/superpocket/me-pou-app-285-75092089-d7ba868f675d4b79705006583d12ef2c.apk",
+                "load2": null,
+                "apkInfo": {
+                    "source": "aptoide",
+                    "store": "superpocket",
+                    "version": "1.4.136",
+                    "versionCode": 285,
+                    "size": "86.0MB",
+                    "md5": "d7ba868f675d4b79705006583d12ef2c",
+                    "obbUrl": null
+                }
             }
         },
         {
@@ -501,8 +528,17 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/"
                 ],
-                "load1": null,
-                "load2": null
+                "load1": "https://pool.apk.aptoide.com/myfirststore969/com-outfit7-mytalkingangelafree-202601000-75811544-bf674383338131f5832fa6ea5b6747db.apk",
+                "load2": null,
+                "apkInfo": {
+                    "source": "aptoide",
+                    "store": "myfirststore969",
+                    "version": "26.1.0.8119",
+                    "versionCode": 202601000,
+                    "size": "146.2MB",
+                    "md5": "bf674383338131f5832fa6ea5b6747db",
+                    "obbUrl": null
+                }
             }
         },
         {
@@ -587,8 +623,17 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/"
                 ],
-                "load1": null,
-                "load2": null
+                "load1": "https://pool.apk.aptoide.com/superpocket/com-block-juggle-10711-76461642-fb759ba56d8e87a6f3d35485f1ada280.apk",
+                "load2": null,
+                "apkInfo": {
+                    "source": "aptoide",
+                    "store": "superpocket",
+                    "version": "10.7.2",
+                    "versionCode": 10711,
+                    "size": "126.3MB",
+                    "md5": "fb759ba56d8e87a6f3d35485f1ada280",
+                    "obbUrl": null
+                }
             }
         },
         {
@@ -1458,8 +1503,17 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/"
                 ],
-                "load1": null,
-                "load2": null
+                "load1": "https://pool.apk.aptoide.com/superpocket/com-fungames-blockcraft-6711-76545423-1dc1e5e7c82500c5065e7fce92f29a36.apk",
+                "load2": null,
+                "apkInfo": {
+                    "source": "aptoide",
+                    "store": "superpocket",
+                    "version": "4.4.3",
+                    "versionCode": 6711,
+                    "size": "122.8MB",
+                    "md5": "1dc1e5e7c82500c5065e7fce92f29a36",
+                    "obbUrl": null
+                }
             }
         },
         {
@@ -1532,8 +1586,17 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/"
                 ],
-                "load1": null,
-                "load2": null
+                "load1": "https://pool.apk.aptoide.com/appupdater/air-com-hypah-io-slither-3006000-73484022-b842f2b3a9ae0b355e300df913cc2e0e.apk",
+                "load2": null,
+                "apkInfo": {
+                    "source": "aptoide",
+                    "store": "appupdater",
+                    "version": "3.06",
+                    "versionCode": 3006000,
+                    "size": "78.9MB",
+                    "md5": "b842f2b3a9ae0b355e300df913cc2e0e",
+                    "obbUrl": null
+                }
             }
         },
         {
@@ -1574,8 +1637,17 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/"
                 ],
-                "load1": null,
-                "load2": null
+                "load1": "https://pool.apk.aptoide.com/superpocket/com-skgames-trafficrider-902-73877845-8e1d05065428f704ad36155c37f19482.apk",
+                "load2": null,
+                "apkInfo": {
+                    "source": "aptoide",
+                    "store": "superpocket",
+                    "version": "2.11",
+                    "versionCode": 902,
+                    "size": "178.4MB",
+                    "md5": "8e1d05065428f704ad36155c37f19482",
+                    "obbUrl": null
+                }
             }
         },
         {
@@ -1657,8 +1729,17 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/"
                 ],
-                "load1": null,
-                "load2": null
+                "load1": "https://pool.apk.aptoide.com/superpocket/net-mobigame-zombietsunami-223-74303289-9290366f5dd9a09ce66bfff9bd9ab95e.apk",
+                "load2": null,
+                "apkInfo": {
+                    "source": "aptoide",
+                    "store": "superpocket",
+                    "version": "4.7.2",
+                    "versionCode": 223,
+                    "size": "102.4MB",
+                    "md5": "9290366f5dd9a09ce66bfff9bd9ab95e",
+                    "obbUrl": null
+                }
             }
         },
         {
@@ -1769,8 +1850,17 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/"
                 ],
-                "load1": null,
-                "load2": null
+                "load1": "https://pool.apk.aptoide.com/appupdater/com-fingersoft-benjibananas-1498-72947424-30159b4680be1a9011e573b9e46ad123.apk",
+                "load2": null,
+                "apkInfo": {
+                    "source": "aptoide",
+                    "store": "appupdater",
+                    "version": "1.73",
+                    "versionCode": 1498,
+                    "size": "86.0MB",
+                    "md5": "30159b4680be1a9011e573b9e46ad123",
+                    "obbUrl": null
+                }
             }
         },
         {
@@ -1812,8 +1902,17 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/"
                 ],
-                "load1": null,
-                "load2": null
+                "load1": "https://pool.apk.aptoide.com/appupdater/com-ea-games-r3-row-14001-72603069-362e3f0ad1dca6c595ae1d2c50a30bb9.apk",
+                "load2": null,
+                "apkInfo": {
+                    "source": "aptoide",
+                    "store": "appupdater",
+                    "version": "14.0.1",
+                    "versionCode": 14001,
+                    "size": "100.3MB",
+                    "md5": "362e3f0ad1dca6c595ae1d2c50a30bb9",
+                    "obbUrl": null
+                }
             }
         },
         {
@@ -1932,8 +2031,17 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/"
                 ],
-                "load1": null,
-                "load2": null
+                "load1": "https://pool.apk.aptoide.com/appsfromraccoon/com-ea-game-simpsons4-row-695-73902436-7f32da8451c8c9528362a8b5add7744d.apk",
+                "load2": null,
+                "apkInfo": {
+                    "source": "aptoide",
+                    "store": "appsfromraccoon",
+                    "version": "4.69.5",
+                    "versionCode": 695,
+                    "size": "77.2MB",
+                    "md5": "7f32da8451c8c9528362a8b5add7744d",
+                    "obbUrl": null
+                }
             }
         },
         {
@@ -1970,8 +2078,17 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/"
                 ],
-                "load1": null,
-                "load2": null
+                "load1": "https://pool.apk.aptoide.com/appupdater/com-ffgames-racingincar-155-67877599-c206f0625384199ec486a8c46342df07.apk",
+                "load2": null,
+                "apkInfo": {
+                    "source": "aptoide",
+                    "store": "appupdater",
+                    "version": "1.5",
+                    "versionCode": 155,
+                    "size": "68.8MB",
+                    "md5": "c206f0625384199ec486a8c46342df07",
+                    "obbUrl": null
+                }
             }
         },
         {
@@ -2012,8 +2129,17 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/"
                 ],
-                "load1": null,
-                "load2": null
+                "load1": "https://pool.apk.aptoide.com/abapps123/com-bestcoolfungames-antsmasher-10010427-70953588-4b1d220b2e87d1f1b915c8f33ed7a527.apk",
+                "load2": null,
+                "apkInfo": {
+                    "source": "aptoide",
+                    "store": "abapps123",
+                    "version": "9.83",
+                    "versionCode": 10010427,
+                    "size": "23.8MB",
+                    "md5": "4b1d220b2e87d1f1b915c8f33ed7a527",
+                    "obbUrl": null
+                }
             }
         },
         {
@@ -2053,8 +2179,17 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/"
                 ],
-                "load1": null,
-                "load2": null
+                "load1": "https://pool.apk.aptoide.com/superpocket/com-bubadu-bubbu-155-74170139-e136c821188aabebbb7164e916cba0c2.apk",
+                "load2": null,
+                "apkInfo": {
+                    "source": "aptoide",
+                    "store": "superpocket",
+                    "version": "1.155",
+                    "versionCode": 155,
+                    "size": "139.6MB",
+                    "md5": "e136c821188aabebbb7164e916cba0c2",
+                    "obbUrl": null
+                }
             }
         },
         {
@@ -2607,8 +2742,17 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/"
                 ],
-                "load1": null,
-                "load2": null
+                "load1": "https://pool.apk.aptoide.com/blacknwhitekid/com-vitastudio-mahjong-1842-76368727-cca5a41ede1128ae905b5380faa7c604.apk",
+                "load2": null,
+                "apkInfo": {
+                    "source": "aptoide",
+                    "store": "blacknwhitekid",
+                    "version": "3.34.1",
+                    "versionCode": 1842,
+                    "size": "207.6MB",
+                    "md5": "cca5a41ede1128ae905b5380faa7c604",
+                    "obbUrl": null
+                }
             }
         },
         {
@@ -2848,8 +2992,17 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/"
                 ],
-                "load1": null,
-                "load2": null
+                "load1": "https://pool.apk.aptoide.com/superpocket/com-jindoblu-offlinegames-3295-76542261-bc7e7c3dca543e3280097c9e804cf2b6.apk",
+                "load2": null,
+                "apkInfo": {
+                    "source": "aptoide",
+                    "store": "superpocket",
+                    "version": "3.15.2",
+                    "versionCode": 3295,
+                    "size": "156.9MB",
+                    "md5": "bc7e7c3dca543e3280097c9e804cf2b6",
+                    "obbUrl": null
+                }
             }
         },
         {
@@ -3041,8 +3194,17 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/"
                 ],
-                "load1": null,
-                "load2": null
+                "load1": "https://pool.apk.aptoide.com/superpocket/com-gamovation-tileclub-229-73873783-497cac28ed23469d3866e11dd28aee90.apk",
+                "load2": null,
+                "apkInfo": {
+                    "source": "aptoide",
+                    "store": "superpocket",
+                    "version": "3.3.2",
+                    "versionCode": 229,
+                    "size": "113.6MB",
+                    "md5": "497cac28ed23469d3866e11dd28aee90",
+                    "obbUrl": null
+                }
             }
         },
         {
@@ -3499,8 +3661,17 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/"
                 ],
-                "load1": null,
-                "load2": null
+                "load1": "https://pool.apk.aptoide.com/superpocket/com-kayac-level-up-number-2030705-74872415-3cc810065f84c5330fe48d925083c9fb.apk",
+                "load2": null,
+                "apkInfo": {
+                    "source": "aptoide",
+                    "store": "superpocket",
+                    "version": "2.3.8",
+                    "versionCode": 2030705,
+                    "size": "80.6MB",
+                    "md5": "3cc810065f84c5330fe48d925083c9fb",
+                    "obbUrl": null
+                }
             }
         },
         {
