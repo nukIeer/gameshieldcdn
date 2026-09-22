@@ -12,7 +12,7 @@ from PIL import Image, ImageFilter, ImageOps
 from update_apks import fetch_meta, pick_trusted_apk
 
 CDN_BASE_URL = "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games"
-WEBPAGE_URL = "https://game-guard-three.vercel.app/"
+WEBPAGE_URL = "https://game-guard-three.vercel.app/game/{id}"
 GAMES_JSON_PATH = "games.json"
 MAX_SCREENSHOTS = 8
 
@@ -248,7 +248,7 @@ def build_play_entry(game_id: str, package: str) -> Optional[dict]:
         "downloadLinks": {
             "playStoreUrl": f"https://play.google.com/store/apps/details?id={package}",
             "galaxyStoreUrl": f"https://galaxystore.samsung.com/detail/{package}",
-            "webpage": [WEBPAGE_URL],
+            "webpage": [WEBPAGE_URL.format(id=game_id)],
             "load1": None,
             "load2": None,
         },
@@ -292,7 +292,7 @@ def build_delisted_entry(game_id: str, package: str, title: str, description: st
         "downloadLinks": {
             "playStoreUrl": None,
             "galaxyStoreUrl": None,
-            "webpage": [WEBPAGE_URL],
+            "webpage": [WEBPAGE_URL.format(id=game_id)],
             "load1": None,
             "load2": None,
         },

@@ -38,9 +38,10 @@ games/<oyun-id>/
     "playStoreUrl": "...",          // Play Store'dan kalkmis oyunlarda null
     "galaxyStoreUrl": "...",
     "pcStoreUrls": ["..."],         // Winlator oyunlarinin resmi magazalari (Steam, Epic...)
-    "webpage": ["..."],
+    "webpage": ["https://game-guard-three.vercel.app/game/<oyun-id>"],
     "load1": "...",                 // dogrulanmis APK / dosya linki veya null
-    "load2": null,
+    "load2": null,                  // Winlator oyunlarinda Winlator APK'si
+    "apk1": "...", "apk2": null,    // load1/load2'nin kopyasi; web sitesi bu alanlari okuyor
     "apkInfo": { "source": "aptoide|github", "version": "...", "size": "...", "md5": "...",
                  "signatureSha1": "...", "signer": "...", "obbUrl": null }
   }
@@ -66,6 +67,7 @@ Ucretli oyunlarin dosyalari **asla** eklenmez, sadece resmi magaza linkleri veri
 |---|---|
 | `update_apks.py` | Her gun GitHub Actions ile calisir. Aptoide'den sadece TRUSTED, orijinal imzali APK'lari kabul eder (yeniden imzalanmis/modlu APK'lar ve `superpocket` gibi magazalar engelli, imza SHA1'i sabitlenir). `apkInfo.source == "github"` olanlari GitHub Releases'tan gunceller. |
 | `add_playstore_games.py` | Play Store'dan oyun bilgisi/gorsel ceker; Play'den kalkmis klasikleri Aptoide'den orijinal imzayla ekler; kalkmis oyunlarin Play linkini temizler. |
+| `enrich_details.py` | Eksik puan/indirme/boyut/Android surumunu Play Store, Aptoide, Steam ve GitHub'dan doldurur (gunluk workflow'da da calisir). Veri yoksa uydurmaz. |
 | `add_special_games.py` | Winlator ile oynanan oyunlari ve GitHub'dan resmi APK'si olan acik kaynak oyunlari ekler. |
 
 Kurulum: `python -m pip install requests google-play-scraper pillow`

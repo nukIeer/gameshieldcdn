@@ -39,7 +39,7 @@ def pc_entry(game_id: str, title: str, description: str, media: dict, version: s
         "playStoreUrl": None,
         "galaxyStoreUrl": None,
         "pcStoreUrls": store_urls,
-        "webpage": [webpage],
+        "webpage": [WEBPAGE_URL.format(id=game_id)],
         "load1": load1,
         "load2": None,
     }
@@ -190,7 +190,7 @@ def build_osu() -> Optional[dict]:
         "downloadLinks": {
             "playStoreUrl": None,
             "galaxyStoreUrl": None,
-            "webpage": ["https://osu.ppy.sh/"],
+            "webpage": [WEBPAGE_URL.format(id="osu")],
             "load1": gh["path"],
             "load2": None,
             "apkInfo": gh["info"],

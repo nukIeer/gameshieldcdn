@@ -161,6 +161,12 @@ def main() -> None:
         if winlator_url and "winlator" in (game.get("requires") or []):
             game["downloadLinks"]["load2"] = winlator_url
 
+    # Web sitesi (game-guard) indirme linki olarak apk1/apk2 alanlarını okuyor.
+    for game in games:
+        dl = game.setdefault("downloadLinks", {})
+        dl["apk1"] = dl.get("load1")
+        dl["apk2"] = dl.get("load2")
+
     with open(GAMES_JSON_PATH, "w", encoding="utf-8") as fh:
         json.dump(data, fh, ensure_ascii=False, indent=4)
         fh.write("\n")
