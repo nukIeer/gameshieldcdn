@@ -7,7 +7,7 @@ from typing import Dict, List, Optional, Tuple
 import requests
 from google_play_scraper import app as play_app
 from google_play_scraper.exceptions import NotFoundError
-from PIL import Image, ImageFilter
+from PIL import Image, ImageFilter, ImageOps
 
 from update_apks import fetch_meta, pick_trusted_apk
 
@@ -158,7 +158,10 @@ def fetch_image(url: Optional[str]) -> Optional[Image.Image]:
     try:
         r = requests.get(url, timeout=30)
         r.raise_for_status()
-        return Image.open(io.BytesIO(r.content)).convert("RGB")
+        img = Image.open(io.BytesIO(r.content)).convert("RGBA")
+        # Şeffaf alanlar siyah yerine beyaz olsun.
+        bg = Image.new("RGBA", img.size, (255, 255, 255, 255))
+        return Image.alpha_composite(bg, img).convert("RGB")
     except Exception as e:
         print(f"  ! gorsel indirilemedi: {e}")
         return None
@@ -182,8 +185,8 @@ def save_media(game_id: str, icon_url: str, banner_url: Optional[str], shot_urls
     banner = fetch_image(banner_url) or banner_from_icon(icon)
 
     os.makedirs(shots_dir, exist_ok=True)
-    icon.resize((512, 512), Image.LANCZOS).save(os.path.join(game_dir, "icon.png"), "PNG", optimize=True)
-    banner.resize((1024, 500), Image.LANCZOS).save(os.path.join(game_dir, "banner.png"), "PNG", optimize=True)
+    ImageOps.fit(icon, (512, 512), Image.LANCZOS).save(os.path.join(game_dir, "icon.png"), "PNG", optimize=True)
+    ImageOps.fit(banner, (1024, 500), Image.LANCZOS).save(os.path.join(game_dir, "banner.png"), "PNG", optimize=True)
 
     shots = []
     for url in shot_urls[:MAX_SCREENSHOTS]:
