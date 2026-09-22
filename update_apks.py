@@ -1,4 +1,5 @@
 import json
+import re
 import time
 from concurrent.futures import ThreadPoolExecutor
 from typing import Optional
@@ -82,19 +83,20 @@ def pick_trusted_apk(meta: Optional[dict], pinned_sha1: Optional[str]) -> Option
     }
 
 
-def fetch_github_apk(repo: str) -> Optional[dict]:
-    """Açık kaynak uygulamalar (ör. Winlator) için GitHub'daki son sürümün APK'sını bulur."""
+def fetch_github_apk(repo: str, asset_pattern: str = r"\.apk$") -> Optional[dict]:
+    """Açık kaynak uygulamalar (ör. Winlator) için GitHub'daki son sürümün dosyasını bulur."""
     res = requests.get(f"https://api.github.com/repos/{repo}/releases/latest", timeout=20)
     if res.status_code != 200:
         return None
     release = res.json()
     for asset in release.get("assets", []):
-        if asset.get("name", "").endswith(".apk"):
+        if re.search(asset_pattern, asset.get("name", "")):
             return {
                 "path": asset["browser_download_url"],
                 "info": {
                     "source": "github",
                     "repo": repo,
+                    "assetPattern": asset_pattern,
                     "version": release.get("tag_name", "").lstrip("v"),
                     "size": f"{round(asset.get('size', 0) / (1024 * 1024), 1)}MB",
                 },
@@ -122,12 +124,16 @@ def main() -> None:
     for game, meta in zip(games, metas):
         dl = game.setdefault("downloadLinks", {})
         if is_github(game):
-            gh_apk = fetch_github_apk(dl["apkInfo"]["repo"])
+            info = dl["apkInfo"]
+            gh_apk = fetch_github_apk(info["repo"], info.get("assetPattern") or r"\.apk$")
             if gh_apk:
                 found += 1
                 dl["load1"] = gh_apk["path"]
                 dl["apkInfo"] = gh_apk["info"]
                 game.setdefault("details", {})["version"] = gh_apk["info"]["version"]
+            continue
+        if game.get("platform") == "windows":
+            # PC oyunlarının linkleri elle yönetilir, Aptoide'de aranmaz.
             continue
 
         pinned = (dl.get("apkInfo") or {}).get("signatureSha1")

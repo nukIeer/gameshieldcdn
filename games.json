@@ -5617,8 +5617,227 @@
                 "apkInfo": {
                     "source": "github",
                     "repo": "brunodev85/winlator",
+                    "assetPattern": "\\.apk$",
                     "version": "11.2.0",
                     "size": "150.3MB"
+                }
+            }
+        },
+        {
+            "id": "gta5",
+            "title": "Grand Theft Auto V (PC)",
+            "package": null,
+            "platform": "windows",
+            "requires": [
+                "winlator"
+            ],
+            "details": {
+                "downloads": "N/A",
+                "rating": 0,
+                "size": "N/A",
+                "ageRating": "PEGI-18",
+                "androidVersion": "N/A",
+                "version": "Enhanced / Legacy",
+                "isFree": false
+            },
+            "description": "Explore Los Santos and Blaine County in Rockstar's open-world classic. This is the PC version and runs on Android through Winlator. The game is NOT included: you must buy it on Steam, Epic Games or the Rockstar Store and download it with your own account.\n\nHow to play on Android:\n1. Install Winlator (listed in this market).\n2. Buy the game and copy the installed game folder to your phone.\n3. In Winlator, create a container, open the game folder from the file manager and run the .exe.\n\nPerformance: GTA V is a heavy game. It only runs on high-end phones (Snapdragon 8 Gen 2 or newer recommended) at low settings. The \"Legacy\" edition that comes with your purchase uses DirectX 11 and works better in Winlator than the \"Enhanced\" edition. GTA Online does not work because of its anti-cheat.",
+            "whatsNew": "",
+            "media": {
+                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/gta5/icon.png",
+                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/gta5/banner.png",
+                "screenshots": [
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/gta5/screenshots/1.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/gta5/screenshots/2.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/gta5/screenshots/3.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/gta5/screenshots/4.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/gta5/screenshots/5.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/gta5/screenshots/6.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/gta5/screenshots/7.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/gta5/screenshots/8.jpg"
+                ]
+            },
+            "downloadLinks": {
+                "playStoreUrl": null,
+                "galaxyStoreUrl": null,
+                "pcStoreUrls": [
+                    "https://store.steampowered.com/app/3240220/",
+                    "https://store.epicgames.com/p/grand-theft-auto-v",
+                    "https://store.rockstargames.com/game/buy-gta-v"
+                ],
+                "webpage": [
+                    "https://store.steampowered.com/app/3240220/"
+                ],
+                "load1": null,
+                "load2": null
+            }
+        },
+        {
+            "id": "teeworlds",
+            "title": "Teeworlds (PC)",
+            "package": null,
+            "platform": "windows",
+            "requires": [
+                "winlator"
+            ],
+            "details": {
+                "downloads": "N/A",
+                "rating": 0,
+                "size": "9.8MB",
+                "ageRating": "PEGI-7",
+                "androidVersion": "N/A",
+                "version": "0.7.5",
+                "isFree": true
+            },
+            "description": "A free, open-source online multiplayer shooter with cute 2D characters. Grapple across maps, play deathmatch or capture the flag with players around the world.\n\nHow to play on Android:\n1. Install Winlator (listed in this market).\n2. Download the Windows zip below and extract it on your phone.\n3. In Winlator, create a container, open the game folder from the file manager and run the .exe.",
+            "whatsNew": "",
+            "media": {
+                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/teeworlds/icon.png",
+                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/teeworlds/banner.png",
+                "screenshots": [
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/teeworlds/screenshots/1.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/teeworlds/screenshots/2.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/teeworlds/screenshots/3.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/teeworlds/screenshots/4.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/teeworlds/screenshots/5.jpg"
+                ]
+            },
+            "downloadLinks": {
+                "playStoreUrl": null,
+                "galaxyStoreUrl": null,
+                "pcStoreUrls": [
+                    "https://store.steampowered.com/app/380840/"
+                ],
+                "webpage": [
+                    "https://teeworlds.com/"
+                ],
+                "load1": "https://github.com/teeworlds/teeworlds/releases/download/0.7.5/teeworlds-0.7.5-win64.zip",
+                "load2": null,
+                "apkInfo": {
+                    "source": "github",
+                    "repo": "teeworlds/teeworlds",
+                    "assetPattern": "win64\\.zip$",
+                    "version": "0.7.5",
+                    "size": "9.8MB"
+                }
+            }
+        },
+        {
+            "id": "spelunkyclassic",
+            "title": "Spelunky Classic (PC)",
+            "package": null,
+            "platform": "windows",
+            "requires": [
+                "winlator"
+            ],
+            "details": {
+                "downloads": "N/A",
+                "rating": 0,
+                "size": "N/A",
+                "ageRating": "PEGI-7",
+                "androidVersion": "N/A",
+                "version": "1.1",
+                "isFree": true
+            },
+            "description": "The original 2008 freeware Spelunky by Derek Yu. Explore randomly generated caves, grab treasure, rescue damsels and avoid deadly traps. Released for free by its creator.\n\nHow to play on Android:\n1. Install Winlator (listed in this market).\n2. Download the zip below and extract it on your phone.\n3. In Winlator, create a container, open the game folder from the file manager and run the .exe.",
+            "whatsNew": "",
+            "media": {
+                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/spelunkyclassic/icon.png",
+                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/spelunkyclassic/banner.png",
+                "screenshots": [
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/spelunkyclassic/screenshots/1.jpg"
+                ]
+            },
+            "downloadLinks": {
+                "playStoreUrl": null,
+                "galaxyStoreUrl": null,
+                "pcStoreUrls": [],
+                "webpage": [
+                    "https://spelunkyworld.com/original.html"
+                ],
+                "load1": "https://www.derekyu.com/games/spelunky_1_1.zip",
+                "load2": null
+            }
+        },
+        {
+            "id": "shatteredpd",
+            "title": "Shattered Pixel Dungeon",
+            "package": "com.shatteredpixel.shatteredpixeldungeon",
+            "details": {
+                "downloads": "5M+",
+                "rating": 4.82,
+                "size": "28.9MB",
+                "ageRating": "PEGI-7",
+                "androidVersion": "N/A",
+                "version": "4.0.0",
+                "isFree": true
+            },
+            "description": "<b>Shattered Pixel Dungeon</b> is a traditional roguelike dungeon crawler RPG that's simple to get into but hard to master! Every game is a unique challenge, with six different heroes, randomized levels and enemies, and hundreds of items to collect and use. ShatteredPD is also updated with new content roughly every three months, so there's always something new.\r\n\r\n<h2><b><u>Choose Your Hero</u></b></h2>\r\nEach of ShatteredPD's six playable heroes has their own unique mechanics and gameplay style. Cut down foes as the durable Warrior or deadly Duelist, fry your enemies as the arcane Mage or divine Cleric, or use terrain to your advantage as the stealthy Rogue or the markswoman Huntress!\r\n\r\nAs you progress through the dungeon you'll earn points to spend on talents, choose a subclass, and gain powerful lategame abilities. You can turn the Duelist into a dual-wielding Champion, the Cleric into a righteous Paladin, the Huntress into a precise Sniper, or explore loads of other possibilities!\r\n\r\n<h2><b><u>Explore the Dungeon</u></b></h2>\r\nShatteredPD's dungeon is procedurally generated with random layouts, room types, items, traps, and enemies. In each game you'll find equipment and collect or craft consumable items to power you up or help you out in a pinch. There is a huge variety to what you might see from run to run and region to region.\r\n\r\nAs you progress through the dungeon you'll find equipment that can be enchanted, upgraded, and augmented as you outfit your hero. Set foes ablaze with an enchanted weapon, wade through enemies with upgraded armor, or gain powerful damage, defensive, or utility benefits from one of the many magical wands, rings, artifacts, or trinkets.\r\n\r\n<h2><b><u>Succeed or Die Trying</u></b></h2>\r\nThe Dungeon is filled with enemies, traps, hazards, and bosses intent on ending your run! Battle hostile wildlife in the sewers and caves, mad thieves and guards in the prison, occult servants in the fallen dwarven city, and maybe something even worse further down...\r\n\r\nAll these hazards can make the game quite tough, but don't be discouraged! You probably won't win on your first try, but there are many tricks and strategies to discover and learn on the path to getting your first win. Afterward, there are optional challenges and achivements if you want to put your skills to the test!\r\n\r\n<h2><b><u>Over A Decade in the Making</u></b></h2>\r\nShattered Pixel Dungeon is an open source game based on the source code of Pixel Dungeon by Watabou (first released in late 2012). It started in 2014 as a project to rebalance Pixel Dungeon but has steadily grown into its own game over the last 10 years!\r\n\r\n<b>Features Include:</b>\r\n• 6 Heroes, each with 2 subclasses, 3 endgame abilities, and over 25 talents.\r\n• Over 300 items including equipment, consumables, and items crafted via alchemy.\r\n• 5 dungeon regions, 26 floors, over 100 room types, and trillions of possible floor layouts.\r\n• Over 60 regular enemy types, 30 traps, and 10 bosses to test your skills.\r\n• An in-game catalog to fill in, with just over 500 entries.\r\n• 9 stackable challenges and over 100 achievements for completionists.\r\n• Interface modes for large and small screens, and support for multiple input types.\r\n• Updates roughly every 3 months with new content, fixes, and improvements.\r\n• Support for many languages thanks to the game's dedicated communities.",
+            "whatsNew": "",
+            "media": {
+                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/shatteredpd/icon.png",
+                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/shatteredpd/banner.png",
+                "screenshots": [
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/shatteredpd/screenshots/1.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/shatteredpd/screenshots/2.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/shatteredpd/screenshots/3.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/shatteredpd/screenshots/4.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/shatteredpd/screenshots/5.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/shatteredpd/screenshots/6.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/shatteredpd/screenshots/7.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/shatteredpd/screenshots/8.jpg"
+                ]
+            },
+            "downloadLinks": {
+                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon",
+                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.shatteredpixel.shatteredpixeldungeon",
+                "webpage": [
+                    "https://game-guard-three.vercel.app/"
+                ],
+                "load1": "https://github.com/00-Evan/shattered-pixel-dungeon/releases/download/v4.0.0/ShatteredPD-v4.0.0-Android.apk",
+                "load2": null,
+                "apkInfo": {
+                    "source": "github",
+                    "repo": "00-Evan/shattered-pixel-dungeon",
+                    "assetPattern": "-Android\\.apk$",
+                    "version": "4.0.0",
+                    "size": "28.9MB"
+                }
+            }
+        },
+        {
+            "id": "osu",
+            "title": "osu!",
+            "package": "sh.ppy.osulazer",
+            "details": {
+                "downloads": "N/A",
+                "rating": 0,
+                "size": "489.4MB",
+                "ageRating": "PEGI-3",
+                "androidVersion": "N/A",
+                "version": "2026.921.0-lazer",
+                "isFree": true
+            },
+            "description": "The official open-source rhythm game osu! (lazer). Click circles, follow sliders and spin to the beat of thousands of community-made beatmaps. Android builds are published by the osu! team on GitHub.",
+            "whatsNew": "",
+            "media": {
+                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/osu/icon.png",
+                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/osu/banner.png",
+                "screenshots": []
+            },
+            "downloadLinks": {
+                "playStoreUrl": null,
+                "galaxyStoreUrl": null,
+                "webpage": [
+                    "https://osu.ppy.sh/"
+                ],
+                "load1": "https://github.com/ppy/osu/releases/download/2026.921.0-lazer/sh.ppy.osulazer.apk",
+                "load2": null,
+                "apkInfo": {
+                    "source": "github",
+                    "repo": "ppy/osu",
+                    "assetPattern": "\\.apk$",
+                    "version": "2026.921.0-lazer",
+                    "size": "489.4MB"
                 }
             }
         }
