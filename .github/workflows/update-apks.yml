@@ -34,8 +34,12 @@ jobs:
           git add games.json
           git commit -m "APK linklerini guncelle"
           git push
+          # Uygulama @main adresini okuyor; main'i master ile ayni tut.
+          git push origin HEAD:main
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
       - name: jsDelivr onbellegini temizle
         if: steps.commit.outputs.changed == 'true'
-        run: curl -fsS "https://purge.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games.json"
+        run: |
+          curl -fsS "https://purge.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games.json"
+          curl -fsS "https://purge.jsdelivr.net/gh/nukIeer/gameshieldcdn@main/games.json"

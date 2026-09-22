@@ -1,0 +1,23 @@
+name: main'i master ile esitle
+
+# Uygulama @main adresini okuyor; master'a gelen her degisiklik main'e de gider.
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - run: git push origin HEAD:main
+
+      - name: jsDelivr onbellegini temizle
+        run: curl -fsS "https://purge.jsdelivr.net/gh/nukIeer/gameshieldcdn@main/games.json"
