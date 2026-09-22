@@ -18,9 +18,11 @@ jobs:
         with:
           python-version: "3.12"
 
-      - run: pip install requests
+      - run: pip install requests google-play-scraper pillow
 
       - run: python update_apks.py
+
+      - run: python enrich_details.py
 
       - name: Degisiklik varsa commit + push
         id: commit
