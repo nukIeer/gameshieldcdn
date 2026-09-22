@@ -52,10 +52,11 @@ games/<oyun-id>/
 Winlator bir Android APK'sidir; `requires: ["winlator"]` olan oyunlar telefonda onun icinde calisir.
 Bu kayitlarda uygulama:
 
-1. Karta "Winlator gerekli" rozeti koyar.
-2. Cihazda `com.winlator` kurulu degilse once `winlator` kaydinin `load1` linkini acar.
-3. Kuruluysa oyunun `load1` dosyasini indirir; `load1` yoksa (ucretli oyun, orn. GTA V)
-   `pcStoreUrls` icindeki resmi magazaya yonlendirir. Kullanici oyunu kendi hesabiyla alip Winlator'da acar.
+- `load1`: oyunun kendisi (ucretsizse dosya, ucretliyse resmi magaza sayfasi; orn. GTA V -> Steam)
+- `load2`: Winlator APK'si. `update_apks.py` her gun Winlator'in guncel linkini buraya yazar.
+
+Kullanici once 2. linkten Winlator'i kurar, sonra 1. linkten oyunu alip Winlator'da acar.
+Ucretli oyunlarda kullanici oyunu kendi hesabiyla satin alir.
 
 Ucretli oyunlarin dosyalari **asla** eklenmez, sadece resmi magaza linkleri verilir.
 

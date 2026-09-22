@@ -4,7 +4,8 @@
     "requires": ["winlator"]        -> Winlator APK'sı içinde çalışır; uygulama "Winlator gerekli"
                                        rozeti gösterir ve önce bu id'li kaydı (Winlator) kurdurur
     downloadLinks.pcStoreUrls       -> ücretli oyunlar için resmi mağaza linkleri (dosya yok)
-    downloadLinks.load1             -> sadece yasal olarak ücretsiz dağıtılan oyunlarda dosya linki
+    downloadLinks.load1             -> oyun dosyası (ücretsizse) ya da resmi mağaza sayfası (ücretliyse)
+    downloadLinks.load2             -> Winlator APK'sı (update_apks.py her gün senkronlar)
 """
 import json
 import os
@@ -91,7 +92,7 @@ def build_gta5() -> dict:
         "Enhanced / Legacy",
         False,
         "PEGI-18",
-        None,
+        "https://store.steampowered.com/app/3240220/",
         [
             "https://store.steampowered.com/app/3240220/",
             "https://store.epicgames.com/p/grand-theft-auto-v",

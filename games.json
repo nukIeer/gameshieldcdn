@@ -5666,8 +5666,8 @@
                 "webpage": [
                     "https://store.steampowered.com/app/3240220/"
                 ],
-                "load1": null,
-                "load2": null
+                "load1": "https://store.steampowered.com/app/3240220/",
+                "load2": "https://github.com/brunodev85/winlator/releases/download/v11.2.0/Winlator_11.2.apk"
             }
         },
         {
@@ -5709,7 +5709,7 @@
                     "https://teeworlds.com/"
                 ],
                 "load1": "https://github.com/teeworlds/teeworlds/releases/download/0.7.5/teeworlds-0.7.5-win64.zip",
-                "load2": null,
+                "load2": "https://github.com/brunodev85/winlator/releases/download/v11.2.0/Winlator_11.2.apk",
                 "apkInfo": {
                     "source": "github",
                     "repo": "teeworlds/teeworlds",
@@ -5752,7 +5752,7 @@
                     "https://spelunkyworld.com/original.html"
                 ],
                 "load1": "https://www.derekyu.com/games/spelunky_1_1.zip",
-                "load2": null
+                "load2": "https://github.com/brunodev85/winlator/releases/download/v11.2.0/Winlator_11.2.apk"
             }
         },
         {

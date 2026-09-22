@@ -154,6 +154,13 @@ def main() -> None:
             dl["load2"] = None
             dl.pop("apkInfo", None)
 
+    # Winlator gerektiren oyunlarda ikinci link (load2) her zaman Winlator'ın güncel APK'sıdır.
+    winlator = next((g for g in games if g.get("id") == "winlator"), None)
+    winlator_url = ((winlator or {}).get("downloadLinks") or {}).get("load1")
+    for game in games:
+        if winlator_url and "winlator" in (game.get("requires") or []):
+            game["downloadLinks"]["load2"] = winlator_url
+
     with open(GAMES_JSON_PATH, "w", encoding="utf-8") as fh:
         json.dump(data, fh, ensure_ascii=False, indent=4)
         fh.write("\n")
