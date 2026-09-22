@@ -24,6 +24,8 @@ jobs:
 
       - run: python enrich_details.py
 
+      - run: python reorder_games.py
+
       - name: Degisiklik varsa commit + push
         id: commit
         run: |
