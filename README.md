@@ -68,6 +68,7 @@ Ucretli oyunlarin dosyalari **asla** eklenmez, sadece resmi magaza linkleri veri
 | `update_apks.py` | Her gun GitHub Actions ile calisir. Aptoide'den sadece TRUSTED, orijinal imzali APK'lari kabul eder (yeniden imzalanmis/modlu APK'lar ve `superpocket` gibi magazalar engelli, imza SHA1'i sabitlenir). `apkInfo.source == "github"` olanlari GitHub Releases'tan gunceller. |
 | `add_playstore_games.py` | Play Store'dan oyun bilgisi/gorsel ceker; Play'den kalkmis klasikleri Aptoide'den orijinal imzayla ekler; kalkmis oyunlarin Play linkini temizler. |
 | `enrich_details.py` | Eksik puan/indirme/boyut/Android surumunu Play Store, Aptoide, Steam ve GitHub'dan doldurur (gunluk workflow'da da calisir). Veri yoksa uydurmaz. |
+| `reorder_games.py` | Liste sirasini belirler: `TOP` vitrin listesi (Roblox, Winlator, GTA V, ...), sonra indirme/puana gore, taklitler en sonda. Yeni oyunu one almak icin `TOP`'a ekle. |
 | `add_special_games.py` | Winlator ile oynanan oyunlari ve GitHub'dan resmi APK'si olan acik kaynak oyunlari ekler. |
 
 Kurulum: `python -m pip install requests google-play-scraper pillow`
