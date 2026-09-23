@@ -10,7 +10,7 @@ import re
 GAMES_JSON_PATH = "games.json"
 
 TOP = [
-    "roblox", "winlator", "gta5", "subwaysurfers", "minecraftpe", "freefire", "supercell", "pubg",
+    "roblox", "winlator", "gta5", "steamlink", "geforcenow", "subwaysurfers", "minecraftpe", "freefire", "supercell", "pubg",
     "gtasanandreas", "among", "clashofclans", "mytalkingtom", "8", "candycrush", "codmobile",
     "clashroyale", "hill", "templerun2", "mobilelegends", "gtavicecity", "pokemongo", "stickman",
     "block", "gamotronix", "carparking", "standoff2", "minionrush", "jetpackjoyride", "fruitninja",
