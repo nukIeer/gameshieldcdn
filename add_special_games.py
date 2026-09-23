@@ -68,12 +68,14 @@ def pc_entry(game_id: str, title: str, description: str, media: dict, version: s
 
 def steam_media(game_id: str, appid: int) -> dict:
     data = steam_details(appid)
-    return save_media(
-        game_id,
-        STEAM_ART.format(appid=appid, name="library_600x900.jpg"),
-        STEAM_ART.format(appid=appid, name="library_hero.jpg"),
-        [s["path_full"] for s in data.get("screenshots", [])],
-    )
+    shots = [s["path_full"] for s in data.get("screenshots", [])]
+    # Eski oyunlarda dikey kapak/hero görseli olmayabiliyor; mağaza başlık görseline düş.
+    for icon, banner in (("library_600x900.jpg", "library_hero.jpg"), ("header.jpg", "header.jpg")):
+        media = save_media(game_id, STEAM_ART.format(appid=appid, name=icon),
+                           STEAM_ART.format(appid=appid, name=banner), shots)
+        if media:
+            return media
+    return None
 
 
 def build_gta5() -> dict:
@@ -198,6 +200,79 @@ def build_osu() -> Optional[dict]:
     }
 
 
+# Winlator'da çalıştığı raporlanan ücretli PC oyunları: sadece resmi mağaza linkleri, dosya yok.
+# (id, steam appid, gog slug ya da None, seviye, GPU, performans notu)
+# Seviye: low = orta sınıf telefon da yeter, mid = Snapdragon 8 Gen 2+, high = Snapdragon 8 Elite + 12GB RAM
+WINLATOR_STORE_GAMES = [
+    ("halflife", 70, None, "low", "adreno", "Stable, light on resources"),
+    ("cod2", 2630, None, "low", "adreno", "Smooth even on budget phones"),
+    ("cod4", 7940, None, "low", "adreno", "Smooth on mid-range phones"),
+    ("cuphead", 268910, "cuphead", "low", "adreno", "Runs excellently, 60 FPS on Snapdragon 8 Gen 3"),
+    ("popsandsoftime", 13600, "prince_of_persia_the_sands_of_time", "low", "both", "Smooth, also on Mali GPUs"),
+    ("dmc4", 329050, None, "low", "both", "Smooth combat, also on Mali GPUs"),
+    ("aoe2", 813780, None, "mid", "adreno", "Works well with touch controls"),
+    ("fallout3", 22370, "fallout_3_game_of_the_year_edition", "mid", "adreno", "30-40 FPS at 800x600"),
+    ("falloutnv", 22380, "fallout_new_vegas_ultimate_edition", "mid", "adreno", "Good performance on newer phones"),
+    ("oblivion", 22330, None, "mid", "adreno", "Playable with the right settings"),
+    ("skyrim", 489830, None, "mid", "adreno", "Stable gameplay"),
+    ("deadspace", 17470, "dead_space", "mid", "adreno", "Solid performance"),
+    ("deadspace2", 47780, None, "mid", "adreno", "Solid performance"),
+    ("acbrotherhood", 48190, None, "mid", "adreno", "Smooth, best with a controller"),
+    ("acrevelations", 201870, None, "mid", "adreno", "Smooth, best with a controller"),
+    ("ac3", 208480, None, "mid", "adreno", "Smooth, best with a controller"),
+    ("acrogue", 311560, None, "mid", "adreno", "Smooth, best with a controller"),
+    ("re5", 21690, None, "mid", "both", "30+ FPS, also on Mali GPUs"),
+    ("burnoutparadise", 1238080, None, "mid", "adreno", "Runs very well"),
+    ("hades", 1145360, None, "mid", "adreno", "Consistent performance"),
+    ("ets2", 227300, None, "mid", "adreno", "Relaxing, runs well"),
+    ("witcher3", 292030, "the_witcher_3_wild_hunt_game_of_the_year_edition", "high", "adreno", "Playable at 720p on Snapdragon 8 Elite"),
+]
+
+TIER_CHIPS = {
+    "low": "Snapdragon 7 series / 8 Gen 1 or better, 6-8GB RAM",
+    "mid": "Snapdragon 8 Gen 2 or better, 8-12GB RAM",
+    "high": "Snapdragon 8 Elite, 12-16GB RAM",
+}
+
+
+def winlator_info(tier: str, gpu: str, note: str) -> dict:
+    """Uygulama/site bu kartı "Hangi telefonda çalışır?" bölümü olarak gösterir."""
+    return {
+        "tier": tier,
+        "minDevice": TIER_CHIPS[tier],
+        "gpu": ["adreno", "mali"] if gpu == "both" else [gpu],
+        "performance": note,
+        "settings": "Turnip + DXVK (Mali: VirGL), 960x544, Box64 preset: Performance",
+    }
+
+
+def build_winlator_store_game(game_id: str, appid: int, gog: Optional[str], tier: str, gpu: str, note: str) -> dict:
+    data = steam_details(appid)
+    steam_url = f"https://store.steampowered.com/app/{appid}/"
+    gog_url = f"https://www.gog.com/en/game/{gog}" if gog else None
+    storage = re.search(r"Storage:</strong>\s*([\d.]+)\s*GB", (data.get("pc_requirements") or {}).get("minimum", "") or "")
+    pegi = ((data.get("ratings") or {}).get("pegi") or {}).get("rating")
+    where = "GOG (DRM-free, works best in Winlator) or Steam" if gog else "Steam"
+
+    entry = pc_entry(
+        game_id,
+        data["name"],
+        (data.get("short_description") or "").strip()
+        + WINLATOR_STEPS.format(step2=f"Buy the game on {where} and copy the installed game folder to your phone.")
+        + f"\n\nPhone needed: {TIER_CHIPS[tier]}. {note}.",
+        steam_media(game_id, appid),
+        "Latest",
+        False,
+        f"PEGI-{pegi}" if pegi else "N/A",
+        gog_url or steam_url,
+        [u for u in (gog_url, steam_url) if u],
+        steam_url,
+    )
+    entry["details"]["size"] = f"{storage.group(1)}GB" if storage else "N/A"
+    entry["winlator"] = winlator_info(tier, gpu, note)
+    return entry
+
+
 def main() -> None:
     with open(GAMES_JSON_PATH, "r", encoding="utf-8") as fh:
         data = json.load(fh)
@@ -213,14 +288,27 @@ def main() -> None:
             "00-Evan/shattered-pixel-dungeon", r"-Android\.apk$"),
         "osu": build_osu,
     }
+    for args in WINLATOR_STORE_GAMES:
+        builders[args[0]] = lambda a=args: build_winlator_store_game(*a)
+
     for game_id, build in builders.items():
         if game_id in ids:
             continue
         print(f"+ {game_id}")
         entry = build()
         if entry:
-            entry["title"] = re.sub(r"\s+", " ", entry["title"]).strip()
+            entry["title"] = re.sub(r"\s+", " ", re.sub(r"[™®]", "", entry["title"])).strip()
             games.append(entry)
+
+    # Önceden eklenmiş Winlator oyunlarının "hangi telefonda çalışır" kartı.
+    existing_info = {
+        "gta5": winlator_info("high", "adreno", "45-60 FPS at 960x544 on Snapdragon 8 Elite"),
+        "teeworlds": winlator_info("low", "both", "Very light, runs on most phones"),
+        "spelunkyclassic": winlator_info("low", "both", "Very light, runs on most phones"),
+    }
+    for g in games:
+        if g["id"] in existing_info and "winlator" not in g:
+            g["winlator"] = existing_info[g["id"]]
 
     with open(GAMES_JSON_PATH, "w", encoding="utf-8") as fh:
         json.dump(data, fh, ensure_ascii=False, indent=4)
