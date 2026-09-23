@@ -2597,20 +2597,12 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/game/mobilelegends"
                 ],
-                "load1": "https://pool.apk.aptoide.com/aptoide-apparena/com-mobile-legends-1211812321-76644434-5b053a803b5aeb77af93f31164c9ce2c.apk",
+                "load1": null,
                 "load2": null,
                 "apkInfo": {
-                    "source": "aptoide",
-                    "store": "aptoide-apparena",
-                    "version": "22.2.16.12321",
-                    "versionCode": 1211812321,
-                    "size": "187.9MB",
-                    "md5": "5b053a803b5aeb77af93f31164c9ce2c",
-                    "signatureSha1": "D6:59:C5:39:7A:8F:2A:5B:6F:34:89:E5:46:A3:89:CA:54:FD:28:FC",
-                    "signer": "C=cn, ST=sh, L=sh, O=mu, OU=mu, CN=mu",
-                    "obbUrl": null
+                    "signatureSha1": "D6:59:C5:39:7A:8F:2A:5B:6F:34:89:E5:46:A3:89:CA:54:FD:28:FC"
                 },
-                "apk1": "https://pool.apk.aptoide.com/aptoide-apparena/com-mobile-legends-1211812321-76644434-5b053a803b5aeb77af93f31164c9ce2c.apk",
+                "apk1": null,
                 "apk2": null
             }
         },
