@@ -106,7 +106,7 @@
                 "version": "Enhanced / Legacy",
                 "isFree": false
             },
-            "description": "Explore Los Santos and Blaine County in Rockstar's open-world classic. It runs on your phone inside the Winlator app. The game is NOT included: you must buy it on Steam, Epic Games or the Rockstar Store and download it with your own account.\n\nHow to play on Android:\n1. Install Winlator (listed in this market).\n2. Buy the game and copy the installed game folder to your phone.\n3. In Winlator, create a container, open the game folder from the file manager and run the .exe.\n\nPerformance: GTA V is a heavy game. It only runs on high-end phones (Snapdragon 8 Gen 2 or newer recommended) at low settings. The \"Legacy\" edition that comes with your purchase uses DirectX 11 and works better in Winlator than the \"Enhanced\" edition. GTA Online does not work because of its anti-cheat.",
+            "description": "Explore Los Santos and Blaine County in Rockstar's open-world classic. It runs on your phone inside the Winlator app. The game is NOT included: you must buy it on Steam, Epic Games or the Rockstar Store and download it with your own account.\n\nHow to play on Android:\n1. Install Winlator (listed in this market).\n2. Buy the game and copy the installed game folder to your phone.\n3. In Winlator, create a container, open the game folder from the file manager and run the .exe.\n\nPerformance: GTA V is a heavy game. It only runs on high-end phones (Snapdragon 8 Gen 2 or newer recommended) at low settings. The \"Legacy\" edition that comes with your purchase uses DirectX 11 and works better in Winlator than the \"Enhanced\" edition. GTA Online does not work because of its anti-cheat.\n\nEasier ways to play the copy you own on your phone: Steam Link streams GTA V from your own PC over Wi-Fi, and GeForce NOW runs it in the cloud with your Steam or Epic account (no download, works on most phones). Both apps are listed in this market.",
             "whatsNew": "",
             "media": {
                 "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/gta5/icon.png",
@@ -138,6 +138,94 @@
                 "apk1": "https://store.steampowered.com/app/3240220/",
                 "apk2": "https://github.com/brunodev85/winlator/releases/download/v11.2.0/Winlator_11.2.apk"
             }
+        },
+        {
+            "id": "steamlink",
+            "title": "Steam Link",
+            "package": "com.valvesoftware.steamlink",
+            "details": {
+                "downloads": "10M+",
+                "rating": 4.04,
+                "size": "Varies with device",
+                "ageRating": "PEGI-3",
+                "androidVersion": "Varies with device",
+                "version": "1.3.32",
+                "isFree": true
+            },
+            "description": "The Steam Link app brings desktop gaming to your Android device. Just pair a Bluetooth controller or Steam Controller to your device, connect to a computer running Steam, and start playing your existing Steam games.\r\n\r\nFor best performance with Android TV:\r\n* Connect your computer using Ethernet to your router\r\n* Connect your Android TV using Ethernet to your router\r\n\r\nFor best performance with tablets and phones:\r\n* Connect your computer using Ethernet to your 5Ghz WiFi router\r\n* Connect your Android device to the 5GHz band of your WiFi network\r\n* Keep your Android device within a reasonable range of your router",
+            "whatsNew": "",
+            "media": {
+                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/steamlink/icon.png",
+                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/steamlink/banner.png",
+                "screenshots": [
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/steamlink/screenshots/1.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/steamlink/screenshots/2.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/steamlink/screenshots/3.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/steamlink/screenshots/4.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/steamlink/screenshots/5.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/steamlink/screenshots/6.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/steamlink/screenshots/7.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/steamlink/screenshots/8.jpg"
+                ]
+            },
+            "downloadLinks": {
+                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink",
+                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.valvesoftware.steamlink",
+                "webpage": [
+                    "https://game-guard-three.vercel.app/game/steamlink"
+                ],
+                "load1": null,
+                "load2": null,
+                "apk1": null,
+                "apk2": null
+            },
+            "tags": [
+                "tools"
+            ]
+        },
+        {
+            "id": "geforcenow",
+            "title": "GeForce NOW Cloud Gaming",
+            "package": "com.nvidia.geforcenow",
+            "details": {
+                "downloads": "10M+",
+                "rating": 2.69,
+                "size": "0.4MB",
+                "ageRating": "N/A",
+                "androidVersion": "4.4+",
+                "version": "Varies with device",
+                "isFree": true
+            },
+            "description": "NVIDIA GeForce NOW™ powered by GAMEPLUS cihazlarınızı güçlü bir oyun donanımına dönüştürür.\r\n\r\nGeForce NOW servisi Türkiye’de GAMEPLUS tarafından sağlanmaktadır. GAMEPLUS, Turkcell’in Türkiye’deki oyuncular için yarattığı bir alt markadır.\r\n\r\nSteam, Epic Games Store, Ubisoft Connect ve EA gibi popüler dijital oyun mağazalarından almış olduğunuz oyunları oynayın. Her Perşembe güncellenen oyun kataloğu ile 1500’den fazla bilgisayar oyununa anında erişin. Oyun kataloğu ayrıca Fortnite, Apex Legends, Destiny 2 gibi en popüler 100’den fazla oynaması ücretsiz oyunu da barındırıyor.  Milyonlarca bilgisayar oyuncusuyla birlikte ve onlara karşı oynayın. Ve oyunları indirmek, yüklemek ve güncellemek için beklemeyin.\r\n\r\n\r\nUygulamayı indirmek servisi kullanmanız için yeterli değildir. GeForce NOW ile oyun oynamak için bir üyeliğe sahip olmanız gerekmektedir.  Bilgisayar oyunculuğuna ücretsiz paketimiz ile adım atın. Veya Premium üyelik edinerek öncelikli erişim, RTX On, yüksek FPS, sunuculara öncelikli erişim ve uzatılmış oturum sürelesi gibi birçok avantajlı özellikle oyun oynamaya başlayın. Üyelik ve servis ile ilgili daha fazla bilgi edinmek için websitemizi ziyaret edin:  https://gameplus.com.tr\r\n\r\n\r\nGeForce NOW uygulaması en az 1 GB bellekli OpenGL ES 2.0 ve Android 5.0 sürümleri destekleyen Android telefon, tablet ve TV’lerde çalışır. GeForce NOW 4GB ve üstü RAM’li çoğu Chromebook’ta çalışır. İdeal bir oyun tecrübesi için en az 15 Mbps internet hızına sahip 5GHz WiFi veya Ethernet bağlantısı öneriyoruz. Tüm sistem gereksinimleri ve desteklenen oyun kontrolcülerine https://gameplus.com.tr/sistem-gereksinimleri sayfasından ulaşabilirsiniz.",
+            "whatsNew": "",
+            "media": {
+                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/geforcenow/icon.png",
+                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/geforcenow/banner.png",
+                "screenshots": [
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/geforcenow/screenshots/1.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/geforcenow/screenshots/2.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/geforcenow/screenshots/3.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/geforcenow/screenshots/4.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/geforcenow/screenshots/5.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/geforcenow/screenshots/6.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/geforcenow/screenshots/7.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/geforcenow/screenshots/8.jpg"
+                ]
+            },
+            "downloadLinks": {
+                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nvidia.geforcenow",
+                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.nvidia.geforcenow",
+                "webpage": [
+                    "https://game-guard-three.vercel.app/game/geforcenow"
+                ],
+                "load1": null,
+                "load2": null,
+                "apk1": null,
+                "apk2": null
+            },
+            "tags": [
+                "tools"
+            ]
         },
         {
             "id": "subwaysurfers",
@@ -5463,6 +5551,59 @@
             }
         },
         {
+            "id": "xbox",
+            "title": "XBOX",
+            "package": "com.microsoft.xboxone.smartglass",
+            "details": {
+                "downloads": "100M+",
+                "rating": 4.34,
+                "size": "105.4MB",
+                "ageRating": "N/A",
+                "androidVersion": "8.0+",
+                "version": "2609.2.1",
+                "isFree": true
+            },
+            "description": "XBOX keeps you connected to the fun with your friends, games, and supported gaming devices from your phone or tablet while on the go. Buy games you want without leaving the app. Explore Game Pass, queue games to play, set alerts for new games, and more. Keep up with friends and parties with voice and text chat, even if they're on console or PC. Share your wishlist, game clips, and screenshots from your console to favorite gaming & social networks. See game invite notifications and achievements from you and your friends, messages, and more. Track, claim, and redeem your Rewards points. Stay connected to your world of gaming with the XBOX mobile app.\r\n\r\n- XBOX keeps you connected to the fun with your friends, games, and supported gaming devices from your phone or tablet while on the go.\r\n- Share game clips and screenshots from your console to favorite gaming & social networks.\r\n- Friends and parties follow you with voice and text chat, even if they're on console or PC.\r\n- Install games remotely on your console from your phone.\r\n- See game invite notifications, achievements from you and your friends, messages, and more.\r\n- Explore Game Pass and get customized recommendations, notifications about new games, queue games to play, and more.\r\n- Buy games you want without leaving the app.\r\n- Track, claim, and redeem your Rewards points.\r\n- The XBOX mobile app is the best way to stay connected to your world of gaming.\r\n\r\nXBOX APP AGREEMENT\r\n\r\nThe following terms supplement any software license terms that accompany the XBOX App.\r\n\r\nPlease refer to Microsoft's EULA for Terms of Service for Microsoft's gaming applications on Android. By installing the app, you agree to these terms and conditions: https://support.xbox.com/help/subscriptions-billing/manage-subscriptions/microsoft-software-license-terms-mobile-gaming\r\n\r\nFEEDBACK\r\n\r\nIf you give feedback about the XBOX App to Microsoft, you give to Microsoft, without charge, the right to use, share and commercialize your feedback in any way and for any purpose. You also give to third parties, without charge, any patent rights needed for their products, technologies and services to use or interface with any specific parts of a Microsoft software or service that includes the feedback. You will not give feedback that is subject to a license that requires Microsoft to license its software or documentation to third parties because we include your feedback in them. These rights survive this agreement.",
+            "whatsNew": "",
+            "media": {
+                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/xbox/icon.png",
+                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/xbox/banner.png",
+                "screenshots": [
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/xbox/screenshots/1.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/xbox/screenshots/2.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/xbox/screenshots/3.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/xbox/screenshots/4.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/xbox/screenshots/5.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/xbox/screenshots/6.jpg"
+                ]
+            },
+            "downloadLinks": {
+                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.microsoft.xboxone.smartglass",
+                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.microsoft.xboxone.smartglass",
+                "webpage": [
+                    "https://game-guard-three.vercel.app/game/xbox"
+                ],
+                "load1": "https://pool.apk.aptoide.com/appupdater/com-microsoft-xboxone-smartglass-334820865-76656528-6da080011ccdbb9bd612b1d09f7cce04.apk",
+                "load2": null,
+                "apkInfo": {
+                    "source": "aptoide",
+                    "store": "appupdater",
+                    "version": "2609.2.1",
+                    "versionCode": 334820865,
+                    "size": "105.4MB",
+                    "md5": "6da080011ccdbb9bd612b1d09f7cce04",
+                    "signatureSha1": "95:84:62:12:86:35:31:E9:7E:8E:86:FE:F7:47:AD:32:DE:5B:CC:DE",
+                    "signer": "CN=Microsoft Corporation Third Party Marketplace (Do Not Trust), OU=Android Signing for Microsoft Studios, O=Microsoft Corporation, L=Redmond, ST=Washington, C=US",
+                    "obbUrl": null
+                },
+                "apk1": "https://pool.apk.aptoide.com/appupdater/com-microsoft-xboxone-smartglass-334820865-76656528-6da080011ccdbb9bd612b1d09f7cce04.apk",
+                "apk2": null
+            },
+            "tags": [
+                "tools"
+            ]
+        },
+        {
             "id": "offline",
             "title": "Offline Games - No Wifi Games",
             "package": "com.JindoBlu.OfflineGames",
@@ -7073,6 +7214,61 @@
                 "apk1": null,
                 "apk2": null
             }
+        },
+        {
+            "id": "steam",
+            "title": "Steam",
+            "package": "com.valvesoftware.android.steam.community",
+            "details": {
+                "downloads": "100M+",
+                "rating": 3.22,
+                "size": "132.6MB",
+                "ageRating": "N/A",
+                "androidVersion": "8.0+",
+                "version": "3.10.11",
+                "isFree": true
+            },
+            "description": "With the free Steam Mobile App, you can take Steam with you anywhere. Buy PC games and get the latest game and community news - while protecting your Steam account.\r\n\r\nShop Steam\r\nBrowse the Steam catalog of PC games from your phone. Never miss a sale again.\r\n\r\nSteam Guard\r\nProtect your Steam account and make sign in faster with two-factor authentication.\r\n• Two-factor authentication to ensure you’re the only one with access to your account\r\n• QR code sign in - Scan a QR code to sign into Steam instead of entering a password or…\r\n• Sign in confirmation - Confirm your regular Steam sign ins with simple “approve” or “deny”\r\n\r\nLibrary & Remote downloads\r\nThe new Library view makes it easy to view game content, discussions, guides, support, and more. Plus you can manage game downloads and updates to your PC from your phone.\r\n\r\nTrade and Market Confirmations\r\nSpeed up item trades and sales by using your phone to confirm them.\r\n\r\nPlus\r\n• A personalized News feed based on your Library with the latest news, events, and content updates direct from publishers and game developers.\r\n• Customizable Steam notifications: wishlist, sales, comments, trades, discussions, friend requests, and more.\r\n• Access to the entire Steam Community - discussions, groups, guides, Market, Workshop, broadcasts, and more.\r\n• Access to your friends, friend activity, groups, screenshots, inventory, wallet, and more.\r\n• Authorized Devices - Manage access to the devices your account has signed in\r\n• An improved Store browsing experience for mobile screens\r\n• Support for using multiple Steam accounts in the app\r\n• Support for customizing your app's main tabs",
+            "whatsNew": "",
+            "media": {
+                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/steam/icon.png",
+                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/steam/banner.png",
+                "screenshots": [
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/steam/screenshots/1.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/steam/screenshots/2.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/steam/screenshots/3.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/steam/screenshots/4.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/steam/screenshots/5.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/steam/screenshots/6.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/steam/screenshots/7.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/steam/screenshots/8.jpg"
+                ]
+            },
+            "downloadLinks": {
+                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community",
+                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.valvesoftware.android.steam.community",
+                "webpage": [
+                    "https://game-guard-three.vercel.app/game/steam"
+                ],
+                "load1": "https://pool.apk.aptoide.com/appupdater/com-valvesoftware-android-steam-community-10928360-76308551-9b3104d30965092ea860f1dfc4b1d17d.apk",
+                "load2": null,
+                "apkInfo": {
+                    "source": "aptoide",
+                    "store": "appupdater",
+                    "version": "3.10.11",
+                    "versionCode": 10928360,
+                    "size": "132.6MB",
+                    "md5": "9b3104d30965092ea860f1dfc4b1d17d",
+                    "signatureSha1": "05:71:30:6F:EA:72:02:B1:0C:F6:C4:1B:61:4B:F5:80:92:11:74:5D",
+                    "signer": "O=Valve Corporation, L=Bellevue, ST=WA, C=01",
+                    "obbUrl": null
+                },
+                "apk1": "https://pool.apk.aptoide.com/appupdater/com-valvesoftware-android-steam-community-10928360-76308551-9b3104d30965092ea860f1dfc4b1d17d.apk",
+                "apk2": null
+            },
+            "tags": [
+                "tools"
+            ]
         },
         {
             "id": "talkingangela",

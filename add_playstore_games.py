@@ -109,6 +109,11 @@ TARGETS: List[Tuple[str, str]] = [
     ("coinmaster", "com.moonactive.coinmaster"),
     ("chess", "com.chess"),
     ("uno", "com.matteljv.uno"),
+    # Araçlar: satın alınmış PC oyunlarını telefonda oynamak için
+    ("steam", "com.valvesoftware.android.steam.community"),
+    ("steamlink", "com.valvesoftware.steamlink"),
+    ("geforcenow", "com.nvidia.geforcenow"),
+    ("xbox", "com.microsoft.xboxone.smartglass"),
     # Strateji
     ("lordsmobile", "com.igg.android.lordsmobile"),
     ("riseofkingdoms", "com.lilithgame.roc.gp"),
