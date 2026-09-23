@@ -1,5 +1,8 @@
 """games.json'daki eksik (N/A / 0) detayları gerçek kaynaklardan doldurur.
 
+`--refresh` ile (haftalık workflow) eksik olmasa da puan, indirme, sürüm, yaş sınırı ve
+"Yenilikler" metnini günceller; Play Store'dan kaldırılan oyunları da işaretler.
+
 - rating / downloads / ageRating: Google Play; Steam oyunlarında Steam kullanıcı yorumları
 - size / androidVersion: Aptoide (sahte kayıtlar hariç); GitHub'dan gelenlerde release dosyası
 - downloads (GitHub): tüm sürümlerin toplam indirme sayısı
@@ -7,6 +10,7 @@ Veri bulunamayan alanlar uydurulmaz.
 """
 import json
 import re
+import sys
 from concurrent.futures import ThreadPoolExecutor
 from typing import Optional
 
@@ -71,15 +75,18 @@ def collect(game: dict) -> dict:
     return out
 
 
-def apply(game: dict, data: dict) -> None:
+def apply(game: dict, data: dict, refresh: bool = False) -> None:
     d = game.setdefault("details", {})
     play = data.get("play")
+
+    def stale(key: str) -> bool:
+        return refresh or d.get(key) in MISSING
     meta = data.get("aptoide") or {}
     f = meta.get("file") or {}
     # Aptoide'deki "999.0" sürümlü sahte kopyaların verisi kullanılmaz.
     aptoide_ok = bool(f) and str(f.get("vername")) not in FAKE_VERSIONS
 
-    if d.get("rating") in MISSING:
+    if stale("rating"):
         if play and play.get("score"):
             d["rating"] = round(play["score"], 2)
         elif data.get("steam_rating"):
@@ -89,16 +96,24 @@ def apply(game: dict, data: dict) -> None:
             if (pr.get("total") or 0) >= MIN_APTOIDE_VOTES:
                 d["rating"] = round(pr["avg"], 2)
 
-    if d.get("downloads") in MISSING:
+    if stale("downloads"):
         if play and play.get("realInstalls"):
             d["downloads"] = format_installs(play["realInstalls"])
         elif data.get("gh_downloads"):
             d["downloads"] = format_installs(data["gh_downloads"])
 
-    if d.get("ageRating") in MISSING and play:
+    if stale("ageRating") and play:
         age = AGE_RE.search(play.get("contentRating") or "")
         if age:
             d["ageRating"] = f"PEGI-{age.group(1)}"
+
+    if refresh and play:
+        # Play çoğu oyunda sürümü "Varies with device" diye veriyor; o durumda mevcut sürüm kalır.
+        version = play.get("version")
+        if version and version != VARIES:
+            d["version"] = version
+        if play.get("recentChanges"):
+            game["whatsNew"] = play["recentChanges"].strip()
 
     apk_size = ((game.get("downloadLinks") or {}).get("apkInfo") or {}).get("size")
     if d.get("size") in MISSING:
@@ -113,7 +128,21 @@ def apply(game: dict, data: dict) -> None:
             d["androidVersion"] = f"{SDK_TO_ANDROID[sdk]}+"
 
 
+def mark_delisted(game: dict, data: dict) -> bool:
+    """Play Store'dan kaldırılan oyunun ölü linklerini siler, "nostalgia" etiketi ekler."""
+    dl = game.get("downloadLinks") or {}
+    if not game.get("package") or not dl.get("playStoreUrl") or data.get("play"):
+        return False
+    dl["playStoreUrl"] = None
+    dl["galaxyStoreUrl"] = None
+    tags = game.setdefault("tags", [])
+    if "nostalgia" not in tags:
+        tags.append("nostalgia")
+    return True
+
+
 def main() -> None:
+    refresh = "--refresh" in sys.argv
     with open(GAMES_JSON_PATH, "r", encoding="utf-8") as fh:
         data = json.load(fh)
     games = data["games"]
@@ -121,7 +150,9 @@ def main() -> None:
     with ThreadPoolExecutor(max_workers=8) as pool:
         results = list(pool.map(collect, games))
     for game, res in zip(games, results):
-        apply(game, res)
+        apply(game, res, refresh)
+        if refresh and mark_delisted(game, res):
+            print(f"Play Store'dan kalkmis: {game['id']}")
 
     # Winlator ile çalışan oyunlar Winlator'ın Android sürüm şartını devralır.
     winlator = next((g for g in games if g["id"] == "winlator"), None)
