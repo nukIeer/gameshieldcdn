@@ -2392,10 +2392,21 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/game/8"
                 ],
-                "load1": null,
+                "load1": "https://pool.apk.aptoide.com/appupdater/com-miniclip-eightballpool-1002-76808438-0b5192d7b154b78ed1a5d5d7693ed781.apk",
                 "load2": null,
-                "apk1": null,
-                "apk2": null
+                "apk1": "https://pool.apk.aptoide.com/appupdater/com-miniclip-eightballpool-1002-76808438-0b5192d7b154b78ed1a5d5d7693ed781.apk",
+                "apk2": null,
+                "apkInfo": {
+                    "source": "aptoide",
+                    "store": "appupdater",
+                    "version": "3.10.0",
+                    "versionCode": 1002,
+                    "size": "42.9MB",
+                    "md5": "0b5192d7b154b78ed1a5d5d7693ed781",
+                    "signatureSha1": "87:61:53:43:65:7C:0A:98:15:5D:71:EC:5A:31:58:21:8B:9A:9F:62",
+                    "signer": "CN=edward barber, OU=miniclip portugal, O=miniclip, L=oeiras, ST=lisbon, C=PT",
+                    "obbUrl": null
+                }
             }
         },
         {
