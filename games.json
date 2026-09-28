@@ -6,7 +6,7 @@
             "package": "com.roblox.client",
             "details": {
                 "downloads": "1B+",
-                "rating": 4.21,
+                "rating": 4.22,
                 "size": "137.0MB",
                 "ageRating": "PEGI-12",
                 "androidVersion": "Varies with device",
@@ -103,7 +103,7 @@
             ],
             "details": {
                 "downloads": "N/A",
-                "rating": 4.15,
+                "rating": 4.16,
                 "size": "105GB",
                 "ageRating": "PEGI-18",
                 "androidVersion": "8.0+",
@@ -1936,7 +1936,7 @@
             "package": "com.valvesoftware.steamlink",
             "details": {
                 "downloads": "29M+",
-                "rating": 4.04,
+                "rating": 4.02,
                 "size": "Varies with device",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
@@ -1980,7 +1980,7 @@
             "package": "com.nvidia.geforcenow",
             "details": {
                 "downloads": "29M+",
-                "rating": 2.69,
+                "rating": 2.7,
                 "size": "0.4MB",
                 "ageRating": "N/A",
                 "androidVersion": "4.4+",
@@ -2028,7 +2028,7 @@
                 "size": "Varies with device",
                 "ageRating": "PEGI-7",
                 "androidVersion": "Varies with device",
-                "version": "3.69.0",
+                "version": "3.69.1",
                 "isFree": true
             },
             "description": "DASH as fast as you can! \r\nDODGE the oncoming trains! \r\n\r\nHelp Jake, Tricky & Fresh escape from the grumpy Guard and his dog. \r\n\r\n★ Grind trains with your cool crew! \r\n★ Colorful and vivid HD graphics! \r\n★ Hoverboard Surfing! \r\n★ Paint powered jetpack! \r\n★ Lightning fast swipe acrobatics! \r\n★ Challenge and help your friends! \r\n\r\nJoin the most daring chase! \r\n\r\nA Universal App with HD optimized graphics.\r\n\r\nOriginally co-developed by SYBO and Kiloo.",
@@ -2065,11 +2065,11 @@
             "package": "com.mojang.minecraftpe",
             "details": {
                 "downloads": "97M+",
-                "rating": 4.32,
+                "rating": 4.31,
                 "size": "Varies with device",
                 "ageRating": "PEGI-7",
                 "androidVersion": "Varies with device",
-                "version": "1.26.51.1",
+                "version": "1.26.52.3",
                 "isFree": false
             },
             "description": "Dive into an open world of building, crafting, and survival in the ultimate sandbox adventure. Gather resources, survive the night, and build a world one block at a time. Explore and craft your way through a completely open world where you can play with friends, new and old. Build a block city, start a farm, mine deep underground, face mysterious enemies, or just experiment to the limits of your imagination in this expansive simulation!\r\n \r\nCraft a new house, build a block city, or start a farm. Bring your imagination to life and build your dream avatar world where the possibilities are endless. Adventure through your own online game and play with friends, building from the ground up in our crafting simulation. In Creative mode, enjoy unlimited resources and the freedom of superior building and crafting. In Survival mode, survive the night, face intense battles, craft tools, and fend off danger. With seamless cross-platform and multiplayer games with friends on Minecraft: Bedrock Edition, you can adventure solo or with friends and discover an infinite, randomly generated game 3D world filled with blocks to mine, biomes to explore, and mobs to befriend (or battle) in a universe of crafting!\r\n \r\nIn Minecraft, the world is yours to shape!\r\n \r\nBUILD YOUR DREAM WORLD\r\n• Build a block city, a house, or create an entire game world from the ground up\r\n• Building simulator games for kids, adults, or anyone\r\n• Craft and build from special resources and tools to create brand new structures and landscapes\r\n• Explore an endless open world simulation full of different biomes and creatures\r\n• Minecraft Marketplace – Get creator-made add-ons, thrilling worlds, and stylish cosmetics on Minecraft Marketplace\r\n• Private and community servers – Online village building game allows you to connect with millions of players, or subscribe to Realms Plus to cross-play with up to 10 friends on your own private server\r\n• Slash commands – Tweak how the 3D game plays: you can change the weather, summon mobs, change the time of day, and more\r\n• Add-ons – Block builders can customize their experience even further with add-ons as they build up! If you're more tech-inclined, you can modify your 3D game to create new resource packs\r\n \r\n \r\nMULTIPLAYER ONLINE GAMES\r\n• Play with friends and other builders when you join our free massive multiplayer servers\r\n• Multiplayer game servers allow you to play with up to 4 players online with a free Xbox Live account\r\n• Explore endless realms through multiplayer games with friends. With Realms and Realms Plus, you can play with up to 10 friends cross-platform, anytime, anywhere on Realms, your own private server that we host for you\r\n• Customize your world with Realms Plus. Get instant access to an extensive catalogue that is refreshed every month! Share with friends on your own private Realms server*\r\n• MMO servers allow you to connect and play with players across the world, to explore custom worlds, build with friends, and participate in large-scale events\r\n• Enjoy crafting buildings, building gigantic community-run worlds, competing in unique mini-games, and socializing in lobbies full of fellow Minecraft block builders\r\n \r\nSUPPORT: https://www.minecraft.net/help\r\nLEARN MORE: https://www.minecraft.net/\r\n \r\nMINIMUM RECOMMENDED SPECIFICATION\r\nTo check the requirements for your device visit: https://help.minecraft.net/hc/en-us/articles/4409172223501\r\n \r\n*Realms & Realms Plus: Try a free 30-day trial in-app.\r\n\r\nThis app uses Accessibility services.\r\nMinecraft includes an Accessibility Service that improves touch interaction when using a screen reader. This service only adjusts touch-passthrough regions — it does not read, log, or transmit your screen content or personal data.",
@@ -2144,7 +2144,7 @@
             "title": "Brawl Stars",
             "package": "com.supercell.brawlstars",
             "details": {
-                "downloads": "552M+",
+                "downloads": "553M+",
                 "rating": 4.25,
                 "size": "112.6MB",
                 "ageRating": "PEGI-7",
@@ -2185,7 +2185,7 @@
             "package": "com.rockstargames.gtasa",
             "details": {
                 "downloads": "8M+",
-                "rating": 4.32,
+                "rating": 4.33,
                 "size": "Varies with device",
                 "ageRating": "PEGI-18",
                 "androidVersion": "Varies with device",
@@ -2268,12 +2268,12 @@
             "title": "Clash of Clans",
             "package": "com.supercell.clashofclans",
             "details": {
-                "downloads": "881M+",
-                "rating": 4.46,
+                "downloads": "882M+",
+                "rating": 4.47,
                 "size": "Varies with device",
                 "ageRating": "PEGI-7",
                 "androidVersion": "Varies with device",
-                "version": "18.600.5",
+                "version": "18.600.7",
                 "isFree": true
             },
             "description": "Join millions of players worldwide. Adventure and perfect your strategy. Build and battle with your Clan in this epic real time multiplayer war game!\r\nMustachioed Barbarians, fire-wielding Wizards, and other unique troops await your command. \r\n\r\nClash of Clans is free to download and play, however, some game items can also be purchased for real money (including random items). If you don't want to purchase game items for real money, please disable in-app purchases in your device's settings.\r\n\r\nClassic Features:\r\n● Build and battle in real time: Customize your layout and level up each building to strengthen your defense in war.\r\n● Assemble an army with countless combinations of spells, troops, and Heroes! \r\n\r\nMultiplayer:\r\n● Build a team and battle in Clan Wars against millions of active online players across the globe. Test your fighting skills in the competitive Clan War Leagues and prove your Clan is the best around!\r\n● Collect resources and plunder loot from other players to upgrade your village. Use strategy and smarts to defend your Town Hall building in war!\r\n● ﻿﻿Test your fighting skills in Ranked Mode and take part in competitive online multiplayer battles with players from around the world. Prove your dominance and rise all the way to Legend League.\r\n● Keep your Clan Castle building safe and craft your defense strategy against enemy attacks. Build Towers, Cannons, Bombs, traps, Mortars, and walls to give you the edge in multiplayer battles.\r\n● ﻿﻿Adventure with epic Heroes, like Barbarian King, Archer Queen, Grand Warden, Royal Champion, Minion Prince, Dragon Duke, and Battle Machine.\r\n● Use your Laboratory building to make your troops, spells, and Siege Machines even more powerful in war.\r\n● Flex your strategy in real time: take part in free online multiplayer games. Battle through Friendly Challenges, Friendly Wars, and special live multiplayer war game events.\r\n\r\nSingle Player:\r\n● Start fighting against the Goblin King in a single-player campaign mode and become a hero of the realm.\r\n● ﻿﻿Learn new strategy tactics and experiment with army combinations and Clan Castle troops in Practice Mode.\r\n\r\nBuilder Base:\r\n● Adventure to the mysterious shores of Builder Base and discover new buildings, characters, and a whole new way to play.\r\n● Turn your Builder Base into an unbeatable fortress. Build up your defenses and perfect your fighting strategy. Conquer rival players in real time in the online multiplayer Versus Battle war game mode.\r\n\r\nWhat are you waiting for, Chief? Get ready to conquer! Join the adventure today.\r\n\r\nA network connection is also required.\r\n\r\nIf you have fun playing Clash of Clans, you may also enjoy other free multiplayer Supercell games like Clash Royale, Brawl Stars, Boom Beach, and Hay Day. Make sure to check those out!\r\n\r\nSupport: Chief, are you having problems? Visit https://help.supercellsupport.com/clash-of-clans/en/index.html or contact us in-game by going to Settings > Help and Support.\r\n\r\nPrivacy Policy: http://www.supercell.net/privacy-policy/\r\nTerms of Service: http://www.supercell.net/terms-of-service/\r\nParent’s Guide: http://www.supercell.net/parents\r\n\r\nThe IGRS Rating for this game is 15+\r\n\r\nNotice of Access Permission:\r\n\r\n[Optional permission]\r\nClash of Clans may request permission via in-game pop ups to access your camera and send you notifications.\r\nCamera: For in-game scanning of QR codes\r\nNotifications: For sending notifications related to the game\r\nConsent is optional and you can use the app and play the game regardless of whether or not you consent. You may refuse to give consent within the game. However, certain app features may not work properly if you refuse optional access permissions.",
@@ -2419,7 +2419,7 @@
                 "size": "Varies with device",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
-                "version": "1.336.2.1",
+                "version": "1.337.0.2",
                 "isFree": true
             },
             "description": "Master the legendary match 3 puzzle game from King and have a blast! With over a trillion matching levels played, Candy Crush Saga is the popular match 3 puzzle game!\r\n\r\nMatch, pop, and blast candies in this tasty puzzle adventure to progress to the next level and get a sugar blast! Master match 3 puzzles with quick thinking and smart matching moves to be rewarded with sugar bonuses and tasty candy combos.\r\n\r\nSpread jam by matching 3 or more candies in a row and blast your way through the extra sticky puzzles using jelly fishes! Blast jam and chocolate to collect sweet candy juice across thousands of puzzle levels, guaranteed to have you craving more!\r\n\r\nBECOME THE MASTER OF THE CANDY KINGDOM\r\n- Win thousands of sweet matching puzzles: with new puzzles added every 2 weeks, your sugar fix is never far away!\r\n\r\nWIN CANDYLICIOUS REWARDS\r\n- Spin the Daily Booster Wheel to receive jelly fishes and other tasty rewards! Master time-limited match 3 challenges to earn boosters and clear the jelly! \r\n\r\nVARIETY OF SUGAR-COATED PUZZLE GAMES\r\n- Sweet ways to play! Play match 3 game modes and more including Rainbow Rapids and Clear the Jelly. \r\n- Level up playing match 3 puzzles that range from easy to hard, accessible online or offline.\r\n\r\nBLAST CANDIES WITH FRIENDS\r\n- Match and pop candies to get to the top of the leaderboard! Compare scores with friends and find out who’s the match 3 master!\r\n- Enjoy the sweetest of match 3 puzzle games around! \r\n\r\nIf you want to master and blast even more puzzles, you may also enjoy other games from King: Candy Crush Soda Saga, Farm Heroes Saga, and Pet Rescue Saga.\r\n\r\nCandy Crush Saga is free to play but optional in-game items require payment. You can turn off the payment feature by disabling in-app purchases in your device’s settings.\r\n\r\nBy downloading Candy Crush Saga you agree to our terms of service which can be found at https://king.com/termsAndConditions\r\n\r\nDo not sell my data: King shares your personal information with advertising partners to personalize ads. Learn more at https://king.com/privacyPolicy. If you wish to exercise your Do Not Sell My Data rights, you can do so by contacting us via the in-game help center or by going to https://soporto.king.com/contact\r\n\r\nAll Stars Tournament\r\nSelected level 5+. 18+. In-game event 09:00 EDT 20 March to 03:00 EDT 27 April, 2025. Participating countries only. Win the in-game event and receive an invite to the live contest 11-13 June in California to compete for a share of $1,000,000 USD. Requires US travel. T&Cs: to.king.com/terms. App contains optional in-game purchases. © 2025 King.com Ltd.",
@@ -2578,7 +2578,7 @@
             "title": "Mobile Legends: Bang Bang",
             "package": "com.mobile.legends",
             "details": {
-                "downloads": "942M+",
+                "downloads": "945M+",
                 "rating": 3.96,
                 "size": "187.9MB",
                 "ageRating": "PEGI-12",
@@ -2660,7 +2660,7 @@
             "package": "com.nianticlabs.pokemongo",
             "details": {
                 "downloads": "563M+",
-                "rating": 3.39,
+                "rating": 3.38,
                 "size": "Varies with device",
                 "ageRating": "PEGI-7",
                 "androidVersion": "Varies with device",
@@ -2700,11 +2700,11 @@
             "package": "com.block.juggle",
             "details": {
                 "downloads": "1B+",
-                "rating": 4.74,
+                "rating": 4.73,
                 "size": "223.6MB",
                 "ageRating": "PEGI-3",
                 "androidVersion": "6.0+",
-                "version": "10.7.5"
+                "version": "10.8.0"
             },
             "description": "Block Blast! is a puzzle game where players place colored blocks on a board to clear rows and columns. The core mechanic involves dragging and dropping pieces onto a grid, with successful placements creating complete lines that clear and create space for new pieces. This fundamental cycle of placement, line completion, and board clearing propels the experience forward.\n\nThe game's design bridges immediate accessibility with genuine strategic depth. New players grasp the basic concept within moments—fill complete rows or columns to remove blocks. However, success requires planning and forward thinking beyond the obvious move. Blocks cannot be repositioned once placed, making each decision consequential. A strategically positioned piece can unlock future moves or constrain them significantly. Players must visualize multiple turns ahead, weighing the satisfaction of an immediate clear against maintaining flexibility for future placements. This tension between rapid play and careful board management creates the strategic challenge that sustains engagement across multiple sessions.\n\nThe spatial reasoning required intensifies as gameplay progresses. Early moves offer abundant placement options, as the sparse board accommodates most pieces without consequence. As blocks accumulate and space tightens, the same placement decisions become increasingly critical. Later moves demand precise visualization of how each block aligns with existing pieces and its impact on future possibilities. This natural difficulty progression emerges from board state rather than artificial modifiers, allowing players to experience escalating challenge as an organic consequence of their own decisions and gameplay patterns.\n\nThe scoring system incorporates a combo mechanic that rewards extended chains of consecutive clears. When players eliminate multiple rows or columns in succession, multiplier bonuses increase earned points. Building lengthy combos requires both spatial visualization and deliberate restraint—sometimes leaving apparent gaps to set up future cascades yields higher scores than pursuing obvious immediate clears. This transforms the core puzzle from simple line-matching into an optimization challenge where the sequence and timing of moves matters as much as the moves themselves.\n\nBlock Blast! accommodates varied play sessions. Quick five-minute rounds satisfy brief breaks, while extended sessions reward methodical planning spanning dozens of moves. The absence of time pressure or forced progression mechanics allows each player to establish their own pace and engagement level without external constraints.\n\nDaily challenges provide recurring objectives that introduce variation to the standard gameplay. These structured goals give regular players reasons to return and prevent the core loop from becoming predictable through repetition or extended play.\n\nThe game's offline functionality removes connectivity requirements entirely. With no internet connection or WiFi required, it plays during flights, in remote locations, or whenever a player prefers disconnection. Uninterrupted gameplay continues regardless of network fluctuations or coverage gaps.\n\nThe touch-based drag-and-drop interface translates player intent into immediate board action, making block placement intuitive and responsive. Each new piece arriving on the board demands immediate assessment—players must determine where to place it given the current configuration while also considering how that placement affects later options. The direct interaction between decision and result creates immediacy suited to portable sessions—commutes, waiting periods, travel, or casual home play. The responsiveness to touch input, combined with the irreversibility of each placement decision, establishes a rhythm of committed choices punctuated by strategic pauses as players plan ahead.",
             "whatsNew": "- Bug fixes and performance improvements.\n\n- We actively gather and analyze feedback to steer the improvements in our game. We're committed to bringing you the finest block puzzle gaming, coupled with an unparalleled playing experience.",
@@ -2789,12 +2789,12 @@
             "title": "Car Parking Multiplayer",
             "package": "com.olzhas.carparking.multyplayer",
             "details": {
-                "downloads": "238M+",
+                "downloads": "239M+",
                 "rating": 4.41,
                 "size": "Varies with device",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
-                "version": "4.9.10",
+                "version": "4.9.11",
                 "isFree": true
             },
             "description": "More than just parking: open-world multiplayer mode, car tuning, free walking!\r\nThousands of players are waiting for you.\r\nJoin us!\r\n \r\nMultiplayer open world mode\r\n• Free walking.\r\n• Free open world with real gas stations and car services.\r\n• Compete against real players in the multiplayer racing.\r\n• Exchange cars with real players.\r\n• Thousands of real players every day.\r\n• Friend list.\r\n• Voice Chat.\r\n• Police mode\r\n\r\nCar customization \r\n• Adjustable suspension, wheel angle and more.\r\n• Engine tuning: swap engine, turbo, gearbox and exhaust.\r\n• Visual auto tungs: Dynamic vynils, car body parts.\r\n\r\nHigh-quality open world\r\n• Highly-detailed environments\r\n• 100 cars with the real interior.\r\n• 16 player skins \r\n•  Buildings with interior \r\n\r\n\r\nInteresting gameplay \r\n•82 real-life parking and driving challenges.\r\n•Different vehicles: Tow truck, pickup, trucks, sport and classic cars.",
@@ -2830,7 +2830,7 @@
             "title": "Standoff 2",
             "package": "com.axlebolt.standoff2",
             "details": {
-                "downloads": "206M+",
+                "downloads": "207M+",
                 "rating": 4.67,
                 "size": "Varies with device",
                 "ageRating": "PEGI-12",
@@ -3082,7 +3082,7 @@
             "package": "com.dts.freefiremax",
             "details": {
                 "downloads": "952M+",
-                "rating": 4.63,
+                "rating": 4.64,
                 "size": "98.8MB",
                 "ageRating": "PEGI-12",
                 "androidVersion": "Varies with device",
@@ -3162,8 +3162,8 @@
             "title": "Hill Climb Racing 2",
             "package": "com.fingersoft.hcr2",
             "details": {
-                "downloads": "444M+",
-                "rating": 4.21,
+                "downloads": "445M+",
+                "rating": 4.22,
                 "size": "Varies with device",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
@@ -3204,7 +3204,7 @@
             "package": "com.rockstargames.gtalcs",
             "details": {
                 "downloads": "35M+",
-                "rating": 3.91,
+                "rating": 3.93,
                 "size": "Varies with device",
                 "ageRating": "PEGI-18",
                 "androidVersion": "Varies with device",
@@ -3286,7 +3286,7 @@
             "package": "com.rockstar.gta3",
             "details": {
                 "downloads": "2M+",
-                "rating": 3.76,
+                "rating": 3.73,
                 "size": "Varies with device",
                 "ageRating": "PEGI-18",
                 "androidVersion": "Varies with device",
@@ -3407,7 +3407,7 @@
             "title": "Plants vs. Zombies™",
             "package": "com.ea.game.pvzfree_row",
             "details": {
-                "downloads": "645M+",
+                "downloads": "646M+",
                 "rating": 4.2,
                 "size": "Varies with device",
                 "ageRating": "PEGI-7",
@@ -3529,12 +3529,12 @@
             "title": "Sniper 3D：Gun Shooting Games",
             "package": "com.fungames.sniper3d",
             "details": {
-                "downloads": "801M+",
-                "rating": 4.5,
+                "downloads": "802M+",
+                "rating": 4.49,
                 "size": "Varies with device",
                 "ageRating": "PEGI-18",
                 "androidVersion": "Varies with device",
-                "version": "7.7.0",
+                "version": "7.8.0",
                 "isFree": true
             },
             "description": "Get ready to unleash the ultimate sniper 3d experience with the most thrilling and action-packed shooting game of all time! Sniper 3d is the definitive free-to-play gun game that puts you in the shoes of a deadly assassin. Immerse yourself in high-intensity offline missions and show off your shooting skills in this adrenaline-pumping sniper adventure. Are you the ultimate shooter? Prove it in Sniper 3d!\r\n\r\nMain Features\r\n\r\n• 🎯 Sniper 3d Action: Experience the thrill of being a professional sniper in this stunning 3d gun game. Enjoy intuitive controls and realistic ballistics that'll make you feel like a real shooter.\r\n• 🔫 Variety of Guns: Unlock a vast arsenal of sniper rifles, assault rifles, and other powerful guns. There are 180+ authentic weapons in the game. Upgrade your weapons and become the ultimate sniper 3d assassin!\r\n• 🎮 Offline Gameplay: No internet connection? No problem! Enjoy Sniper 3d's offline mode and complete various challenging missions without the need for Wi-Fi or data.\r\n• ⚔️PVE and PVP mode: complete missions or play against other assassins in real time - whatever you like.\r\n• 🌍 Diverse Locations: Travel to different parts of the world, taking on unique missions in various environments. Eliminate high-profile targets and show them who's the master shooter in town.\r\n• 💥 Free to Play: Join the action-packed world of Sniper 3d for free! This incredible shooting game offers hours of entertainment without costing a dime.\r\n\r\nSniper 3d is the ultimate free shooting game that puts your assassin skills to the test. With a vast array of guns, offline gameplay, and diverse locations, you'll be engrossed in this exhilarating sniper adventure. As a shooter, it's your duty to eliminate high-profile targets and prove your worth as the top assassin.\r\n\r\nSo what are you waiting for? Download Sniper 3d now and step into the shoes of an elite shooter. Experience the thrill of being a skilled sniper in this incredible 3d gun game, and take on challenging offline missions to become the ultimate assassin. Don't miss out on the opportunity to play this free shooting game – Sniper 3d is waiting for you!",
@@ -3956,12 +3956,12 @@
             "title": "Vita Mahjong",
             "package": "com.vitastudio.mahjong",
             "details": {
-                "downloads": "395M+",
+                "downloads": "400M+",
                 "rating": 4.75,
                 "size": "230.1MB",
                 "ageRating": "PEGI-3",
                 "androidVersion": "7.0+",
-                "version": "3.38.0"
+                "version": "3.39.1"
             },
             "description": "Vita Mahjong is an Exclusive Puzzle Game of Tile Matching. We are thrilled to present the mahjong  game that combines innovation with classic gameplay. It offers large tiles and a user-friendly interface compatible with pads and phones. Our goal is to provide a relaxing yet mentally engaging gaming experience, particularly focused on older adults.\n\nAt Vita Studio, we have always been dedicated to crafting mobile games designed for seniors that bring back relaxation, fun, and joy. Our repertoire includes popular titles like Vita Color, Vita Jigsaw, Vita Word Search, Vita Block, Vita Sudoku, and more.\n\nHow to Play Vita Mahjong:\nPlaying free Vita Mahjong game is simple. Just aim to clear all the tiles on the board by matching tiles with identical images. Tap or slide two matching tiles, and they will vanish from the board. Your objective is to match tiles that are not concealed or blocked. Once all tiles are eliminated, it signifies successful completion of a majong game!\n\nExclusive Vita Mahjong  Game Features:\n• Classic Mahjong : Staying true to the original gameplay, it presents traditional card tile sets and hundreds of boards.\n• Special Innovations: Besides the classic, our game introduces special tiles that add a fresh twist to the classic mahjong.\n• Large-Scale Design: Our mahjong games feature large, easily readable text sizes to alleviate the strain caused by small fonts.\n• Active Mind Levels: A special mode designed to sharpen your mind and improve memory abilities in the mahjong games. \n• Customizable Scoring:  You can enjoy free classic mahjong games without a timer and any score pressure.\n• Super Combo: When you consecutively match mahjong tiles during the game, you will unlock special experiences.\n• Helpful Hints: Our game provides free useful props, such as hints, undo, and shuffle, to help players overcome challenging puzzles.\n• Daily Challenge: Take on daily practice to collect trophies and improve your classic mahjong solitaire game skills.\n• Offline Mode: Full offline support lets you enjoy Vita Mahjong anytime, anywhere, without needing internet.\n• Multi-device: Optimized for pad and phone, ensuring everyone can enjoy the classic mahjong game.\n\nVita Mahjong is a versatile game made for those who love tile matching games. Download Vita Mahjong and start your mahjong dynasty now!\n\nNote: This is a puzzle game in the style of Mahjong Solitaire. It does not contain the rules of traditional Mahjong or other types of solitaire or card games. The term “Mahjong” here refers solely to the visual style of the tiles.\n\nContact us : support@vitastudio.ai\nFor more information, you can:\nJoin our Facebook group: https://www.facebook.com/groups/vitastudio\nVisit our official website: www.vitamahjong.com",
             "whatsNew": "",
@@ -4014,11 +4014,11 @@
             "package": "com.moonactive.coinmaster",
             "details": {
                 "downloads": "348M+",
-                "rating": 4.54,
+                "rating": 4.55,
                 "size": "88.3MB",
                 "ageRating": "PEGI-18",
                 "androidVersion": "6.0+",
-                "version": "3.5.2711",
+                "version": "3.5.2720",
                 "isFree": true
             },
             "description": "Join your Facebook friends and millions of players around the world for prize-winning spins as you build village after village on your journey to the top!\r\n\r\nDo you have what it takes to be the next Coin Master?\r\n\r\nGet ready to team up with friends for thrilling expeditions or join forces with a crew of fellow players. You’ll always find a new adventure with an ever-changing lineup of special events, packed with unique challenges and exciting surprises to keep you on your toes!\r\n\r\nSpin and Attack!\r\n\r\nSpin the wheel to discover your fortune- or attack friends' villages and steal their coins to help build your own! You can also win gold sacks to build magnificent villages throughout the game and advance through thousands of levels. Don't forget to win shields from the wheel too—you'll need them to guard your village from other players trying to attack you back! Become the Coin Master with the most impressive villages and the most incredible prizes!\r\n\r\nEmbark on Fun Expeditions with Friends!\r\n\r\nEarning coins from the prize wheel isn’t the only way to gather resources—you can find them on exciting expeditions too! Team up with friends to journey to other villages and uncover treasures that will help you build and advance to the next level. You never know what wonders you'll find in the next world you explore!\r\n\r\nCollect all the Cards!\r\n\r\nIt's not always about the coins; it's about the treasure too! Collecting cards completes sets and unlocks the next village in your grand adventure. With thousands of villages to create and build, each completed set is a step forward in your journey. With every village you master, your wins will be even greater.\r\n\r\nPlay and Create Teams with Friends!\r\n\r\nTrade your cards with our online community to collect them all! Join our fast-growing interactive Facebook community to meet new friends, create your dream team, earn big rewards, and trade treasures to help each other build and progress faster!\r\n\r\nCoin Master is free on all devices with in-app purchases\r\n\r\n\r\nCoin Master is intended for amusement purposes only and does not offer ‘real money’ gambling, or an opportunity to win real money or real prizes based on game play. \r\nCoin Master does not require payment to download and play, but it also allows you to purchase virtual items with real money inside the game. You can disable in-app purchases in your device’s settings.\r\n\r\nFollow Coin Master on Facebook and Instagram for exclusive offers and bonuses!\r\nFacebook: facebook.com/coinmaster\r\nInstagram: instagram.com/coinmasterofficial/\r\n\r\nTerms of Service: https://static.moonactive.net/legal/terms.html?lang=en\r\n\r\nPrivacy Notice: https://static.moonactive.net/legal/privacy.html?lang=en\r\n\r\nQuestions about the game? Our support is ready and waiting at:  https://support.coinmastergame.com/",
@@ -4278,7 +4278,7 @@
                 "size": "103.8MB",
                 "ageRating": "PEGI-12",
                 "androidVersion": "7.0+",
-                "version": "26.11.2",
+                "version": "26.11.3",
                 "isFree": true
             },
             "description": "Join 1,000,000+ players worldwide for thrilling online gaming! For all fans of gun games: Pixel Gun 3D is a fun first-person multiplayer action shooter. Download the game and enjoy blocky graphics, competitive gameplay, and much more:\r\n\r\n🔫 1000+ cool weapons\r\n💣 40 useful gadgets and tools\r\n🕹️ 10+ various game modes and gun games\r\n🎮 10+ exciting mini-games\r\n🏰 100+ beautiful maps rotating during the year\r\n💀 Zombie-survival campaign\r\n\r\n👾 IMPOSTER MODE 👾 \r\nTrapped in the Spaceship with other players, you need to do some tasks to keep the ship working and return home. But there is an impostor in the team who will always interfere with your plans.\r\n\r\n👑 ALL-NEW CLANS 👑\r\nUnite with friends and play together to get your clan to the top divisions and enjoy valuable prizes.\r\nUpdate and customize your Fort to resist PvE Sieges and create a powerful tank to raid other Clans’ forts.\r\n \r\n⚔️ JOIN CLAN WARS! ⚔️\r\nConquer territories, control the huge global map, collect valor points, and gain income from your lands to win the war.\r\n \r\n🗡️ HUNDREDS OF WEAPONS 🗡️\r\nThere is an arsenal of more than 1000 different guns and other cool weapons in Pixel Gun 3D, and you can use all of them. Wanna shoot from a blaster pistol, use a medieval sword and shield or, maybe, the Dark Matter Generator? Just do it! And don’t forget about grenades..\r\n \r\n😎 PLENTY OF SKINS 👽\r\nWould you like to be an Orc, a Skeleton, a mighty Amazon or someone else? Use extra-detailed skins and outfits to show off. Or create your own in the Skin Editor.\r\n\r\n👾 GAME MODES 👾\r\nBattle Royale, Raids, Deathmatch, Duels… There are so many opportunities for you to challenge yourself. Not mentioning the brawls that rotate every week... Enjoy plenty of gun games in the world of PG3D!\r\n\r\n🎲 MINI-GAMES 🎲\r\nTired of being the best on a battlefield? It is time to participate in the competitions and show your fighting and shooting skills to every warrior worldwide. Sniper Tournament, Parkour Challenge, Glider Rush and other challenges await their hero!\r\n\r\n<b>Follow our news:</b>\r\nFacebook: https://www.facebook.com/PixelGun3DOfficial/\r\nInstagram: https://www.instagram.com/pixelgun3d_official/\r\nYouTube: https://www.youtube.com/c/PixelGun3DYT\r\nSupport: support.gp@cubicgames.com\r\n\r\nJoin one of the best gun games now and prepare for real action!",
@@ -4326,7 +4326,7 @@
             "package": "com.valvesoftware.android.steam.community",
             "details": {
                 "downloads": "179M+",
-                "rating": 3.22,
+                "rating": 3.11,
                 "size": "132.6MB",
                 "ageRating": "N/A",
                 "androidVersion": "8.0+",
@@ -4381,7 +4381,7 @@
             "package": "com.microsoft.xboxone.smartglass",
             "details": {
                 "downloads": "152M+",
-                "rating": 4.34,
+                "rating": 4.35,
                 "size": "105.4MB",
                 "ageRating": "N/A",
                 "androidVersion": "8.0+",
@@ -4463,20 +4463,20 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/game/chess"
                 ],
-                "load1": "https://pool.apk.aptoide.com/appupdater/com-chess-267131-76516488-4bddde2960e8a1d34c2c451c0d0bdbcb.apk",
+                "load1": "https://pool.apk.aptoide.com/appupdater/com-chess-267170-76829966-ae569ed504087edd67618e74e107d5c6.apk",
                 "load2": null,
                 "apkInfo": {
                     "source": "aptoide",
                     "store": "appupdater",
-                    "version": "4.9.44-googleplay",
-                    "versionCode": 267131,
-                    "size": "109.0MB",
-                    "md5": "4bddde2960e8a1d34c2c451c0d0bdbcb",
+                    "version": "4.9.46-googleplay",
+                    "versionCode": 267170,
+                    "size": "111.4MB",
+                    "md5": "ae569ed504087edd67618e74e107d5c6",
                     "signatureSha1": "C4:EC:83:31:5F:23:0F:FD:86:27:C9:98:B1:56:98:5B:34:F6:19:CF",
                     "signer": "CN=Anton Shapovalov, OU=developer, O=Jetmind, L=Kharkov",
                     "obbUrl": null
                 },
-                "apk1": "https://pool.apk.aptoide.com/appupdater/com-chess-267131-76516488-4bddde2960e8a1d34c2c451c0d0bdbcb.apk",
+                "apk1": "https://pool.apk.aptoide.com/appupdater/com-chess-267170-76829966-ae569ed504087edd67618e74e107d5c6.apk",
                 "apk2": null
             }
         },
@@ -4690,7 +4690,7 @@
             "package": "com.gameloft.android.ANMP.GloftOLHM",
             "details": {
                 "downloads": "60M+",
-                "rating": 4.21,
+                "rating": 4.2,
                 "size": "94.3MB",
                 "ageRating": "PEGI-18",
                 "androidVersion": "7.0+",
@@ -4742,7 +4742,7 @@
             "package": "com.naturalmotion.clumsyninja",
             "details": {
                 "downloads": "47M+",
-                "rating": 3.67,
+                "rating": 3.66,
                 "size": "26.3MB",
                 "ageRating": "PEGI-3",
                 "androidVersion": "4.0+",
@@ -4893,12 +4893,12 @@
             "title": "Temple Run",
             "package": "com.imangi.templerun",
             "details": {
-                "downloads": "965M+",
+                "downloads": "966M+",
                 "rating": 4.19,
                 "size": "154.2MB",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
-                "version": "1.41.0"
+                "version": "1.42.0"
             },
             "description": "Temple Run is an action-adventure game that is available for the Android platform, where players navigate through ancient temples while avoiding obstacles and escaping from pursuing enemies. This fast-paced game is popular among users and offers an engaging experience as players attempt to outrun Demon Monkeys after stealing a cursed idol. To join in on the excitement, interested users can download Temple Run and become part of a global community of players.\n\nThe core gameplay of Temple Run involves controlling a character who runs automatically through a series of intricate pathways. Players use swipe gestures to perform actions such as jumping over gaps, sliding under obstacles, and turning to avoid hazards along the way. This intuitive control scheme allows for quick reflexes and precise movements, which are crucial for progressing further in the game. The thrill of navigating through ancient ruins and treacherous cliffs adds to the overall adrenaline rush.\n\nTemple Run features a variety of environments that players traverse, each with its own set of challenges. As players progress, they encounter different types of obstacles, including fire traps, pitfalls, and walls that require precise timing to navigate. Collecting coins during the run is an essential aspect, as these coins can be used to unlock power-ups and characters, enhancing the gameplay experience. \n\nIn addition to the primary gameplay elements, Temple Run offers several power-ups that can be activated during a run. These power-ups provide temporary boosts such as invincibility, coin magnets, and speed boosts, which can help players cover more distance and achieve higher scores. Players can customize their experience by selecting different characters, each with unique abilities that can influence gameplay.\n\nThe game encourages competition among friends and players worldwide by allowing users to compare scores. With the social aspect integrated into the game, players can challenge their friends to beat their high scores, fostering a sense of community and engagement. This competitive element is a significant draw, as players are motivated to improve their skills and climb the leaderboards.\n\nTemple Run also incorporates a system for completing missions and achieving objectives. Successfully completing these missions rewards players with additional coins and experience points, which can then be used to level up and unlock new features. This progression system adds depth to the gameplay, giving players goals to strive for beyond simply running as far as possible.\n\nMoreover, the game is designed with vibrant graphics and smooth animations, enhancing the overall user experience. The visuals depict lush environments inspired by ancient cultures, contributing to the immersive nature of the gameplay. The sound effects and music further complement the atmosphere, providing an engaging backdrop to the fast-paced action.\n\nAs players dive into the world of Temple Run, they can expect a challenging experience that tests their reflexes and decision-making skills. The game’s straightforward mechanics combined with the ever-increasing difficulty levels keep players engaged and returning for more. Regular updates may introduce new features, characters, and environments, ensuring that the gameplay remains fresh and exciting.\n\nTemple Run has garnered significant recognition in the gaming community, with millions of players worldwide enjoying the game. It has received positive reviews from various gaming outlets, celebrating its fun and addictive nature. Players have praised the game for its ability to provide a thrilling experience that can be enjoyed in short bursts or longer sessions.\n\nIn summary, Temple Run offers a dynamic and engaging gameplay experience that combines reflex-based challenges with a competitive edge. The ability to download Temple Run on the Android platform opens the door for players to join a global phenomenon. With its intuitive controls, diverse environments, and a variety of characters and power-ups, Temple Run remains a popular choice among action-adventure games. The thrill of escape and the joy of achieving high scores contribute to its lasting appeal in the mobile gaming landscape.",
             "whatsNew": "New ways to play Temple Run, one of the most popular apps of all time!\n\nIntroducing Global Challenges! Earn in-game rewards while you play.",
@@ -4939,7 +4939,7 @@
             "package": "net.bat.store",
             "details": {
                 "downloads": "901M+",
-                "rating": 3.75,
+                "rating": 3.74,
                 "size": "113.5MB",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
@@ -4985,7 +4985,7 @@
             "title": "Magic Tiles 3: Piano Game",
             "package": "com.youmusic.magictiles",
             "details": {
-                "downloads": "837M+",
+                "downloads": "838M+",
                 "rating": 4.33,
                 "size": "178.4MB",
                 "ageRating": "PEGI-3",
@@ -5122,12 +5122,12 @@
             "title": "EA SPORTS FC™: UEFA EURO 2024™",
             "package": "com.ea.gp.fifamobile",
             "details": {
-                "downloads": "797M+",
+                "downloads": "799M+",
                 "rating": 4.53,
                 "size": "153.8MB",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
-                "version": "27.0.04"
+                "version": "28.0.01"
             },
             "description": "EA SPORTS FC™: UEFA EURO 2024™ is a mobile soccer simulation game designed for the Android platform. This app immerses players in the world of football, allowing them to engage with their favorite teams and players as they participate in the UEFA EURO 2024 tournament. Users can download EA SPORTS FC™ to experience a variety of game modes that cater to soccer enthusiasts.\n\nThe app features a range of licensed teams and players, providing an authentic football experience. Players can take control of popular clubs, including those from major leagues such as the English Premier League and La Liga. The inclusion of licensed teams ensures that fans can engage with their favorite clubs, playing as renowned players or rising stars. \n\nOne of the prominent aspects of EA SPORTS FC™: UEFA EURO 2024™ is its detailed gameplay mechanics. Players can engage in real-time matches, utilizing strategic plays and techniques to outmaneuver opponents. The match controls are designed to offer a responsive and engaging experience, allowing users to execute various actions such as passing, shooting, and defending with precision.\n\nThe app incorporates a League chat feature, enabling players to communicate and strategize with friends and fellow players. This social aspect enhances the multiplayer experience, allowing for collaborative gameplay and friendly competition. For players under the age of majority, parental controls can be adjusted to disable this feature, ensuring a safe gaming environment.\n\nIn addition to the standard match modes, the app offers a Club Challenge PVP mode. This mode allows players to compete against others in real-time, showcasing their skills and team strategies. Players can choose to represent authentic clubs, further enhancing the competitive nature of the gameplay. The integration of league broadcasting packages adds to the realism, simulating the experience of watching live matches.\n\nEA SPORTS FC™: UEFA EURO 2024™ also provides ongoing updates related to real-world football. Players can stay informed about current competitions, teams, and players through the FC Football Centre. This feature allows users to participate in key matches that reflect the actual football season, earning rewards and exclusive items as they progress.\n\nThe app includes optional in-game purchases, allowing players to acquire virtual currency and items. This feature enables players to enhance their teams by obtaining new players or upgrading existing ones. The ability to collect and trade virtual items adds an additional layer of depth to the gameplay, encouraging engagement and competition among players.\n\nTraining and progression are also central to the experience in EA SPORTS FC™: UEFA EURO 2024™. Players can develop their teams by training individual players, improving their skills and abilities over time. This feature allows users to build a dream team tailored to their strategic preferences, making each match experience unique.\n\nThe graphical quality and presentation of the game contribute to an immersive environment. Players can enjoy detailed graphics that bring the soccer field to life, along with animations that reflect the movements and actions of real players. The attention to detail in player likenesses and stadium environments enhances the overall gameplay experience.\n\nFurthermore, the app is designed to be accessible to a wide audience, making it suitable for both casual gamers and dedicated soccer fans. The variety of game modes and challenges ensures that players of different skill levels can find enjoyment within the app. This inclusivity encourages a diverse player base, fostering a vibrant community around the game.\n\nEA SPORTS FC™: UEFA EURO 2024™ successfully captures the excitement of football by offering a range of features that appeal to fans of the sport. The ability to engage with licensed teams, players, and real-world competitions enriches the gaming experience, making it a compelling choice for soccer enthusiasts. \n\nWith its combination of strategic gameplay, social features, and ongoing updates, the app provides a comprehensive platform for football fans. Players can download EA SPORTS FC™ to fully immerse themselves in the world of soccer, whether by competing in matches, building their dream teams, or engaging with friends. The various modes and features cater to a broad spectrum of players, ensuring that everyone can find something enjoyable within the app.\n\nFor those looking to experience the thrill of soccer on their mobile devices, EA SPORTS FC™: UEFA EURO 2024™ offers a well-rounded and engaging gameplay experience. The app stands out with its commitment to authenticity, player development, and community engagement, making it a notable entry in the world of mobile sports gaming.",
             "whatsNew": "The UEFA EURO 2024™ Update is here! Join us for the Summer of Football. Play the UEFA EURO 2024™ Tournament mode, get your Daily Picks in Extra Time and upgrade your Ultimate Team™ using the new Training Transfer feature.\r\n\r\nSee you on the pitch!",
@@ -5204,7 +5204,7 @@
                 "size": "178.6MB",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
-                "version": "7.16.1"
+                "version": "7.17.0"
             },
             "description": "Extreme Car Driving Simulator is an open-world driving game available since 2014, offering a physics-based car simulation within an open city environment. The game centers on driving mechanics and vehicle control rather than narrative progression, providing a sandbox where players explore automotive behavior through various driving activities and traffic scenarios.\n\nWithin the city environment, players engage in sports car driving across city streets and roads, experimenting with different vehicles and handling characteristics. The core driving mechanics emphasize skill-based control, with drifting and burnout techniques requiring precise throttle and steering coordination. The game includes stunt driving actions that expand the range of driving behaviors available, while simulated traffic creates dynamic road conditions that players navigate alongside their driving objectives and exploration activities.\n\nCompetitive racing involves direct vehicle-to-vehicle competition within the world. The game does not include police pursuit mechanics, instead focusing on racing that tests driving ability and vehicle control throughout the course.\n\nThe simulation models vehicle physics and behavior with visible consequences for driving actions. Car damage is calculated based on collisions and impacts, and crash mechanics reflect how vehicles respond to physical forces throughout gameplay. The damage system provides feedback on driving performance when navigating the city environment and pushing performance boundaries.\n\nExtreme Car Driving Simulator includes toggleable simulation assists that allow players to customize the realism level to their preferences. The ABS simulation can be turned on or off, affecting how the brakes respond under heavy braking conditions. Traction Control simulation adjusts how much grip the tires maintain when accelerating, and Electronic Stability Program simulation modulates chassis stability during cornering and dynamic maneuvers. These options let players adjust the physics complexity to their skill level.\n\nControl input works across multiple methods: arrow keys, gamepad controllers, accelerometer controls on compatible devices, or steering wheel hardware when available. Camera options provide multiple viewpoints, allowing players to select perspectives suited to their driving style or preference for immersion during extended play. The head-up display presents essential driving information including RPM, current gear, and speed, keeping core telemetry visible during gameplay and racing sequences.\n\nCheckpoint mode provides a structured approach to driving objectives within the world, establishing waypoints or goals that players must reach while navigating particular routes with accuracy and control.\n\nThe physics model governing steering mechanics responds to input precision, road surface conditions, and vehicle momentum during every maneuver. Steering wheel hardware enables racing wheels and pedal systems alongside the software simulation for greater immersion and control fidelity. Accelerometer controls support motion-based steering on compatible devices, accommodating different player preferences and available equipment.",
             "whatsNew": "- Massive performance upgrades delivering a faster, smoother, and more responsive gameplay experience across the entire game.\n\n-Added two brand-new vehicles with fresh ways to explore the city.\n\n-Increased rewards across multiple game modes to make progression faster and more rewarding.\n\n-Improved performance, optimization, and stability across a wider range of devices.\n\n-Fixed multiple bugs and issues reported by the communit.\n\n-Thank you for your support, feedback, and passion for the game!",
@@ -5337,7 +5337,7 @@
             "package": "com.wildspike.wormszone",
             "details": {
                 "downloads": "679M+",
-                "rating": 4.36,
+                "rating": 4.35,
                 "size": "59.7MB",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
@@ -5381,7 +5381,7 @@
                 "size": "154.9MB",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
-                "version": "8.16.3"
+                "version": "8.16.7"
             },
             "description": "Exciting arcade games and music games! Love Going Balls or Dancing Line? Master this rhythm rush. A new piano game where your music ball hits every tile. A test for fans of rhythm games and ball games.\n\nThis piano game is about timing. Guide your music ball across music tiles, like a guitar hero. Each tile is part of the song. An engaging piano game and top-tier music game. Adventure across endless music tiles. Experience the ultimate rhythm rush on every tile. The ultimate music game experience.\n\n🎵 Why You'll Love This Music Game:\n\nIntense Arcade & Ball Games Action: Thrilling arcade games and ball games with rhythm mechanics. A top-tier piano game and music game.\n\nInspired by Greats: Enjoy Going Balls, Dancing Line, or Guitar Hero? You'll love these rhythm games and music games.\n\nMaster Music Tiles: Every tile challenges your music ball. Unpredictable music tiles path in these dynamic piano games and ball games.\n\nTrue Rhythm Rush: More than a piano game, a full rhythm rush. For fans of rhythm games and music games.\n\nFeel Like a Guitar Hero: Hit every note on each tile with your music ball. Become a legend in these arcade games.\n\nDownload the Best of Music Games Now!\n\nLooking for a new piano game or challenging arcade games and ball games? Master the music tiles, conquer every tile, and feel the rhythm rush. Prove your rhythm games skills in this amazing music game!",
             "whatsNew": "We update regularly to improve the game quality\n\n🌟 Improve visual and effect for some elements in-game\n\n🌟 Searching for songs is easier\n\n🌟 Some random players will receive new features\n\n❤️ Enjoy the game and rate for us 👍",
@@ -5461,8 +5461,8 @@
             "title": "Carrom Pool: Disc Game",
             "package": "com.miniclip.carrom",
             "details": {
-                "downloads": "640M+",
-                "rating": 4.4,
+                "downloads": "641M+",
+                "rating": 4.41,
                 "size": "227.2MB",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
@@ -5509,7 +5509,7 @@
             "title": "Lords Mobile x Transformers",
             "package": "com.igg.android.lordsmobile",
             "details": {
-                "downloads": "628M+",
+                "downloads": "629M+",
                 "rating": 4.33,
                 "size": "Varies with device",
                 "ageRating": "PEGI-7",
@@ -5550,7 +5550,7 @@
             "title": "Candy Crush Soda Saga",
             "package": "com.king.candycrushsodasaga",
             "details": {
-                "downloads": "624M+",
+                "downloads": "625M+",
                 "rating": 4.39,
                 "size": "Varies with device",
                 "ageRating": "PEGI-3",
@@ -5592,7 +5592,7 @@
             "package": "com.playrix.gardenscapes",
             "details": {
                 "downloads": "605M+",
-                "rating": 4.67,
+                "rating": 4.66,
                 "size": "Varies with device",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
@@ -5684,7 +5684,7 @@
                 "size": "150.5MB",
                 "ageRating": "PEGI-3",
                 "androidVersion": "6.0+",
-                "version": "4.4.2"
+                "version": "4.5.1"
             },
             "description": "Block Craft 3D is a building simulation game available for the Android platform that allows users to craft and grow their own villages or explore an unlimited open world. This engaging game offers players a chance to construct various structures, ranging from simple houses to complex castles, mines, and even spaceships. With its pixel graphics, Block Craft 3D provides a unique visual experience that appeals to a wide audience.\n\nThe game features a wide range of construction options, enabling players to express their creativity through building. Users can choose to create iconic landmarks such as the Eiffel Tower or design their own custom constructions. The variety of building materials and tools available makes it easy to realize one’s architectural visions. This aspect of Block Craft 3D is designed to be accessible, encouraging both casual players and those with a keen interest in construction to engage in the building process.\n\nIn addition to building, players can simulate life within their created worlds. This life simulation aspect allows users to interact with various elements within the game, fostering a sense of community and engagement as they develop their villages. The game does not include hostile elements, allowing players to focus solely on construction and exploration without the worry of combat or survival mechanics.\n\nBlock Craft 3D also includes the option to adopt and care for animals, enhancing the gameplay experience. Players can choose from a diverse selection of pets, such as dogs, cats, and even elephants, adding a layer of interactivity and companionship to their virtual lives. This feature encourages players to explore their creativity while also fostering a connection with the digital animals they choose to adopt.\n\nMultiplayer functionality is another significant aspect of Block Craft 3D. Users can visit the cities built by friends or others in the community, facilitating collaboration and the exchange of ideas. This social element allows players to assist each other in completing constructions, share inspiration, and explore the creative designs of others. Engaging with friends through multiplayer options enhances the overall experience and offers new opportunities for collaboration.\n\nPlayers can also create and sell custom blocks and furniture within the game. This feature allows for further personalization of creations, as users can craft unique items that reflect their individual style. Selling these custom creations provides players with gems, which can be used to acquire additional resources or features, enhancing the gameplay loop and incentivizing creativity.\n\nFor those who may find themselves lacking inspiration, Block Craft 3D offers a solution. Players can visit the villages of their friends to gather ideas or follow blueprints and guides provided within the game. This support system is particularly beneficial for newcomers, as it allows them to learn from the designs of others and gain confidence in their building abilities.\n\nThe game is designed to be user-friendly, eliminating the need for complex mods or launchers to enjoy the full experience. Users can jump right into the action without the barriers often associated with other building games. This ease of access contributes to the game's appeal, making it a popular choice among a diverse group of players.\n\nBlock Craft 3D emphasizes creativity and exploration, providing a platform for players to engage in building and life simulation. With its various construction options, animal interactions, and multiplayer capabilities, the game offers a comprehensive experience that caters to different playstyles. The inclusion of crafting and selling elements adds depth to the gameplay, encouraging players to explore their creativity further.\n\nIn summary, Block Craft 3D presents a dynamic environment for building and simulation enthusiasts. By offering a range of features, including the ability to create a wide variety of structures, adopt pets, and engage in multiplayer exploration, the game successfully captures the essence of creativity and community. The absence of combat elements allows players to immerse themselves in construction without distractions, making it a valuable addition to the genre. For those looking to explore their architectural skills and connect with others in a virtual space, downloading Block Craft 3D is a worthwhile endeavor.",
             "whatsNew": "We update the game regularly so we can make it better for you. Get the latest version for all of the available features. Thanks for playing Block Craft!",
@@ -5807,7 +5807,7 @@
             "title": "Talking Tom Hero Dash",
             "package": "com.outfit7.herodash",
             "details": {
-                "downloads": "554M+",
+                "downloads": "555M+",
                 "rating": 4.26,
                 "size": "195.8MB",
                 "ageRating": "PEGI-7",
@@ -5892,12 +5892,12 @@
             "title": "My Talking Angela 2",
             "package": "com.outfit7.mytalkingangela2",
             "details": {
-                "downloads": "528M+",
+                "downloads": "529M+",
                 "rating": 4.39,
                 "size": "256.7MB",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
-                "version": "26.4.6.43294"
+                "version": "26.5.1.44243"
             },
             "description": "My Talking Angela 2 is a virtual pet game that allows users to engage with a character named Angela in a lively city setting. This app offers a mix of entertainment, creativity, and style, making it an enjoyable experience for users who download it on the Android platform. My Talking Angela 2, part of the Talking Tom & Friends universe, provides opportunities for players to interact with Angela through various activities and customization options.\n\nPlayers can immerse themselves in a world of fashion by exploring an array of stylish hair, makeup, and clothing choices for Angela. Users can transform her appearance with different hairstyles and outfits, allowing for a personalized touch that reflects individual preferences. Fashion shows are a prominent aspect of the game, where players can showcase Angela's unique style and creativity.\n\nEngagement with the app goes beyond fashion, as it features a wide range of activities. Users can participate in dancing, baking, martial arts, trampoline jumping, jewelry making, and gardening. Each activity is designed to provide an entertaining experience while allowing players to develop skills and enjoy the gameplay. The baking aspect of the game invites users to prepare delicious treats, including cakes and cookies, catering to Angela's sweet tooth and enhancing the interaction with the character.\n\nTravel adventures are another exciting element of My Talking Angela 2. Players can take Angela on journeys to various destinations, where she can explore new cultures and environments. This feature not only adds diversity to the gameplay but also encourages players to discover different aspects of the game while shopping for fashionable items in various locations.\n\nThe app includes a selection of mini-games and puzzles that challenge players' reflexes and strategic thinking. These games are designed to be engaging and provide an additional layer of entertainment, ensuring that users remain actively involved in the app. Players can earn rewards and progress through the game by successfully completing these challenges.\n\nCollecting stickers is an integral part of the gameplay experience. Users can work towards completing sticker albums, which unlock special rewards and additional content within the app. This feature encourages exploration and adds a sense of achievement as players gather various stickers throughout their journey with Angela.\n\nCreativity is further emphasized in My Talking Angela 2, as players are inspired to design outfits, experiment with makeup, and decorate Angela's home. The app encourages self-expression and allows users to showcase their personal style while interacting with the character. This aspect of the game fosters a connection between players and Angela, enriching the overall experience.\n\nMy Talking Angela 2 also incorporates YouTube integration, allowing users to watch videos featuring Outfit7's animated characters. This connection adds a multimedia element to the app, enhancing the interaction with the brand and providing additional entertainment options.\n\nThe app promotes Outfit7's products and includes advertising, linking to other apps and websites within the Outfit7 ecosystem. This feature ensures that users are aware of other offerings from the developers while enjoying My Talking Angela 2.\n\nIn-app purchases are available for users who wish to enhance their experience further. Items can be purchased using virtual currency, which players can earn through gameplay. Additionally, there are alternative options to access all functionalities of the app without requiring real money, making it inclusive for a wider audience.\n\nThe engaging nature of My Talking Angela 2 is designed to encourage users to return and play regularly. Personalized content keeps the gameplay fresh and exciting, enticing players to continue exploring what the app has to offer.\n\nMy Talking Angela 2 stands out in the realm of virtual pet games by combining fashion, creativity, and interactive gameplay. Players can enjoy a variety of activities and challenges while maintaining a personalized connection with Angela. The app's diverse features, from customizing outfits to embarking on travel adventures, ensure a well-rounded and enjoyable experience for users. With its focus on creativity, skill development, and entertainment, My Talking Angela 2 remains a compelling choice for those looking to engage with a virtual pet in a dynamic and stylish environment.\n\nFor more information, users can refer to the terms of use and privacy policy available on Outfit7's official websites.",
             "whatsNew": "CUSTOMIZE EVERY NAIL\n\n- Go wild with colors, art, and patterns\n\n- Stack stickers for max style\n\n- Switch it up anytime and chase the perfect set\n\n- In some territories, this feature may be subject to additional pricing",
@@ -6025,7 +6025,7 @@
                 "size": "91.1MB",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
-                "version": "10.3.1"
+                "version": "10.4.0"
             },
             "description": "Endless runner action has never been faster with Sonic Dash! Feel the speed in this mobile adventure game as you navigate fun 3D runner race courses with Sonic the Hedgehog, Knuckles, Tails, Shadow, and more. Collect rings, race past challenging obstacles, and battle epic bosses in this fast running game by SEGA! Sonic Dash is a fun run game for kids and adults alike.\n\nEnjoy running games with a Sonic twist! Run, race, and jump fast with Sonic and friends. This exciting endless running game brings you a blazing fast mobile adventure experience with easy to use controls to help you dominate each course. Collect rings, spin dash through badniks, and battle Dr. Eggman in epic boss battles in a 3D runner like no other!\n\nCollect character cards and unlock your favorite Sonic characters! Put your running, racing, and jumping capabilities to the test. Play as Knuckles, Tails, Amy, and more in endless running games in a fast-paced mobile adventure battle game that only the Sonic universe can deliver. If you’re a fan of Original, Classic Sonic and Classic SEGA games, you’ll love the endless runner adventure that Sonic Dash has to offer!\n\nEndless running games and battles have never looked better! Sonic Dash combines endless runner gameplay with the iconic Sonic universe! Featuring inspired track design from classic Sonic levels such as Green Hill Zone with its loop de loops and corkscrews! Experience new levels in this Sonic mobile adventure game such as the Beach Zone and run through the sand or take to the skies in the Sky Sanctuary Zone!\n\nExperience an endless runner adventure like no other! Run with Sonic & friends, collect rings, battle bosses, level up, and earn rewards today! Experience speed the Sonic way in this spectacular 3D runner! Download today!\n\nEPIC ENDLESS RUNNER WITH SONIC\n- Dash into an endless running game like no other\n- Casual fun run adventure or record breaking challenge? It’s up to you!\n- Spin dash badniks, collect rings, & earn rewards in this running battle game!\n- Run with easy to use controls\n\nCOLLECT YOUR FAVORITE SONIC CHARACTERS\n- Sonic, Shadow, Tails, Knuckles, and many more await the next fun run\n- Start up your next endless running game with your favorite Sonic character\n- This 3D Runner will take you on a speedy battle adventure alongside Sonic and beloved characters\n\nRUNNING GAMES HAVE NEVER LOOKED SO GOOD\n- Endless runner battle game within the iconic Sonic Universe\n- Run, dash, & jump through Green Hill Zone, Beach Zone, and more\n- Enjoy a fun run upside down on loop de loops, on a corkscrew, or underwater\n\nEPIC 3D RUNNER BOSS BATTLES\n- Run fast & battle bosses like Dr. Eggman and Zazz\n- Jump & dodge their attacks & finish them with a spin dash attack\n- Collect & earn big points and rewards\n\nMORE THAN JUST AN ENDLESS RUNNER\n- Customize your endless running game outside of the course\n- Save animal friends and explore this Sonic mobile adventure universe\n- Customize your very own zone in a fun run experience that goes beyond the track\n\nPrivacy Policy: http://www.sega.com/mprivacy/\nTerms of Use: http://www.sega.com/Mobile_EULA\n\nSEGA’s Sonic Dash is ad-supported and in-app purchases are not required to progress. Ad-free play is available with an in-app purchase.",
             "whatsNew": "New Runner! \n\n- Striker Sonic! The first soccer player!",
@@ -6054,6 +6054,47 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.sega.sonicdash",
                 "webpage": [
                     "https://game-guard-three.vercel.app/game/sonic"
+                ],
+                "load1": null,
+                "load2": null,
+                "apk1": null,
+                "apk2": null
+            }
+        },
+        {
+            "id": "township",
+            "title": "Township",
+            "package": "com.playrix.township",
+            "details": {
+                "downloads": "521M+",
+                "rating": 4.72,
+                "size": "Varies with device",
+                "ageRating": "PEGI-3",
+                "androidVersion": "Varies with device",
+                "version": "39.0.5",
+                "isFree": true
+            },
+            "description": "BUILD YOUR DREAM TOWN!\r\n\r\nWelcome to Township, a thrilling city-building and farming game where you become the mayor of your own town!\r\nBuild houses, factories, and community buildings, grow crops on your farm, and decorate your town just the way you like. Take part in limited-time events, compete in exciting regattas, and earn exclusive prizes!\r\n\r\nNeed a break from city planning? Jump into relaxing match-3 puzzles to earn rewards, speed up your progress, and unlock even more fun — all available offline!\r\nTownship — the perfect blend of city-building, farming, and match-3 gameplay!\r\n\r\nGAME FEATURES:\r\n● Unlimited creativity: Design and build the metropolis of your dreams!\r\n● Engaging match-3 puzzles: Complete fun levels to earn rewards and boost your progress!\r\n● Exciting competitions: Test your skills against players from around the world in regular competitions — win prizes and make unforgettable memories!\r\n● Exclusive collections: Gather valuable artifacts, rare antiquities, and colorful profile pictures to showcase your achievements!\r\n● Offline play: Enjoy Township anytime, anywhere — even without an internet connection!\r\n● Vibrant community: Meet friendly characters with unique personalities!\r\n● Social connections: Play with your Facebook friends or make new friends in the Township community!\r\n\r\nWhy You'll Love Township:\r\n● A unique mix of city-building, farming, and match-3 gameplay!\r\n● Stunning graphics and charming animations\r\n● Regular updates with fresh content and special events\r\n● Personalize your town with a wide variety of decorations\r\n\r\nTownship is free to play, but some in-game elements (including randomized items) can be purchased for real money.\r\n\r\nA Wi-Fi or internet connection is not required to play.\r\n *An internet connection is required to access competitions and additional features.\r\n\r\nDo you like Township? Follow us!\r\nFacebook: facebook.com/TownshipMobile\r\nInstagram: instagram.com/township_mobile/\r\n\r\nNeed to report an issue or ask a question? Contact Player Support through the game by going to Settings > Help and Support. If you can't access the game, use the web chat by clicking the chat icon in the lower right corner of our website: https://playrix.helpshift.com/hc/en/3-township/\r\n\r\nPrivacy Policy:\r\nhttps://playrix.com/privacy/index.html\r\nTerms of Use:\r\nhttps://playrix.com/terms/index.html",
+            "whatsNew": "",
+            "media": {
+                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/township/icon.png",
+                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/township/banner.png",
+                "screenshots": [
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/township/screenshots/1.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/township/screenshots/2.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/township/screenshots/3.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/township/screenshots/4.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/township/screenshots/5.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/township/screenshots/6.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/township/screenshots/7.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/township/screenshots/8.jpg"
+                ]
+            },
+            "downloadLinks": {
+                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.playrix.township",
+                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.playrix.township",
+                "webpage": [
+                    "https://game-guard-three.vercel.app/game/township"
                 ],
                 "load1": null,
                 "load2": null,
@@ -6103,57 +6144,16 @@
             }
         },
         {
-            "id": "township",
-            "title": "Township",
-            "package": "com.playrix.township",
-            "details": {
-                "downloads": "520M+",
-                "rating": 4.72,
-                "size": "Varies with device",
-                "ageRating": "PEGI-3",
-                "androidVersion": "Varies with device",
-                "version": "39.0.3",
-                "isFree": true
-            },
-            "description": "BUILD YOUR DREAM TOWN!\r\n\r\nWelcome to Township, a thrilling city-building and farming game where you become the mayor of your own town!\r\nBuild houses, factories, and community buildings, grow crops on your farm, and decorate your town just the way you like. Take part in limited-time events, compete in exciting regattas, and earn exclusive prizes!\r\n\r\nNeed a break from city planning? Jump into relaxing match-3 puzzles to earn rewards, speed up your progress, and unlock even more fun — all available offline!\r\nTownship — the perfect blend of city-building, farming, and match-3 gameplay!\r\n\r\nGAME FEATURES:\r\n● Unlimited creativity: Design and build the metropolis of your dreams!\r\n● Engaging match-3 puzzles: Complete fun levels to earn rewards and boost your progress!\r\n● Exciting competitions: Test your skills against players from around the world in regular competitions — win prizes and make unforgettable memories!\r\n● Exclusive collections: Gather valuable artifacts, rare antiquities, and colorful profile pictures to showcase your achievements!\r\n● Offline play: Enjoy Township anytime, anywhere — even without an internet connection!\r\n● Vibrant community: Meet friendly characters with unique personalities!\r\n● Social connections: Play with your Facebook friends or make new friends in the Township community!\r\n\r\nWhy You'll Love Township:\r\n● A unique mix of city-building, farming, and match-3 gameplay!\r\n● Stunning graphics and charming animations\r\n● Regular updates with fresh content and special events\r\n● Personalize your town with a wide variety of decorations\r\n\r\nTownship is free to play, but some in-game elements (including randomized items) can be purchased for real money.\r\n\r\nA Wi-Fi or internet connection is not required to play.\r\n *An internet connection is required to access competitions and additional features.\r\n\r\nDo you like Township? Follow us!\r\nFacebook: facebook.com/TownshipMobile\r\nInstagram: instagram.com/township_mobile/\r\n\r\nNeed to report an issue or ask a question? Contact Player Support through the game by going to Settings > Help and Support. If you can't access the game, use the web chat by clicking the chat icon in the lower right corner of our website: https://playrix.helpshift.com/hc/en/3-township/\r\n\r\nPrivacy Policy:\r\nhttps://playrix.com/privacy/index.html\r\nTerms of Use:\r\nhttps://playrix.com/terms/index.html",
-            "whatsNew": "",
-            "media": {
-                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/township/icon.png",
-                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/township/banner.png",
-                "screenshots": [
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/township/screenshots/1.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/township/screenshots/2.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/township/screenshots/3.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/township/screenshots/4.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/township/screenshots/5.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/township/screenshots/6.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/township/screenshots/7.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/township/screenshots/8.jpg"
-                ]
-            },
-            "downloadLinks": {
-                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.playrix.township",
-                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.playrix.township",
-                "webpage": [
-                    "https://game-guard-three.vercel.app/game/township"
-                ],
-                "load1": null,
-                "load2": null,
-                "apk1": null,
-                "apk2": null
-            }
-        },
-        {
             "id": "kickthebuddy",
             "title": "Kick the Buddy－Fun Action Game",
             "package": "com.playgendary.kickthebuddy",
             "details": {
                 "downloads": "520M+",
-                "rating": 3.77,
+                "rating": 3.76,
                 "size": "162.6MB",
                 "ageRating": "PEGI-12",
                 "androidVersion": "Varies with device",
-                "version": "2.20.0"
+                "version": "2.20.2"
             },
             "description": "Looking for a way to relax and unwind after a long day? Or maybe you’re just looking for a fun game to play when bored? Kick The Buddy is the perfect anti stress game for you! This cool game lets you take a break, have fun, and release some energy in a light-hearted way. Whether it’s kicking, punching, or tossing Buddy around, this is all about having fun without any real harm—after all, Buddy is just a ragdoll dummy!\n\nWhy you’ll love Kick The Buddy:\n\n– Fun & Relaxing: Release stress with funny and simple gameplay. Punch, toss, or stretch Buddy in this anti-stress relaxing toy game.\n– Awesome Weapons: From heavy guns to imaginative gadgets, choose from a huge range of items to create your own fun.\n– Customize Buddy: Make your Buddy stand out! Add cool accessories and give him a whole new look.\n– Offline Fun: Enjoy the game anywhere! It’s one of the best anti stress games offline, so no need for Wi-Fi.\n– Non-stop Action: Whether you’re looking for a fun game or want to experiment with ragdoll game physics.\n– Great for Everyone: Fans of boy games for free, ragdoll simulators, and stickman dismounting will love this game!\n\nNo need to worry about stress anymore—just kick, punch, and stretch Buddy in this funny game. Buddy never gets hurt—he’s just a test dummy ready for action! The gameplay is light-hearted, so it’s all about having fun without the stress of strategy or tough challenges. It’s not a killing game, Buddy is here to make you smile, not to be destroyed. You can experiment with toss the buddy, try some cool games weapons, or just have fun with dummy games.\n\nThis one of the best destress relaxing games is perfect for:\n\n– People who want a fun game that’s easy to pick up and play.\n– Those looking for stress relief games after a busy day.\n– Players who enjoy fun no wifi games to pass the time.\n– Anyone looking for fun games with no wifi for travel or just to chill\n\nWhether you’re a fan of destruction games, weird games to play, or simply want to kick back and relax with really fun games, Kick The Buddy has got you covered. It’s one of the fun awesome games that’ll make you laugh and relax at the same time!\n\nSo, what are you waiting for? It’s time to beat the buddy and enjoy some stress relief in this humorous game. No pressure, no rush—just pure fun! Download now and see why it’s one of the funnest games out there.",
             "whatsNew": "Minor bug fixes",
@@ -6191,7 +6191,7 @@
             "package": "com.outfit7.talkingtom2free",
             "details": {
                 "downloads": "478M+",
-                "rating": 3.99,
+                "rating": 3.98,
                 "size": "Varies with device",
                 "ageRating": "PEGI-7",
                 "androidVersion": "Varies with device",
@@ -6232,7 +6232,7 @@
             "package": "io.voodoo.paper2",
             "details": {
                 "downloads": "473M+",
-                "rating": 4.07,
+                "rating": 4.06,
                 "size": "Varies with device",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
@@ -6272,7 +6272,7 @@
             "title": "Football League 2024",
             "package": "com.football.soccer.league",
             "details": {
-                "downloads": "448M+",
+                "downloads": "450M+",
                 "rating": 4.28,
                 "size": "258.8MB",
                 "ageRating": "PEGI-3",
@@ -6314,7 +6314,7 @@
                 "size": "Varies with device",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
-                "version": "6.98.14",
+                "version": "6.99.15",
                 "isFree": true
             },
             "description": "Farm Heroes Saga, from the makers of Candy Crush Saga, Pet Rescue Saga, and Bubble Witch 3 Saga!\r\n\r\nFarming has never been so fun! Jump into a farmtastic adventure: match and collect the cute Cropsies across the farm to solve the match 3 puzzles! Go from puzzle to puzzle, matching fruit and plants, and level up to save the farm from Rancid the Raccoon. Join forces with the Farm Heroes to swap, match, and collect Cropsies. Ready to defend the Farm Lands?\r\n\r\nEnjoy the amazing farm and match 3 puzzle game from King! Match 3 or more Cropsies in a variety of game modes and puzzles. Unlock animals and blast boosters as you solve the different match 3 puzzles.\r\n\r\nExplore 1000’s of Levels\r\nAcres of luscious levels and puzzles await you! Every two weeks, discover new puzzles, for a match 3 game in constant evolution!\r\n\r\nHero Mode\r\nTime for a blast! Match as many Cropsies as you can before running out of moves. The higher the score, the more Magic Beans you gain to help you win the puzzle game.\r\n\r\nRancid Boss Battles\r\nDefend your farm! Solve challenging matching puzzles and, with the help of the farm animals, keep the thief away from your fruit and plants. \r\n\r\nJoin the Farm Club\r\nRecruit cute animals to help you solve puzzles! When matching is not enough anymore, call your animal friends to the rescue and blast powerful boosters to win the game.\r\n\r\nPlay with friends…\r\nTeam up with your friends to enhance your farming experience: chat, play with them and participate in events unique to Farm Teams. Who said the farming adventure had to be lonely?\r\n\r\n…or compete with friends!\r\nYou think your farm is the best? The game is on! Compete in the leaderboard or in the Tractor Dash event to prove you’re the best at match 3 puzzle games.\r\n\r\nStart matching and farming Cropsies today! But most importantly, have fun playing Farm Heroes Saga!\r\n\r\nVisit https://community.king.com/en or contact us in game by going to Settings > Customer Care if you need help!\r\n\r\nFarm Heroes Saga is free to play but optional in-game items such as extra moves or lives require payment. You can turn off the payment feature by disabling in-app purchases in your device’s settings.\r\n\r\nBy downloading Farm Heroes Saga you agree to our terms of service which can be found at https://king.com/termsAndConditions\r\n\r\nDo not sell my data: King shares your personal information with advertising partners to personalize ads. Learn more at https://king.com/privacyPolicy. If you wish to exercise your Do Not Sell My Data rights, you can do so by contacting us via the in-game help center or by going to https://soporto.king.com/contact",
@@ -6391,7 +6391,7 @@
             "title": "Pizza Ready!",
             "package": "io.supercent.pizzaidle",
             "details": {
-                "downloads": "397M+",
+                "downloads": "399M+",
                 "rating": 4.2,
                 "size": "216.2MB",
                 "ageRating": "PEGI-3",
@@ -6428,7 +6428,7 @@
             "title": "Hay Day",
             "package": "com.supercell.hayday",
             "details": {
-                "downloads": "371M+",
+                "downloads": "372M+",
                 "rating": 4.49,
                 "size": "Varies with device",
                 "ageRating": "PEGI-3",
@@ -6474,7 +6474,7 @@
                 "size": "Varies with device",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
-                "version": "26.6.0",
+                "version": "26.6.1",
                 "isFree": true
             },
             "description": "Join hundreds of millions of players for FREE and start the fun slingshot adventure now! Team up with your friends, climb the leaderboards, gather in clans, collect hats, take on challenges, and play fun events in all-new game modes. Evolve your team and show your skills in this exciting Angry Birds game !\r\n\r\nGet to know all of the iconic Angry Birds characters and experience the fun gameplay that has captured the hearts of millions of players.\r\n\r\nFeatures:\r\n\r\n● DAILY CHALLENGES. Have a minute? Complete a daily challenge and earn some quick rewards.\r\n● LEVEL UP your characters with feathers and up their scoring power. Build the ultimate flock!\r\n● JOIN A CLAN to take down the pigs with friends and players around the world.\r\n● COMPETE in the ARENA. Compete with other players for some friendly bird flinging fun and prove who is the best.\r\n● COLLECT SILLY HATS. Collect hats with different fun themes to level up your flock’s fashion game and take part in special events.\r\n● IMPRESS THE MIGHTY EAGLE in special challenges in Mighty Eagle’s Bootcamp and earn coins to use in his exclusive shop.\r\n● LOTS OF LEVELS. Play hundreds of levels with more added in regular updates and limited time events.\r\n● LEADERBOARDS. Compete with your friends and other players and prove who is the best on the global leaderboards.\r\n● CHOOSE YOUR BIRD. Choose which bird to put in the slingshot and defeat the pigs with strategy!\r\n● MULTI-STAGE LEVELS. Play fun, challenging levels with multiple stages – just watch out for Boss Pigs!\r\n● FREE to download! --- Angry Birds 2 is completely free to play. Although Angry Birds 2 can be downloaded for free, there are optional in-app purchases available.\r\n\r\n\r\n ---\r\nWhen playing this game, Rovio will offset the carbon footprint caused by the device’s energy consumption.\r\n\r\nThis game may include: \r\n- Direct links to social networking websites that are intended for an audience over the age of 13. \r\n- Direct links to the internet that can take players away from the game with the potential to browse to any web page.\r\n- Advertising of Rovio products and also products from third parties.\r\n\r\nAlthough some features are available offline, this game may require internet connectivity for certain features. Normal data transfer charges apply. Note: When the game is played for the first time, there is a one-time download of additional content that cannot be completed while offline.\r\n\r\nWe may update the game periodically, for example to add new features or content or to fix bugs or other technical issues. Please note that the game may not function properly if you do not have the newest version installed. If you have not installed the latest update, Rovio will not be responsible for the game failing to function as expected.\r\n\r\nTerms of use: http://www.rovio.com/terms-of-service\r\nPrivacy Policy: http://www.rovio.com/privacy",
@@ -6510,7 +6510,7 @@
             "title": "Need for Speed™ No Limits",
             "package": "com.ea.game.nfs14_row",
             "details": {
-                "downloads": "347M+",
+                "downloads": "348M+",
                 "rating": 3.79,
                 "size": "Varies with device",
                 "ageRating": "PEGI-7",
@@ -6551,7 +6551,7 @@
             "title": "Robbery Bob - King of Sneak",
             "package": "com.chillingo.robberybobfree.android.row",
             "details": {
-                "downloads": "313M+",
+                "downloads": "314M+",
                 "rating": 4.35,
                 "size": "113.4MB",
                 "ageRating": "PEGI-7",
@@ -6726,7 +6726,7 @@
                 "size": "Varies with device",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
-                "version": "8.24.0",
+                "version": "8.25.0",
                 "isFree": true
             },
             "description": "Race and have fun against millions of players. Speed up the wheels and get ready for fun!\r\n\r\nAddictive racing gameplay\r\n- New game mode: Tournaments!\r\n- Race against millions of users on multiplayer\r\n- Train on single player to improve your skills\r\n- Fun guaranteed\r\n- Simple and intuitive driver controls\r\n- Challenge your Facebook friends\r\n- Play without wifi\r\n\r\nAmazing features\r\n-Hundreds of crazy tracks and mad worlds\r\n-Cool stunts\r\n-Tons of amazing bikes\r\n- Don't miss the free updates with lots of new content\r\n\r\nForget those dumb drag car racing games. To become a master motorcycle, skills matter (a lot!). As they say: no pain, no gain! So, start practicing right now to become a pro bike racer and rule them all. It will be addicting, we guarantee fun at the tip of your finger!\r\n\r\nBike Race is brought to you by Top Free Games - the creators of the addicting game: Racing Penguin.\r\n\r\n● Details about user created levels\r\nIf you want to play more than 3 featured user-created levels per day, you will need to buy a level pack. You can play unlimited free levels created by you or your friends if you have their codes. You can also play unlimited free levels shared publicly on the internet by other users. Levels can not be created on a mobile device. To create a level, surf to www.bikerace.com\r\n\r\n● Play it anywhere\r\nBike race does NOT require any internet connection. you can have fun racing in the subway, while flying on a (real) plane, in the car on the road, during services in a temple (or maybe even on the toilet!)\r\n\r\n● Low data usage\r\nThis game will not consume tons of data from your mobile plan that you'd want to use instead to surf the web, watch youtube videos and listen to free music\r\n\r\n● Compatibility and support\r\nWe're continuously working (hard) so that all Android phones and tablets run the game smoothly. please report any issue you may experience to support+bikeraceandroid@topfreegames.com\r\n\r\n● Age rating disclaimer\r\nIt does NOT contain violence nor any other mature content. it's just a simple and straightforward racing game. Feel free to play it with your friends and have fun as if you were kids. We bet it will be fun and you're gonna love it!\r\n\r\n● Privacy policy\r\nhttps://www.topfreegames.com/games/bikerace/legal/privacy",
@@ -6883,7 +6883,7 @@
             "package": "com.oakever.tiletrip",
             "details": {
                 "downloads": "268M+",
-                "rating": 4.74,
+                "rating": 4.73,
                 "size": "250.8MB",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
@@ -7021,8 +7021,8 @@
             "title": "Avatar World ®",
             "package": "com.pazugames.avatarworld",
             "details": {
-                "downloads": "263M+",
-                "rating": 4.55,
+                "downloads": "264M+",
+                "rating": 4.54,
                 "size": "52.4MB",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
@@ -7100,7 +7100,7 @@
                 "size": "153.4MB",
                 "ageRating": "PEGI-3",
                 "androidVersion": "6.0+",
-                "version": "1.158"
+                "version": "1.160"
             },
             "description": "Meet Bubbu, your new virtual pet. He is a cute, emotional and adorable cat who loves to eat tasty food, take selfies, visit friends and dancing. Have fun at Bubbu’s home and find out other secrets about your pet’s life. He will surprise you for sure! Explore Bubbu's colorful world with many adventurous activities!\n\n • Bubbu is waiting for you to be fed, dressed, cuddled and bathed. This lovely cat needs your love and attention every day, so take good care of him from morning to midnight. In one word, make sure your kitty is always happy and smiling, but never hungry, sleepy, sick or bored.\n\n• Take Bubbu to the animal hospital and test your vet skills as a doctor in a modern pet clinic. Visit also spa and beauty salon, there are so many fun jobs you can do! Enjoy beauty and nail salon games like pet manicure, face care and funny bathing, or just go to the cosmetic dentist with your cat. Bring joy to your fluffy pet with stylish makeovers from head to toe in the hair salon where you can become a makeup and hairstyle expert.\n\n• Take Bubbu to the funky showroom and dress him up stylishly. Also don’t forget to make a dream house for your lovely pet. Customize and decorate it with an awesome collection of furniture to make kitty’s home beautiful, warm and cozy.\n\n• Over 30 fun mini-games will provide you with food or with coins to buy items for your virtual cat. Have fun playing Catcher, Cat Connect, Find the Cat, 2048, Paint the Cat, Jump, Pop Balloons, Cheese Builder, Fish Ninja, Cat Sings, Nightmare, Jumping Cat, Diver, Stick Ninja, etc. \n\n• Spin the wheel of fortune every day, complete daily challenges and explore friends' houses to get some extra rewards. Finishing achievements gives you free diamonds to buy something special for your pet!\n\n• Bubbu's land offers you tons of activities. Customize Bubbu’s house into a lovely cat villa. You can grow organic food in the garden and milk a cow everyday as a real farmer. Pimp your cool car and get ready for a hill ride. Take a walk to the seaside and fish or go diving. You can go to the city or even travel into space by rocket to defend your planet against alien invasion. Play football and basketball, pass across sea rocks or climb up the tree. Try to change between day and night and enjoy listening to the sounds of mother nature.\n\nSo, come on, what is keeping you? Adopt Bubbu and make him the happiest virtual cat ever!\n\nThis game is free to play but certain in-game items and features, also some of those mentioned in game description, may require payment via in-app purchases which cost real money. Please check your device settings for more detailed options regarding in-app purchases.\n\nMonthly Subscription: This subscription automatically renews every month unless you turn it off at least 24 hours prior to the end of the current subscription period. You can manage and cancel your subscription any time via Settings in your Google Play account.\n\nThe game contains advertising for Bubadu’s products or some third parties which will redirect users to our or third-party site or app.\n\nThis game is certified compliant with the Children’s Online Privacy Protection Act (COPPA) by FTC approved COPPA safe harbor PRIVO. If you would like to know more about the measures we have in place for protecting child privacy please see our policies here: https://bubadu.com/privacy-policy.shtml .\n\nTerms of service: https://bubadu.com/tos.shtml",
             "whatsNew": "- maintenance",
@@ -7138,7 +7138,7 @@
             "title": "Tile Club - Match Puzzle Games",
             "package": "com.gamovation.tileclub",
             "details": {
-                "downloads": "222M+",
+                "downloads": "223M+",
                 "rating": 4.78,
                 "size": "147.5MB",
                 "ageRating": "PEGI-3",
@@ -7337,7 +7337,7 @@
             "title": "Offline Games - No Wifi Games",
             "package": "com.JindoBlu.OfflineGames",
             "details": {
-                "downloads": "206M+",
+                "downloads": "207M+",
                 "rating": 4.37,
                 "size": "140.8MB",
                 "ageRating": "PEGI-3",
@@ -7388,7 +7388,7 @@
             "package": "com.starplay.spider.fighter.openworld",
             "details": {
                 "downloads": "201M+",
-                "rating": 4.43,
+                "rating": 4.44,
                 "size": "134.1MB",
                 "ageRating": "PEGI-12",
                 "androidVersion": "Varies with device",
@@ -7425,7 +7425,7 @@
             "package": "com.master.hotelmaster",
             "details": {
                 "downloads": "200M+",
-                "rating": 4.41,
+                "rating": 4.4,
                 "size": "248.1MB",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
@@ -7540,7 +7540,7 @@
             "package": "io.supercent.linkedcubic",
             "details": {
                 "downloads": "193M+",
-                "rating": 4.25,
+                "rating": 4.23,
                 "size": "237.8MB",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
@@ -7590,7 +7590,7 @@
             "package": "com.ta.strike.ops",
             "details": {
                 "downloads": "170M+",
-                "rating": 4.34,
+                "rating": 4.32,
                 "size": "245.8MB",
                 "ageRating": "PEGI-12",
                 "androidVersion": "Varies with device",
@@ -7686,7 +7686,7 @@
             "package": "com.cdg.tictactoe",
             "details": {
                 "downloads": "166M+",
-                "rating": 3.71,
+                "rating": 3.68,
                 "size": "175.7MB",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
@@ -7760,11 +7760,11 @@
             "package": "com.playspare.supermarket.store.simulator",
             "details": {
                 "downloads": "159M+",
-                "rating": 4.36,
+                "rating": 4.37,
                 "size": "179.3MB",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
-                "version": "1.37.1"
+                "version": "2.1.0"
             },
             "description": "My Supermarket Simulator 3D places you in charge of running and developing a supermarket operation. The game focuses on the practical realities of retail management, from daily operational tasks to long-term business development and strategic growth.\n\nGameplay centers on stocking shelves and organizing inventory throughout your store. Beyond placing items, you arrange products with attention to customer convenience, influencing how shoppers navigate and discover new goods. This strategic arrangement directly affects customer experience and your store's commercial performance.\n\nPricing forms a central decision-making element. The game features a dynamic pricing system allowing you to adjust prices in response to market conditions rather than relying on fixed markups. You monitor market trends and adjust prices based on economic signals and competitive pressure, considering how they affect demand and profitability, creating a gameplay loop where broader market awareness informs your pricing decisions.\n\nStore expansion represents the primary long-term progression mechanic. As your business generates revenue, you unlock new sections to expand your supermarket's physical footprint. Each newly unlocked section allows you to stock different product categories and expand services. You can also upgrade existing facilities to improve their functionality, capacity, and operational efficiency. This progression creates visible growth where your supermarket becomes larger and more capable over time.\n\nProduct variety expands as your store grows. By unlocking sections and upgrading facilities, you access a broader product catalog serving more customer needs and preferences. Your growing inventory diversity ties to expansion mechanics, allowing you to serve varied customer demands while maintaining operational efficiency.\n\nStaff management is a distinct gameplay component with genuine impact on operations. You hire employees to assist with daily tasks and invest in training programs to develop their capabilities and efficiency. Your staff's quality and training directly affect how smoothly your store operates, making development a meaningful investment.\n\nYour checkout accepts cash and card payments, reflecting contemporary retail and letting customers use their preferred payment method.\n\nCustomization options allow aesthetic personalization beyond operations. You modify your store by selecting visual themes, applying custom colors, and choosing decorative elements. These options let players create visually distinct stores matching their preferences, giving each supermarket a unique visual identity.",
             "whatsNew": "Fix Minor Bugs\n\nSummer Season Pass will be coming in the next update.",
@@ -7841,11 +7841,11 @@
             "package": "com.uc.minigame.relax",
             "details": {
                 "downloads": "151M+",
-                "rating": 4.58,
+                "rating": 4.59,
                 "size": "485.4MB",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
-                "version": "1.0.138"
+                "version": "1.0.140"
             },
             "description": "Welcome to Mini Games: Brainrot Challenge!!        \n\nNeed to unwind after a long day? Step into a world of ultimate challenge with  full of surreal Italian Brainrot games and many more!!\n\nWelcome to Mini Games: Brainrot Challenge - where challenging meets fun and relaxation, where trending brainrot games and filters on social media meet cute design gameplay!\n\nTired after a long day at work and school? This game is designed for all ages and classic-game enthusiasts and puzzle lovers. And the best part? It includes all the trendy filters and popular Italian Brainrot meme characters you are looking for! Get ready to tap, swipe, scream and laugh your mouth off in funny challenges – It's full of silly games, crazy sounds, brainrot challenges that make your brain go wild !! This is not just a normal game… this is a all-in-one brainrot games and filters app at its finest!\n\nDo you like Scream Chicken? Our game includes all the games inspired by the most famous filters on social media such as Scream Chicken Challenge, Animal Sound Challenge, Do Re Mi challenge and many more!! These games are perfect for relaxing and chill moments. \n\nDo you like Italian Brainrot memes? Are you the player who seek challenges in the chaos mini games that are inspired by the most famous Italian meme trend? We have all the mini games like Brainrot Fusion, Merge Brainrot, Ranking Brainrot Meme and many more just to satisfy your need!  \n\nKey Features\n- Stress Relief: Designed to help you unwind and reduce anxiety after a long day.\n- Endless Fun: A variety of mini-games to keep you entertained for hours. Inspired by most popular games and filters on social media. From trending filters, brainrot meme games, puzzle games, tap it games, we have them all!\n- Easy to Play: Simple controls for a relaxing gaming experience.\n- Visually Appealing: Immerse yourself in colorful and soothing 2D graphics.\n\nWhether you're taking a short break, commuting, or simply looking to relax, \"Mini Games: Brainrot Challenge\" offers a perfect escape. It's the perfect app to challenge yourself, pass the time, and have loads of fun.\n\nWho knew having fun could be this easy and convenient? Jump in \"Mini Games: Brainrot Challenge\" and start playing today!",
             "whatsNew": "+Fix bugs",
@@ -7899,7 +7899,7 @@
             "package": "com.outfit7.talkingpierrefree",
             "details": {
                 "downloads": "148M+",
-                "rating": 4.27,
+                "rating": 4.26,
                 "size": "Varies with device",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
@@ -7980,8 +7980,8 @@
             "title": "Number Master: Run and merge",
             "package": "com.kayac.level_up_number",
             "details": {
-                "downloads": "146M+",
-                "rating": 4.1,
+                "downloads": "147M+",
+                "rating": 4.08,
                 "size": "141.6MB",
                 "ageRating": "PEGI-7",
                 "androidVersion": "6.0+",
@@ -8023,7 +8023,7 @@
             "package": "com.miHoYo.GenshinImpact",
             "details": {
                 "downloads": "144M+",
-                "rating": 1.91,
+                "rating": 1.93,
                 "size": "Varies with device",
                 "ageRating": "PEGI-12",
                 "androidVersion": "Varies with device",
@@ -8063,7 +8063,7 @@
             "title": "Moto Rider, Bike Racing Game",
             "package": "com.ig.moto.racing",
             "details": {
-                "downloads": "140M+",
+                "downloads": "141M+",
                 "rating": 4.34,
                 "size": "186.8MB",
                 "ageRating": "PEGI-3",
@@ -8285,7 +8285,7 @@
             "package": "com.JindoBlu.FourPlayers",
             "details": {
                 "downloads": "129M+",
-                "rating": 4.17,
+                "rating": 4.21,
                 "size": "120.8MB",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
@@ -8316,6 +8316,43 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.JindoBlu.FourPlayers",
                 "webpage": [
                     "https://game-guard-three.vercel.app/game/1"
+                ],
+                "load1": null,
+                "load2": null,
+                "apk1": null,
+                "apk2": null
+            }
+        },
+        {
+            "id": "minirelaxing",
+            "title": "Mini Relaxing Game- pop it",
+            "package": "com.sh.fidget.toys.mini.relaxing.antistress.games",
+            "details": {
+                "downloads": "129M+",
+                "rating": 3.72,
+                "size": "239.9MB",
+                "ageRating": "PEGI-3",
+                "androidVersion": "Varies with device",
+                "version": "10.7"
+            },
+            "description": "Need to unwind after a long day? Step into a world of calm with antistress relaxing fidget toys. This popit game is designed to help you relax, focus, and find peace. Explore an array of soothing pop it toys and stress-relief games that stimulate the satisfying experience of puppet games and mindful exercises. Engage with various relaxation toys, each with unique interactions and calming sounds.\n\nThe ultimate ASMR fidget games are designed to relieve stress and soothe your mind. Explore a diverse collection of anti-stress toys, including stress balls, pop it toys, fidget spinners, and more. Each toy offers a unique sensory experience to help you relax and destress.\n\nWe've compiled a list of over 50+ sensory fidget toys.\n\nSome Features of Our Game:\nPop it fidget toy\nFidget spinner\nBalloons popping\nCradle balance balls\nPetals plucking\nASMR cutting\nPottery - Play with the clay\nSlime games\nDalgona cookie cutting\nHydraulic press\nRelaxing fireworks\nMoney gun\nIron balls\nand many more...\n\nMini Relaxing Game is the perfect escape from the hustle and bustle of daily life.\n\nGet rid of stress!",
+            "whatsNew": "",
+            "media": {
+                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minirelaxing/icon.png",
+                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minirelaxing/banner.png",
+                "screenshots": [
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minirelaxing/screenshots/1.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minirelaxing/screenshots/2.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minirelaxing/screenshots/3.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minirelaxing/screenshots/4.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minirelaxing/screenshots/5.png"
+                ]
+            },
+            "downloadLinks": {
+                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sh.fidget.toys.mini.relaxing.antistress.games",
+                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.sh.fidget.toys.mini.relaxing.antistress.games",
+                "webpage": [
+                    "https://game-guard-three.vercel.app/game/minirelaxing"
                 ],
                 "load1": null,
                 "load2": null,
@@ -8357,43 +8394,6 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.gameloft.android.ANMP.GloftDOHM",
                 "webpage": [
                     "https://game-guard-three.vercel.app/game/dragonmania"
-                ],
-                "load1": null,
-                "load2": null,
-                "apk1": null,
-                "apk2": null
-            }
-        },
-        {
-            "id": "minirelaxing",
-            "title": "Mini Relaxing Game- pop it",
-            "package": "com.sh.fidget.toys.mini.relaxing.antistress.games",
-            "details": {
-                "downloads": "128M+",
-                "rating": 3.72,
-                "size": "239.9MB",
-                "ageRating": "PEGI-3",
-                "androidVersion": "Varies with device",
-                "version": "10.6"
-            },
-            "description": "Need to unwind after a long day? Step into a world of calm with antistress relaxing fidget toys. This popit game is designed to help you relax, focus, and find peace. Explore an array of soothing pop it toys and stress-relief games that stimulate the satisfying experience of puppet games and mindful exercises. Engage with various relaxation toys, each with unique interactions and calming sounds.\n\nThe ultimate ASMR fidget games are designed to relieve stress and soothe your mind. Explore a diverse collection of anti-stress toys, including stress balls, pop it toys, fidget spinners, and more. Each toy offers a unique sensory experience to help you relax and destress.\n\nWe've compiled a list of over 50+ sensory fidget toys.\n\nSome Features of Our Game:\nPop it fidget toy\nFidget spinner\nBalloons popping\nCradle balance balls\nPetals plucking\nASMR cutting\nPottery - Play with the clay\nSlime games\nDalgona cookie cutting\nHydraulic press\nRelaxing fireworks\nMoney gun\nIron balls\nand many more...\n\nMini Relaxing Game is the perfect escape from the hustle and bustle of daily life.\n\nGet rid of stress!",
-            "whatsNew": "",
-            "media": {
-                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minirelaxing/icon.png",
-                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minirelaxing/banner.png",
-                "screenshots": [
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minirelaxing/screenshots/1.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minirelaxing/screenshots/2.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minirelaxing/screenshots/3.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minirelaxing/screenshots/4.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/minirelaxing/screenshots/5.png"
-                ]
-            },
-            "downloadLinks": {
-                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sh.fidget.toys.mini.relaxing.antistress.games",
-                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.sh.fidget.toys.mini.relaxing.antistress.games",
-                "webpage": [
-                    "https://game-guard-three.vercel.app/game/minirelaxing"
                 ],
                 "load1": null,
                 "load2": null,
@@ -8454,7 +8454,7 @@
             "package": "com.gnarlygamestudio.agenthunt",
             "details": {
                 "downloads": "121M+",
-                "rating": 4.27,
+                "rating": 4.26,
                 "size": "168.8MB",
                 "ageRating": "PEGI-16",
                 "androidVersion": "Varies with device",
@@ -8497,12 +8497,12 @@
             "title": "Blood Strike - FPS for all",
             "package": "com.netease.newspike",
             "details": {
-                "downloads": "120M+",
+                "downloads": "121M+",
                 "rating": 4.24,
                 "size": "122.1MB",
                 "ageRating": "PEGI-12",
                 "androidVersion": "Varies with device",
-                "version": "1.003.650022"
+                "version": "1.003.650025"
             },
             "description": "Blood Strike is a competitive squad-based battle royale first-person shooter. Teams compete to eliminate opponents and achieve victory by surviving until the match concludes. Matches support variable squad sizes with different progression paths toward eliminating opposing teams.\n\nThe game provides multiple competitive modes beyond the standard battle royale format. Squad Fight emphasizes team-based tactical encounters where squad coordination determines success. Hot Zone introduces concentrated combat within a defined map area, creating intensive firefights in smaller spaces. Weapon Master mode shifts focus to firearm proficiency and weapon-centric gameplay. Limited-time seasonal modes rotate throughout the year, offering periodic changes to match objectives, rulesets, and win conditions. This mode diversity prevents gameplay from becoming repetitive and forces players to continuously adapt their strategies to different match structures and goals.\n\nCharacter selection is fundamental to team composition and strategic depth. Blood Strike features more than 15 playable Strikers, each equipped with distinctive abilities that define their tactical role within a squad. These character abilities shape team strategy beyond individual gunplay, encouraging players to build squads with complementary abilities. Since different Strikers provide distinct tactical tools, team success depends on both coordinated ability usage and individual shooting skill.\n\nThe weapon arsenal emphasizes variety and player customization options. Over 30 weapons span multiple categories and effective ranges, each with distinct handling characteristics and damage profiles suited to different engagement distances. Weapon customization allows meaningful modifications through attachments that alter performance characteristics. The loadout system supports mixed weapon combinations optimized for different ranges or dual-wielded configurations using the same weapon in both slots for consistency. The SKS Marksman Rifle exemplifies weapon category diversity—it features full-auto capability, uncommon for marksman rifles, allowing sustained fire at longer ranges where most operate semi-automatically.\n\nCombat mechanics reward both positioning and gunplay. A recoil control system requires players to manage weapon behavior during sustained engagements, preventing spray-and-pray tactics and rewarding controlled aim. The slide-shoot combo integrates movement with shooting, allowing players to maintain momentum and evasion while dealing damage simultaneously. These mechanics create skill expression and encourage varied tactical approaches to combat encounters.\n\nThe respawn system uses a phased match structure that encourages different playstyles at different match stages. Players have infinite respawns during early and mid-game, allowing aggressive early playstyles without permanent death consequences. As matches approach conclusion, respawns become unavailable in the final minutes, transitioning toward more cautious endgame play where death becomes permanent. This design incentivizes different tactical approaches across match phases, from aggressive early positioning to defensive late-game focus.\n\nPlatform optimization addresses device fragmentation common in competitive mobile gaming. The game is optimized across all device types, from resource-constrained smartphones to high-end systems. Graphics quality scaling enables both capable and limited devices to run the game at playable performance levels. This hardware-agnostic approach consolidates the player base regardless of device tier, reducing matchmaking fragmentation and queue times.\n\nLimited-time seasonal modes introduce rotating objectives and rules that shift the competitive metagame across calendar periods. Rather than mastering a single set of mechanics and strategies, players must continuously reassess character selections, weapon choices, and tactical approaches as each seasonal rotation introduces new win conditions. This design maintains long-term engagement by preventing strategy stagnation.",
             "whatsNew": "[ENZO Collab Event]\n\n6/11 [Superstar Trial]: Official Enzo Collab begins! Complete Missions to unlock the Collab Origin-12 – Playmaker for free, with Superstar Collab rewards waiting for you!\n\n[Brand-New Gameplay: Strike Cup]\n\nThe brand‑new, limited‑time casual Gameplay “Strike Cup” is now live! Knock the soccer ball away with punches and slides, smash it into the opponent’s goal, and claim victory!",
@@ -8625,11 +8625,11 @@
             "package": "com.studio27.MelonPlayground",
             "details": {
                 "downloads": "114M+",
-                "rating": 4.51,
+                "rating": 4.5,
                 "size": "277.4MB",
                 "ageRating": "PEGI-12",
                 "androidVersion": "Varies with device",
-                "version": "38.0"
+                "version": "38.0.1"
             },
             "description": "Melon Sandbox is a physics-based sandbox game centered on experimentation with ragdoll physics and destruction mechanics. Players freely manipulate objects and characters across multiple open-world environments, observing how the physics system responds to different interactions and tools.\n\nThe ragdoll physics engine governs all entity behavior within the world and is designed to support throwing and smashing as primary interaction methods. When players throw objects or characters, the engine calculates trajectories, collisions, and resulting motion. Smashing mechanics deliver direct impact-based destruction. These fundamental interactions form the basis of the gameplay loop, where players observe consequences and experiment with different approaches to achieve varied outcomes.\n\nThe game implements destruction through multiple specific methods, each providing distinct possibilities. Stabbing provides penetration and cutting effects. Crushing compresses and deforms targets. Burning and vaporization offer additional approaches, with vaporization causing immediate disintegration and removal. This variety of destruction methods allows players to approach scenarios from multiple angles, discovering how each functions under different conditions.\n\nTo execute these interactions, players access several tool categories. Firearms deliver ranged destruction through projectile impact against distant targets. Melee weapons provide close-range striking and cutting for direct contact-based destruction. Explosives enable area-of-effect destruction that affects multiple targets through blast force and physics propagation. Vehicles function as large-scale tools that use momentum and mass as destruction mechanisms, creating different physical interactions than handheld weapons. Customizable devices extend the toolkit beyond the default options, allowing players to create specialized tools tailored to specific experimental goals.\n\nThe sandbox features multiple maps with distinct layouts and contexts. The open-world structure removes boundaries on player movement and interaction, encouraging exploration and providing varied settings for testing tools. A player might move between maps to discover how the same tool and destruction method function in different environments, or focus extensively on a single map to exhaustively test possibilities within that specific environment.\n\nA defining feature is the ability to build and modify environments directly. Players can construct or alter the play space rather than being limited to predefined layouts. This enables them to create specific scenarios and systematically test different tools. A player might build an obstacle course to test vehicle mechanics or construct structures to experiment with various destruction methods.\n\nCustomizable devices form a distinct layer of tool creation extending beyond the default firearms, melee weapons, explosives, and vehicles. Rather than being limited to tools as designed, players can create specialized equipment tailored to their experimental needs. Combined with the ability to modify environments, this customization capability ensures that scenarios and tools are not fixed but can be adapted and expanded according to experimentation goals.",
             "whatsNew": "Update 36.1 - Heroes wear cloaks!\n\nAdded:\n\n• New cool Cloth Mechanics\n\n• Сloaks\n\n• Flags\n\n• Fireproof clothes\n\n• Wind mechanic\n\n• Banana vehicles\n\n• Coral items\n\n• Chip - Lua scripting\n\n• New worlds: The Crawler, Flippy, Blocks, Table Tennis\n\n• Context Menu Option for Mechanism Breakage (under water)\n\nChanged:\n\n• Water Improvements\n\n• Lava Pressure\n\n• Safe Mode Popup\n\n• Stacking Hard Skin Effect\n\nFixed:\n\n• 135 bug fixed\n\n• Stability and performance improvements",
@@ -8757,7 +8757,7 @@
                 "size": "70.3MB",
                 "ageRating": "PEGI-16",
                 "androidVersion": "Varies with device",
-                "version": "1.80.0.f3373"
+                "version": "1.80.0.f3388"
             },
             "description": "Critical Ops is a 3D multiplayer FPS designed exclusively for mobile devices.\n\nExperience intense action, where fast reflexes and tactical skills are essential to success. Are you ready for the challenge?\n\nFEATURES\nCritical Ops is a first-person shooter that features competitive combat through beautifully crafted maps and challenging game modes. Battle it out alongside your band of brothers or lead an individual scoreboard.\n\nThe outcome is determined by your skill and your strategy. Critical Ops has no in-app purchases that give a competitive advantage. We guarantee a fair-to-play experience.\n\nMaster a variety of modern weapons such as grenades, pistols, submachine guns, assault rifles, shotguns, snipers, and knives. Improve your aiming and shooting skills by competing in intense PvP gameplay. Competitive ranked games pit you against other similarly skilled operatives. Grow into a hero.\n\nGo social! Call out to your friends and invite them to join your clan. Host private matches and organize tournaments to win prizes. You are strong by yourself but stronger as a team.\n\nCritical Ops expands the world of esports onto mobile platforms. Spectate the pros in action or squad up with your friends and build your dream competitive team. Join our vibrant esport scene and become Critical Ops legends.\n\nGAME MODES\nDefuse\nTwo teams, two goals! One team tries to plant and defend a bomb until detonation while the other team’s duty is to prevent its arming or to defuse it.\n\nTeam Deathmatch\nTwo opposing teams battle it out in a timed deathmatch. Play with all the fury of war and make each bullet count!\n\nElimination\nTwo teams fight it out until the last man. No respawn. Counter the attacks, survive, and dominate the battlefield!\n\nGAME TYPES\nQuick Games\nPlay all the available game modes in quick, matchmade games with operatives of similar skill levels. Gear up and fire!\n\nRanked Games\nOperatives compete for points and secure their rank through victory in a competitive matchmade adaptation of Defuse. Climb to the top of the ladder!\n\nCustom Games\nThe classic way of playing Critical Ops. Join or host a room of any of the available game types or create your own. Host password-protected private rooms.\n\nREGULAR UPDATES\nWe update the game regularly, improving game performance, and adding themed events, new features, rewards, and cosmetic customization options to make the best possible experience for our players.\n\nMOBILE FIRST. FLAWLESSLY OPTIMIZED.\nCritical Ops is natively designed for mobile. It's lightweight and fully optimized to work on a wide array of devices. No additional downloads are required.\n\nWill you resolve the standoff as a member of Coalition or The Breach?\n\nDownload and join the Critical Ops community:\n\nFacebook: https://www.facebook.com/CriticalOpsGame/\nTwitter: https://twitter.com/CriticalOpsGame\nYouTube: https://www.youtube.com/user/CriticalForceEnt\nDiscord: http://discord.gg/criticalops\nReddit: https://www.reddit.com/r/CriticalOpsGame/\nWebsite: http://criticalopsgame.com\n\nPrivacy Policy: http://criticalopsgame.com/privacy/\nTerms of Service: http://criticalopsgame.com/terms/\nCritical Force website: http://criticalforce.fi",
             "whatsNew": "Added the wingman game mode.\n\nAdded marketplace item activity feature.\n\nAdded transaction details feature.\n\nAdded quick navigation for your listings.\n\nImproved the kill medals.\n\nAdded ranked match cancelling\n\nAdded rating adjustment feature.\n\nChanged the player collider.\n\nDisabled knife dropping on death.",
@@ -8850,7 +8850,7 @@
             "package": "com.drivezone.car.race.game",
             "details": {
                 "downloads": "107M+",
-                "rating": 4.46,
+                "rating": 4.44,
                 "size": "232.7MB",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
@@ -8969,7 +8969,7 @@
             "package": "com.paurau.SlowMoRun",
             "details": {
                 "downloads": "105M+",
-                "rating": 3.79,
+                "rating": 3.8,
                 "size": "196.1MB",
                 "ageRating": "PEGI-12",
                 "androidVersion": "Varies with device",
@@ -9020,11 +9020,11 @@
             "package": "com.xplay.pop_antistress_simulator",
             "details": {
                 "downloads": "105M+",
-                "rating": 3.48,
+                "rating": 3.46,
                 "size": "83.6MB",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
-                "version": "5.3.88"
+                "version": "5.3.89"
             },
             "description": "Discover the Ultimate Antistress Hub! Feeling overwhelmed? Dive into Pop Antistress Simulator, the all-in-one relaxation toy collection designed to melt your stress away through satisfying touch and immersive ASMR sounds. With 40+ unique gameplays in one tiny package (<100MB), it’s your perfect pocket companion for instant peace.\n\nWhy Millions Love Our Satisfying Collection:\n\n40+ Games in 1: No need to clutter your phone. Experience everything from sensory toys to logic puzzles in a single app.\n\nHyper-Realistic ASMR: High-fidelity 3D sounds (crushing, slicing, clicking) for deep relaxation.\n\nInstant Relief: No timers, no pressure. Just play and relax at your own pace.\n\nLow Storage: Optimized to fit under 100MB for a smooth experience on any device.\n\nExplore Our Viral Gameplay Modes:\n\n🔥 Top Trending Fun: Challenge your brain with Save the Doge, Racing Trip (draw the bridge), and tricky Logic Mazes.\n\n🎧 Pure ASMR Satisfaction: Feel the \"crunch\" with the Hydraulic Press, Cut Radish, and Bulb Breaker. Hear the \"sizzle\" of Fried Eggs and the click of Switch Lamps.\n\n✨ Classic Fidget Toys: Endless Push Pop It, high-speed Finger Spinners, Bubble Wrap, and mesmerizing Reverse Sequin flipping.\n\n🔨 Stress Smashers: Relieve frustration with Mobile Screen cracking, Hammer the Nails, and Gun Simulators.\n\n🧩 Relaxing Puzzles: Enjoy Block Blast, Color Matching, Tic Tac Toe, and Billiards.\n\nYour Personal Feedback Matters! We are constantly updating our toy box with new satisfying games. If you have any suggestions, ideas, or feedback, please reach out to us! Contact us at: support@xplaymobile.com\n\nYour Pocket Therapy is Ready! Whether you want to pop, draw, slice, or smash, we have it all. Download Pop Antistress Simulator now and start your journey to a stress-free life!",
             "whatsNew": "",
@@ -9159,7 +9159,7 @@
             "package": "com.levelinfinite.sgameGlobal",
             "details": {
                 "downloads": "99M+",
-                "rating": 4.25,
+                "rating": 4.24,
                 "size": "Varies with device",
                 "ageRating": "PEGI-12",
                 "androidVersion": "Varies with device",
@@ -9327,7 +9327,7 @@
                 "size": "Varies with device",
                 "ageRating": "PEGI-12",
                 "androidVersion": "Varies with device",
-                "version": "11.75.0",
+                "version": "11.76.0",
                 "isFree": true
             },
             "description": "Summon over 800 legendary heroes from 16 factions to battle bosses like fearsome dragons and colossal demons. Explore dungeons, enjoy turn-based multiplayer action, and master tactics to free Teleria in this epic role-playing game!\r\n\r\nTactical battles await in this turn-based dark fantasy role-playing game, where you can summon hundreds of Champions from 16 playable factions.\r\n\r\nFight the forces of the dark lord Siroth with your legendary band of immortal warriors. Train them for battle, craft the perfect strategy, and assemble the greatest raiding party ever seen.\r\n\r\nEpic clashes await in online modes like the multiplayer Arena, where you can put your team of Champions against others in strategic RPG battles. Experiment with over 1+ million possible Champion builds, craft the ultimate team and their battle tactics, and be the best!\r\n\r\nWith over 5 years of free content updates and a community that grows bigger every day, join millions of players in the war to liberate Teleria from Siroth and his legions. Become a hero of legend!\r\n\r\n| Enjoy deep RPG features |\r\n\r\nCollect powerful Champions\r\nSummon 800+ warriors from 16 factions in this tactical role-playing game. Call upon orcs, knights, elves, and more dark fantasy creatures to defeat any threat that stands in your way.\r\n\r\nStrategic turn-based RPG gameplay\r\nEquip your Champions with amazing artifacts to aid them in battle. Rank them up to unleash devastating skills, AOE attacks, magic powers and more as you lead them in combat.\r\n\r\nFight epic boss battles\r\nDo you dare take on the Magma Dragon, the Fire Knight, or the Ice Golem? Vanquish challenging bosses in dangerous dungeons for loot, XP, and special Champion drops. Then, in classic turn-based RPG style, fight them again for more powerful gear!\r\n\r\nFeel the visceral 3D artwork\r\nBeautiful, fully-rendered 3D heroes offer stunning detail down to the cracks in their armor. Marvel at a vivid fantasy world with thousands of unique skill and attack animations.\r\n\r\nJoin forces with your Clan\r\nTeam up with fellow players and take on challenges like the fearsome Demon Lord with Clans! Battle other Clans in special tournaments and show them that they’re out of your league.\r\n\r\nFace the multiplayer PvP Arena\r\nGo head-to-head with other players in fierce turn-based combat to unlock special gear. Rise through the ranks and become an Arena legend.\r\n\r\nDevelop and manage your Bastion\r\nUpgrade your own personal fortress to manage your Shards and ready your Champions for dungeon runs, multiplayer arena combat, and the story campaign.\r\n\r\nClear our massive PvE Campaign map\r\nExperience epic dark fantasy done right through 12 spectacular RPG locations spread over a sprawling, fully-voiced story campaign. Heed your heroic duty and conquer the forces of Darkness.\r\n\r\nDive into a deep fantasy world\r\nLearn about Teleria’s heroes and villains with our growing collection of Champion bios. Then, check out our animated limited series, RAID: Call of the Arbiter, on YouTube!\r\n\r\nPlease note:\r\nIn-Game Purchases (Includes Random Items): Items are available for purchase in this fantasy MMO role-playing game. Some paid items may not be refundable depending on the type of item.\r\n\r\nRAID Official Website: https://plarium.com/\r\nRAID Support: raid.support@plarium.com\r\nOur RPG Community: https://plarium.com/forum/en/raid-shadow-legends/\r\nPrivacy Policy: https://plarium.com/en/legal/privacy-and-cookie-policy/\r\nTerms of Use: https://plarium.com/en/legal/terms-of-use/",
@@ -9364,7 +9364,7 @@
             "package": "com.ketchapp.stack",
             "details": {
                 "downloads": "70M+",
-                "rating": 3.78,
+                "rating": 3.79,
                 "size": "Varies with device",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
@@ -9405,7 +9405,7 @@
             "package": "com.v09.real.moto.bike.driving.racing.city.open.world",
             "details": {
                 "downloads": "63M+",
-                "rating": 4.33,
+                "rating": 4.32,
                 "size": "178.6MB",
                 "ageRating": "PEGI-7",
                 "androidVersion": "Varies with device",
@@ -9487,7 +9487,7 @@
                 "size": "Varies with device",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
-                "version": "2.41.0",
+                "version": "2.42.0",
                 "isFree": true
             },
             "description": "Angry Birds and Transformers collide in this action-packed, 3D shoot ‘em up adventure! The EggSpark has transformed the eggs into crazed robots who are destroying Piggy Island, but who can stop them?! Autobirds, ROLL OUT!\r\n\r\nHave you ever seen an alien robot Angry Bird? Enter the AUTOBIRDS! This brave band of heroes features Red as Optimus Prime, Chuck as Bumblebee and… well you’ll meet the rest soon. They’ve got lasers and they turn into cars. Plus they have arms and legs – that’s a first! \r\n\r\nBut the courageous Autobirds can’t save Piggy Island on their own – to stop the EggBots they’ll need to join forces with their arch rivals the DECEPTIHOGS (like Decepticons only smellier). Can these bitter enemies team up and put aside their differences? Yeah right... \r\n\r\n*NOTE: Angry Birds Transformers is completely free to play, but there are optional in-app purchases available.\r\n\r\n--------------\r\n\r\n- <b>COLLECT!</b> Unlock a roster of heroes (and villains) with unique attacks and abilities!\r\n\r\n- <b>DESTROY!</b> Leave the slingshot at home – this time you have some SERIOUS firepower!\r\n\r\n- <b>VEHICLES!</b> Oh, yes! Car, truck, tank or plane – transform to dodge falling hazards!\r\n\r\n- <b>UPGRADES!</b> Get stronger weapons and new abilities for every Transformer!\r\n\r\n- <b>TAG TEAM!</b> Borrow a friend’s character to unleash a devastating two-bot assault!\r\n\r\n- <b>TELEPODS™!</b> Scan ‘em to unlock, revive or boost your bots!\r\n\r\n\r\n*NOTE: \r\nA network connection is required for some game features..\r\n--------------\r\n\r\n\r\nVisit Angry Birds Transformers Headquarters:\r\nhttp://transformers.angrybirds.com/\r\n\r\n\r\nFollow the flock:\r\nhttp://twitter.angrybirds.com\r\n\r\n\r\nhttp://facebook.com/angrybirds\r\n\r\n\r\nDiscover the rest of the Angry Birds universe:\r\nhttps://www.angrybirds.com/\r\n\r\n\r\n--------------\r\n\r\nWe may update the game periodically, for example to add new features or content or to fix bugs or other technical issues. Please note that the game may not function properly if you do not have the newest version installed. If you have not installed the latest update, Rovio will not be responsible for the game failing to function as expected.\r\n\r\nWhile our game is free to download and play, some game items can also be purchased for real money and the game may include loot boxes or other game mechanics with random rewards. Purchasing these items is optional but you can also disable in-app purchases in your device’s settings.\r\n\r\nTerms of Use: https://www.rovio.com/terms-of-service\r\nPrivacy Policy: https://www.rovio.com/privacy\r\n\r\n\r\nImportant message for parents:\r\n- Direct links to social networking websites that are intended for an audience over the age of 13.\r\n- Direct links to the internet that can take players away from the game with the potential to browse any web page.\r\n- Advertising of Rovio products and also products from select partners.\r\n- The option to make in-app purchases. The bill payer should always be consulted beforehand.",
@@ -9524,7 +9524,7 @@
             "package": "com.frogmind.badland",
             "details": {
                 "downloads": "56M+",
-                "rating": 3.61,
+                "rating": 3.62,
                 "size": "Varies with device",
                 "ageRating": "PEGI-7",
                 "androidVersion": "Varies with device",
@@ -9564,7 +9564,7 @@
             "title": "Squad Busters",
             "package": "com.supercell.squad",
             "details": {
-                "downloads": "49M+",
+                "downloads": "50M+",
                 "rating": 4.5,
                 "size": "Varies with device",
                 "ageRating": "PEGI-7",
@@ -9606,11 +9606,11 @@
             "package": "com.HoYoverse.hkrpgoversea",
             "details": {
                 "downloads": "37M+",
-                "rating": 3.88,
+                "rating": 3.9,
                 "size": "Varies with device",
                 "ageRating": "PEGI-12",
                 "androidVersion": "Varies with device",
-                "version": "4.5.0",
+                "version": "4.6.0",
                 "isFree": true
             },
             "description": "This game includes optional in-game purchases, including random virtual items.\r\n\r\nHonkai: Star Rail is a HoYoverse space fantasy RPG.\r\nHop aboard the Astral Express and experience the galaxy's infinite wonders filled with adventure and thrills.\r\nPlayers will meet new companions across various worlds and maybe even run into some familiar faces. Overcome the struggles together caused by Stellaron and unravel the hidden truths behind it! May this journey lead us starward!\r\n\r\n□ Explore Distinct Worlds — Discover the boundless universe filled with wonder\r\n3, 2, 1, initiating warp! A space station with Curios sealed away, a foreign planet with an eternal winter, a starship hunting down abominations, the Planet of Festivities nested in sweet dreams, The Eternal Land where destiny hangs by a thread, the arcadia that had once fallen into a painting scroll... Every stop of the Astral Express is a never-before-seen view of the galaxy! Explore fantastical worlds and civilizations, uncover mysteries beyond imagination, and set out on a journey of wonder!\r\n\r\n□ Riveting RPG Experience — A best-in-class immersive adventure beyond the stars\r\nEmbark on a galactic adventure where you shape the story. Our cutting-edge engine renders high-quality cinematics in real-time, our innovative facial expression system concocts genuine sentiments, and HOYO-MiX's original score sets the stage. Join us now and journey through a universe of conflict and collaboration, where your choices define the outcome!\r\n\r\n□ Fateful Encounters Await! — Cross paths with characters intertwined by destiny\r\nAs you traverse the sea of stars, you'll not only have countless adventures, but also many chance encounters. You will forge friendships in a frozen land, fight side by side with comrades in the Xianzhou crisis, and have unexpected encounters in a golden dream. A game of an Aeon when the Phantasmoon waxes full... On this alien world, you will meet greet companions walking these different paths amongst the starts and experience incredible journeys together. Let your laughter and woes compose the story of your present, past, and future.\r\n\r\n□ Turn-based Combat Reimagined — Exhilarating multifaceted gameplay fueled by strategy and skill\r\nEngage in a combat system that sports a variety of team compositions. Match your lineups based on your enemy's qualities and strike while the iron is hot to bring down your foes and claim victory! Break Weaknesses! Deliver Follow-up Attacks! Deal Damage over Time... and try out the brand-new Aha Instant! Countless strategies and tactics await your unlocking. Build an approach suited for you and face the onrush of successive challenges! Beyond the thrilling turn-based combat, there are also simulation management modes, casual elimination mini-games, puzzle exploration, and more... Explore an exciting variety of gameplay and experience endless possibilities!\r\n\r\n□ Top-Tier Voice Actors for an Immersive Experience — A dream team of multiple language dubs assembled for the entire story\r\nWhen words come alive, when stories give you a choice, when characters possess a soul... We present to you dozens of emotions, hundreds of facial expressions, thousands of lore pieces, and a million words that make up this universe's beating heart. With full voice-over in four languages, the characters will transcend their virtual existences and become your tangible companions, creating a new chapter in this tale together with you.\r\n\r\nCustomer Service Email: hsrcs_en@hoyoverse.com\r\nOfficial Website: https://hsr.hoyoverse.com/en-us/home\r\nOfficial Forum: https://www.hoyolab.com/accountCenter/postList?id=172534910  \r\nFacebook: https://www.facebook.com/HonkaiStarRail\r\nInstagram: https://instagram.com/honkaistarrail\r\nTwitter: https://twitter.com/honkaistarrail\r\nYouTube: https://www.youtube.com/@honkaistarrail\r\nDiscord: https://discord.gg/honkaistarrail\r\nTikTok: https://www.tiktok.com/@honkaistarrail_official\r\nReddit: https://www.reddit.com/r/honkaistarrail",
@@ -9646,7 +9646,7 @@
             "title": "Fruit Ninja 2 Fun Action Games",
             "package": "com.halfbrick.fruitninjax",
             "details": {
-                "downloads": "21M+",
+                "downloads": "22M+",
                 "rating": 4.05,
                 "size": "Varies with device",
                 "ageRating": "PEGI-3",
@@ -9688,11 +9688,11 @@
             "package": "com.game.minicraft.village",
             "details": {
                 "downloads": "127M+",
-                "rating": 3.87,
+                "rating": 3.88,
                 "size": "191.2MB",
                 "ageRating": "PEGI-7",
                 "androidVersion": "Varies with device",
-                "version": "1.2.20"
+                "version": "1.2.23"
             },
             "description": "This game is a building game, which simulates the real world and provides players with limitless resources to design their own city. You will be transformed into a multiplayer and create your own city with massive square castles, island or even with house and square house in gameworld.\nWhen participating in world construction, simulated in the real world, you can design special structures under square graphics in the tropical jungle, or explore the vast desert with seasonal changes of nature, including rain cycles, grass growth, and real life, animals and even mountains,...\nWith construction games, you can create a city with huge buildings, you need to be familiar with cubes. There are hundreds of different types of cube, From huge cube world, each with its own characteristics and uses, requiring your exploration and discovery.\nDo not underestimate these simple squares, if you arrange minicube skillfully, a dream city and world will gradually take shape. From gardens, houses, boats, cottages, villas to square castles. As long as you dare to imagine, your dream house and city can become a reality. Let’s adventure, simulate and build your city now.\nCube's world will be even more exciting when you have your own 2D graphics pets, called lucky pets. Work hard, earn money and buy yourself the most powerful pets to make your city become more lively. They will help you go far, go fast, even fly around the world. The game has many places for exploration and adventure, simulating the real world.\nDon't just focus on building games, practice other skills with survival multiplayer mode: run away from giant monsters, traps and fight other players to survive. This will be a great opportunity to improve your aiming and moving skills.\nA secret to winning every battle is to use weapons to target your opponent's blind spot, with an example behind. Defense is equally important, equip yourself with state-of-the-art armor. Regularly upgrading your armor will also increase your chances of winning. As long as you practice hard, your mobility, ability to use weapons and reflexes will improve, now you can even destroy multiple opponents at the same time.\nThis game also provides players with many other interesting mini games, making your world more attractive than ever. Each minigame is a difficult challenge with hideous monsters, requiring ingenuity and quickness.\nJoin to build your world and become the master.",
             "whatsNew": "- Improve Game Performance\n\n- Fix bugs",
@@ -9731,7 +9731,7 @@
             "title": "Subway Princess Runner",
             "package": "com.rioo.runnersubway",
             "details": {
-                "downloads": "804M+",
+                "downloads": "806M+",
                 "rating": 4.12,
                 "size": "239.1MB",
                 "ageRating": "PEGI-3",
@@ -9772,7 +9772,7 @@
             "package": "com.dino.moto.race.master",
             "details": {
                 "downloads": "111M+",
-                "rating": 3.89,
+                "rating": 3.91,
                 "size": "133.9MB",
                 "ageRating": "PEGI-3",
                 "androidVersion": "Varies with device",
