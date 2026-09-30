@@ -4667,20 +4667,20 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/game/headsoccer"
                 ],
-                "load1": "https://pool.apk.aptoide.com/appupdater/com-dnddream-headsoccer-android-341-75106178-6a2a5306021548c480905bc99306ae0c.apk",
+                "load1": "https://pool.apk.aptoide.com/appupdater/com-dnddream-headsoccer-android-345-76865843-5cf6e134e47c1f130fceab0d6df3f05e.apk",
                 "load2": null,
                 "apkInfo": {
                     "source": "aptoide",
                     "store": "appupdater",
-                    "version": "7.1.5",
-                    "versionCode": 341,
-                    "size": "42.7MB",
-                    "md5": "6a2a5306021548c480905bc99306ae0c",
+                    "version": "7.1.6",
+                    "versionCode": 345,
+                    "size": "43.9MB",
+                    "md5": "5cf6e134e47c1f130fceab0d6df3f05e",
                     "signatureSha1": "F9:59:B7:25:BE:10:B4:71:05:C1:51:0E:39:AA:74:58:E9:FB:97:A9",
                     "signer": "CN=D&D Dream",
                     "obbUrl": "https://pool.obb.aptoide.com/appupdater/main-219-com-dnddream-headsoccer-android-79d25416dd5e8432d612ed09bdf87b5c.obb"
                 },
-                "apk1": "https://pool.apk.aptoide.com/appupdater/com-dnddream-headsoccer-android-341-75106178-6a2a5306021548c480905bc99306ae0c.apk",
+                "apk1": "https://pool.apk.aptoide.com/appupdater/com-dnddream-headsoccer-android-345-76865843-5cf6e134e47c1f130fceab0d6df3f05e.apk",
                 "apk2": null
             }
         },
