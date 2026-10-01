@@ -2392,20 +2392,12 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/game/8"
                 ],
-                "load1": "https://pool.apk.aptoide.com/appupdater/com-miniclip-eightballpool-1002-76808438-0b5192d7b154b78ed1a5d5d7693ed781.apk",
+                "load1": null,
                 "load2": null,
-                "apk1": "https://pool.apk.aptoide.com/appupdater/com-miniclip-eightballpool-1002-76808438-0b5192d7b154b78ed1a5d5d7693ed781.apk",
+                "apk1": null,
                 "apk2": null,
                 "apkInfo": {
-                    "source": "aptoide",
-                    "store": "appupdater",
-                    "version": "3.10.0",
-                    "versionCode": 1002,
-                    "size": "42.9MB",
-                    "md5": "0b5192d7b154b78ed1a5d5d7693ed781",
-                    "signatureSha1": "87:61:53:43:65:7C:0A:98:15:5D:71:EC:5A:31:58:21:8B:9A:9F:62",
-                    "signer": "CN=edward barber, OU=miniclip portugal, O=miniclip, L=oeiras, ST=lisbon, C=PT",
-                    "obbUrl": null
+                    "signatureSha1": "87:61:53:43:65:7C:0A:98:15:5D:71:EC:5A:31:58:21:8B:9A:9F:62"
                 }
             }
         },
@@ -3739,67 +3731,6 @@
             }
         },
         {
-            "id": "hill",
-            "title": "Hill Climb Racing",
-            "package": "com.fingersoft.hillclimb",
-            "details": {
-                "downloads": "1B+",
-                "rating": 4.19,
-                "size": "152.9MB",
-                "ageRating": "PEGI-3",
-                "androidVersion": "7.0+",
-                "version": "1.71.1"
-            },
-            "description": "Hill Climb Racing is a physics-based driving game centered on navigating vehicles up challenging hills and mountains. The core gameplay involves climbing terrain with realistic vehicle physics that responds to the landscape, requiring players to manage momentum, balance, and fuel consumption as they progress through increasingly difficult courses. Vehicle behavior changes based on terrain type, making each climb feel distinct and demanding different driving approaches to maintain control and momentum.\n\nThe game offers a diverse roster of vehicles to unlock and drive, including bikes, race cars, trucks, and specialty vehicles such as the Carantula. Each vehicle is designed with different characteristics that affect performance, handling, and how it responds to various terrain conditions. Bikes provide nimbleness and lightweight agility; race cars deliver speed and responsive handling; trucks offer significant weight and power for steep climbs; specialty vehicles introduce unique properties that fundamentally change how they interact with terrain and obstacles. This variety encourages players to try different machines across the same stages to discover which vehicles suit particular terrain types and climbing challenges best.\n\nStages feature diverse terrains with varying obstacles and hazards positioned throughout the climbing routes. Players must navigate around or over these obstacles while carefully managing vehicle fuel consumption, which directly affects the ability to complete sections successfully. The terrain-responsive physics system means vehicle behavior changes based on surface type—sand, ice, grass, rock, and other surfaces each present distinct challenges and require different driving approaches to maintain momentum and balance while ascending toward the summit.\n\nBeyond standard climbing, the game incorporates tricks into its core gameplay loop. Performing tricks while airborne or on ramps earns points, adding a skill-based reward system that extends beyond simply reaching the top of each stage. This mechanic encourages players to pursue aerial maneuvers and skillful driving rather than taking the most conservative route, creating opportunities for higher scores and greater satisfaction from individual climbing runs.\n\nProgression is tied directly to coin collection, which enables vehicle upgrades and extensive customization options. As players complete stages and earn coins, they can improve vehicle performance through upgrades, fine-tune characteristics and handling properties through part adjustments, and customize visual appearance with different skins. This progression system provides long-term goals as players work toward enhanced vehicles, unlock new customization options, and experiment with different upgrade paths for each vehicle in their collection. The customization depth encourages returning to earlier stages with upgraded vehicles to achieve higher scores.\n\nThe game features daily challenges offering focused objectives separate from standard stage progression. These challenges encourage players to approach familiar terrain from different angles or under specific constraints. In-game events provide additional gameplay opportunities and exclusive rewards beyond daily challenges, maintaining fresh content and reasons to return regularly. These time-limited activities add variety without requiring players to simply replay identical stages.\n\nOffline playability is a notable feature, allowing the game to be enjoyed without an internet connection and making it accessible during travel or in areas with limited connectivity.\n\nVehicle fuel consumption mechanics add strategic depth to climbing routes. Players must balance aggressive driving and trick attempts against fuel management, creating tactical decisions about vehicle selection and driving approach for different stages. The interaction between vehicle physics, terrain type, fuel consumption, and obstacle placement creates varied climbing challenges that reward both careful planning and skillful execution across the game's stages.",
-            "whatsNew": "Have you ever wanted even smaller version of hill climb racing?\n\nNo?\n\nWell now you have it, may your journey be lucrative.\n\n- Various bug fixes",
-            "media": {
-                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/icon.png",
-                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/banner.png",
-                "screenshots": [
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/1.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/2.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/3.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/4.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/5.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/6.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/7.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/8.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/9.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/10.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/11.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/12.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/13.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/14.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/15.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/16.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/17.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/18.jpg"
-                ]
-            },
-            "downloadLinks": {
-                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb",
-                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.fingersoft.hillclimb",
-                "webpage": [
-                    "https://game-guard-three.vercel.app/game/hill"
-                ],
-                "load1": "https://pool.apk.aptoide.com/appupdater/com-fingersoft-hillclimb-756-76370324-87b42d35136f4b3028f46f6e7d67899c.apk",
-                "load2": null,
-                "apkInfo": {
-                    "source": "aptoide",
-                    "store": "appupdater",
-                    "version": "1.67.0",
-                    "versionCode": 756,
-                    "size": "112.2MB",
-                    "md5": "87b42d35136f4b3028f46f6e7d67899c",
-                    "signatureSha1": "9A:A5:2C:C5:C1:EA:64:9B:45:F2:95:61:14:17:B4:B6:DA:63:24:EA",
-                    "signer": "CN=Toni Fingerroos, OU=r&d, O=finger, L=oulu, ST=fi, C=FI",
-                    "obbUrl": null
-                },
-                "apk1": "https://pool.apk.aptoide.com/appupdater/com-fingersoft-hillclimb-756-76370324-87b42d35136f4b3028f46f6e7d67899c.apk",
-                "apk2": null
-            }
-        },
-        {
             "id": "mytalkinangela",
             "title": "My Talking Angela",
             "package": "com.outfit7.mytalkingangelafree",
@@ -3948,115 +3879,6 @@
                     "obbUrl": null
                 },
                 "apk1": "https://pool.apk.aptoide.com/89080913731/com-skgames-trafficracer-252-73876360-cadf275d82f4dd9187d2257cbcaab2e0.apk",
-                "apk2": null
-            }
-        },
-        {
-            "id": "vita",
-            "title": "Vita Mahjong",
-            "package": "com.vitastudio.mahjong",
-            "details": {
-                "downloads": "400M+",
-                "rating": 4.75,
-                "size": "230.1MB",
-                "ageRating": "PEGI-3",
-                "androidVersion": "7.0+",
-                "version": "3.39.1"
-            },
-            "description": "Vita Mahjong is an Exclusive Puzzle Game of Tile Matching. We are thrilled to present the mahjong  game that combines innovation with classic gameplay. It offers large tiles and a user-friendly interface compatible with pads and phones. Our goal is to provide a relaxing yet mentally engaging gaming experience, particularly focused on older adults.\n\nAt Vita Studio, we have always been dedicated to crafting mobile games designed for seniors that bring back relaxation, fun, and joy. Our repertoire includes popular titles like Vita Color, Vita Jigsaw, Vita Word Search, Vita Block, Vita Sudoku, and more.\n\nHow to Play Vita Mahjong:\nPlaying free Vita Mahjong game is simple. Just aim to clear all the tiles on the board by matching tiles with identical images. Tap or slide two matching tiles, and they will vanish from the board. Your objective is to match tiles that are not concealed or blocked. Once all tiles are eliminated, it signifies successful completion of a majong game!\n\nExclusive Vita Mahjong  Game Features:\n• Classic Mahjong : Staying true to the original gameplay, it presents traditional card tile sets and hundreds of boards.\n• Special Innovations: Besides the classic, our game introduces special tiles that add a fresh twist to the classic mahjong.\n• Large-Scale Design: Our mahjong games feature large, easily readable text sizes to alleviate the strain caused by small fonts.\n• Active Mind Levels: A special mode designed to sharpen your mind and improve memory abilities in the mahjong games. \n• Customizable Scoring:  You can enjoy free classic mahjong games without a timer and any score pressure.\n• Super Combo: When you consecutively match mahjong tiles during the game, you will unlock special experiences.\n• Helpful Hints: Our game provides free useful props, such as hints, undo, and shuffle, to help players overcome challenging puzzles.\n• Daily Challenge: Take on daily practice to collect trophies and improve your classic mahjong solitaire game skills.\n• Offline Mode: Full offline support lets you enjoy Vita Mahjong anytime, anywhere, without needing internet.\n• Multi-device: Optimized for pad and phone, ensuring everyone can enjoy the classic mahjong game.\n\nVita Mahjong is a versatile game made for those who love tile matching games. Download Vita Mahjong and start your mahjong dynasty now!\n\nNote: This is a puzzle game in the style of Mahjong Solitaire. It does not contain the rules of traditional Mahjong or other types of solitaire or card games. The term “Mahjong” here refers solely to the visual style of the tiles.\n\nContact us : support@vitastudio.ai\nFor more information, you can:\nJoin our Facebook group: https://www.facebook.com/groups/vitastudio\nVisit our official website: www.vitamahjong.com",
-            "whatsNew": "",
-            "media": {
-                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/icon.png",
-                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/banner.png",
-                "screenshots": [
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/screenshots/1.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/screenshots/2.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/screenshots/3.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/screenshots/4.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/screenshots/5.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/screenshots/6.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/screenshots/7.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/screenshots/8.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/screenshots/9.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/screenshots/10.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/screenshots/11.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/screenshots/12.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/screenshots/13.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/screenshots/14.jpg"
-                ]
-            },
-            "downloadLinks": {
-                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong",
-                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.vitastudio.mahjong",
-                "webpage": [
-                    "https://game-guard-three.vercel.app/game/vita"
-                ],
-                "load1": "https://pool.apk.aptoide.com/blacknwhitekid/com-vitastudio-mahjong-1842-76368727-cca5a41ede1128ae905b5380faa7c604.apk",
-                "load2": null,
-                "apkInfo": {
-                    "source": "aptoide",
-                    "store": "blacknwhitekid",
-                    "version": "3.34.1",
-                    "versionCode": 1842,
-                    "size": "207.6MB",
-                    "md5": "cca5a41ede1128ae905b5380faa7c604",
-                    "signatureSha1": "3D:26:F6:ED:DD:51:DA:56:8D:7A:48:09:98:76:08:88:55:63:9C:4A",
-                    "signer": "CN=John Li, OU=SEAL, L=Beijing",
-                    "obbUrl": null
-                },
-                "apk1": "https://pool.apk.aptoide.com/blacknwhitekid/com-vitastudio-mahjong-1842-76368727-cca5a41ede1128ae905b5380faa7c604.apk",
-                "apk2": null
-            }
-        },
-        {
-            "id": "coinmaster",
-            "title": "Coin Master",
-            "package": "com.moonactive.coinmaster",
-            "details": {
-                "downloads": "348M+",
-                "rating": 4.55,
-                "size": "88.3MB",
-                "ageRating": "PEGI-18",
-                "androidVersion": "6.0+",
-                "version": "3.5.2720",
-                "isFree": true
-            },
-            "description": "Join your Facebook friends and millions of players around the world for prize-winning spins as you build village after village on your journey to the top!\r\n\r\nDo you have what it takes to be the next Coin Master?\r\n\r\nGet ready to team up with friends for thrilling expeditions or join forces with a crew of fellow players. You’ll always find a new adventure with an ever-changing lineup of special events, packed with unique challenges and exciting surprises to keep you on your toes!\r\n\r\nSpin and Attack!\r\n\r\nSpin the wheel to discover your fortune- or attack friends' villages and steal their coins to help build your own! You can also win gold sacks to build magnificent villages throughout the game and advance through thousands of levels. Don't forget to win shields from the wheel too—you'll need them to guard your village from other players trying to attack you back! Become the Coin Master with the most impressive villages and the most incredible prizes!\r\n\r\nEmbark on Fun Expeditions with Friends!\r\n\r\nEarning coins from the prize wheel isn’t the only way to gather resources—you can find them on exciting expeditions too! Team up with friends to journey to other villages and uncover treasures that will help you build and advance to the next level. You never know what wonders you'll find in the next world you explore!\r\n\r\nCollect all the Cards!\r\n\r\nIt's not always about the coins; it's about the treasure too! Collecting cards completes sets and unlocks the next village in your grand adventure. With thousands of villages to create and build, each completed set is a step forward in your journey. With every village you master, your wins will be even greater.\r\n\r\nPlay and Create Teams with Friends!\r\n\r\nTrade your cards with our online community to collect them all! Join our fast-growing interactive Facebook community to meet new friends, create your dream team, earn big rewards, and trade treasures to help each other build and progress faster!\r\n\r\nCoin Master is free on all devices with in-app purchases\r\n\r\n\r\nCoin Master is intended for amusement purposes only and does not offer ‘real money’ gambling, or an opportunity to win real money or real prizes based on game play. \r\nCoin Master does not require payment to download and play, but it also allows you to purchase virtual items with real money inside the game. You can disable in-app purchases in your device’s settings.\r\n\r\nFollow Coin Master on Facebook and Instagram for exclusive offers and bonuses!\r\nFacebook: facebook.com/coinmaster\r\nInstagram: instagram.com/coinmasterofficial/\r\n\r\nTerms of Service: https://static.moonactive.net/legal/terms.html?lang=en\r\n\r\nPrivacy Notice: https://static.moonactive.net/legal/privacy.html?lang=en\r\n\r\nQuestions about the game? Our support is ready and waiting at:  https://support.coinmastergame.com/",
-            "whatsNew": "",
-            "media": {
-                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/icon.png",
-                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/banner.png",
-                "screenshots": [
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/1.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/2.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/3.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/4.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/5.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/6.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/7.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/8.jpg"
-                ]
-            },
-            "downloadLinks": {
-                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.moonactive.coinmaster",
-                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.moonactive.coinmaster",
-                "webpage": [
-                    "https://game-guard-three.vercel.app/game/coinmaster"
-                ],
-                "load1": "https://pool.apk.aptoide.com/appupdater/com-moonactive-coinmaster-3319900-76375287-e054df736c67fa79ec5e6c6d36c03bc3.apk",
-                "load2": null,
-                "apkInfo": {
-                    "source": "aptoide",
-                    "store": "appupdater",
-                    "version": "3.5.2245",
-                    "versionCode": 3319900,
-                    "size": "88.3MB",
-                    "md5": "e054df736c67fa79ec5e6c6d36c03bc3",
-                    "signatureSha1": "E9:D7:DC:0C:6F:A8:5D:5E:12:00:14:17:1B:ED:78:0A:E1:19:80:C5",
-                    "signer": "CN=Lior Tal, OU=Moon Active, O=Moon Active, L=Unknown, ST=Unknown, C=IL",
-                    "obbUrl": null
-                },
-                "apk1": "https://pool.apk.aptoide.com/appupdater/com-moonactive-coinmaster-3319900-76375287-e054df736c67fa79ec5e6c6d36c03bc3.apk",
                 "apk2": null
             }
         },
@@ -4463,20 +4285,20 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/game/chess"
                 ],
-                "load1": "https://pool.apk.aptoide.com/appupdater/com-chess-267170-76829966-ae569ed504087edd67618e74e107d5c6.apk",
+                "load1": "https://pool.apk.aptoide.com/appupdater/com-chess-265880-75029963-84835b3c9594c5d4ab8cf1e3ea1adffe.apk",
                 "load2": null,
                 "apkInfo": {
                     "source": "aptoide",
                     "store": "appupdater",
-                    "version": "4.9.46-googleplay",
-                    "versionCode": 267170,
-                    "size": "111.4MB",
-                    "md5": "ae569ed504087edd67618e74e107d5c6",
+                    "version": "4.9.27-googleplay",
+                    "versionCode": 265880,
+                    "size": "98.8MB",
+                    "md5": "84835b3c9594c5d4ab8cf1e3ea1adffe",
                     "signatureSha1": "C4:EC:83:31:5F:23:0F:FD:86:27:C9:98:B1:56:98:5B:34:F6:19:CF",
                     "signer": "CN=Anton Shapovalov, OU=developer, O=Jetmind, L=Kharkov",
                     "obbUrl": null
                 },
-                "apk1": "https://pool.apk.aptoide.com/appupdater/com-chess-267170-76829966-ae569ed504087edd67618e74e107d5c6.apk",
+                "apk1": "https://pool.apk.aptoide.com/appupdater/com-chess-265880-75029963-84835b3c9594c5d4ab8cf1e3ea1adffe.apk",
                 "apk2": null
             }
         },
@@ -4885,6 +4707,59 @@
                     "size": "28.9MB"
                 },
                 "apk1": "https://github.com/00-Evan/shattered-pixel-dungeon/releases/download/v4.0.0/ShatteredPD-v4.0.0-Android.apk",
+                "apk2": null
+            }
+        },
+        {
+            "id": "hill",
+            "title": "Hill Climb Racing",
+            "package": "com.fingersoft.hillclimb",
+            "details": {
+                "downloads": "1B+",
+                "rating": 4.19,
+                "size": "152.9MB",
+                "ageRating": "PEGI-3",
+                "androidVersion": "7.0+",
+                "version": "1.71.1"
+            },
+            "description": "Hill Climb Racing is a physics-based driving game centered on navigating vehicles up challenging hills and mountains. The core gameplay involves climbing terrain with realistic vehicle physics that responds to the landscape, requiring players to manage momentum, balance, and fuel consumption as they progress through increasingly difficult courses. Vehicle behavior changes based on terrain type, making each climb feel distinct and demanding different driving approaches to maintain control and momentum.\n\nThe game offers a diverse roster of vehicles to unlock and drive, including bikes, race cars, trucks, and specialty vehicles such as the Carantula. Each vehicle is designed with different characteristics that affect performance, handling, and how it responds to various terrain conditions. Bikes provide nimbleness and lightweight agility; race cars deliver speed and responsive handling; trucks offer significant weight and power for steep climbs; specialty vehicles introduce unique properties that fundamentally change how they interact with terrain and obstacles. This variety encourages players to try different machines across the same stages to discover which vehicles suit particular terrain types and climbing challenges best.\n\nStages feature diverse terrains with varying obstacles and hazards positioned throughout the climbing routes. Players must navigate around or over these obstacles while carefully managing vehicle fuel consumption, which directly affects the ability to complete sections successfully. The terrain-responsive physics system means vehicle behavior changes based on surface type—sand, ice, grass, rock, and other surfaces each present distinct challenges and require different driving approaches to maintain momentum and balance while ascending toward the summit.\n\nBeyond standard climbing, the game incorporates tricks into its core gameplay loop. Performing tricks while airborne or on ramps earns points, adding a skill-based reward system that extends beyond simply reaching the top of each stage. This mechanic encourages players to pursue aerial maneuvers and skillful driving rather than taking the most conservative route, creating opportunities for higher scores and greater satisfaction from individual climbing runs.\n\nProgression is tied directly to coin collection, which enables vehicle upgrades and extensive customization options. As players complete stages and earn coins, they can improve vehicle performance through upgrades, fine-tune characteristics and handling properties through part adjustments, and customize visual appearance with different skins. This progression system provides long-term goals as players work toward enhanced vehicles, unlock new customization options, and experiment with different upgrade paths for each vehicle in their collection. The customization depth encourages returning to earlier stages with upgraded vehicles to achieve higher scores.\n\nThe game features daily challenges offering focused objectives separate from standard stage progression. These challenges encourage players to approach familiar terrain from different angles or under specific constraints. In-game events provide additional gameplay opportunities and exclusive rewards beyond daily challenges, maintaining fresh content and reasons to return regularly. These time-limited activities add variety without requiring players to simply replay identical stages.\n\nOffline playability is a notable feature, allowing the game to be enjoyed without an internet connection and making it accessible during travel or in areas with limited connectivity.\n\nVehicle fuel consumption mechanics add strategic depth to climbing routes. Players must balance aggressive driving and trick attempts against fuel management, creating tactical decisions about vehicle selection and driving approach for different stages. The interaction between vehicle physics, terrain type, fuel consumption, and obstacle placement creates varied climbing challenges that reward both careful planning and skillful execution across the game's stages.",
+            "whatsNew": "Have you ever wanted even smaller version of hill climb racing?\n\nNo?\n\nWell now you have it, may your journey be lucrative.\n\n- Various bug fixes",
+            "media": {
+                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/icon.png",
+                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/banner.png",
+                "screenshots": [
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/1.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/2.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/3.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/4.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/5.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/6.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/7.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/8.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/9.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/10.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/11.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/12.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/13.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/14.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/15.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/16.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/17.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/hill/screenshots/18.jpg"
+                ]
+            },
+            "downloadLinks": {
+                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb",
+                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.fingersoft.hillclimb",
+                "webpage": [
+                    "https://game-guard-three.vercel.app/game/hill"
+                ],
+                "load1": null,
+                "load2": null,
+                "apkInfo": {
+                    "signatureSha1": "9A:A5:2C:C5:C1:EA:64:9B:45:F2:95:61:14:17:B4:B6:DA:63:24:EA"
+                },
+                "apk1": null,
                 "apk2": null
             }
         },
@@ -6346,6 +6221,55 @@
             }
         },
         {
+            "id": "vita",
+            "title": "Vita Mahjong",
+            "package": "com.vitastudio.mahjong",
+            "details": {
+                "downloads": "400M+",
+                "rating": 4.75,
+                "size": "230.1MB",
+                "ageRating": "PEGI-3",
+                "androidVersion": "7.0+",
+                "version": "3.39.1"
+            },
+            "description": "Vita Mahjong is an Exclusive Puzzle Game of Tile Matching. We are thrilled to present the mahjong  game that combines innovation with classic gameplay. It offers large tiles and a user-friendly interface compatible with pads and phones. Our goal is to provide a relaxing yet mentally engaging gaming experience, particularly focused on older adults.\n\nAt Vita Studio, we have always been dedicated to crafting mobile games designed for seniors that bring back relaxation, fun, and joy. Our repertoire includes popular titles like Vita Color, Vita Jigsaw, Vita Word Search, Vita Block, Vita Sudoku, and more.\n\nHow to Play Vita Mahjong:\nPlaying free Vita Mahjong game is simple. Just aim to clear all the tiles on the board by matching tiles with identical images. Tap or slide two matching tiles, and they will vanish from the board. Your objective is to match tiles that are not concealed or blocked. Once all tiles are eliminated, it signifies successful completion of a majong game!\n\nExclusive Vita Mahjong  Game Features:\n• Classic Mahjong : Staying true to the original gameplay, it presents traditional card tile sets and hundreds of boards.\n• Special Innovations: Besides the classic, our game introduces special tiles that add a fresh twist to the classic mahjong.\n• Large-Scale Design: Our mahjong games feature large, easily readable text sizes to alleviate the strain caused by small fonts.\n• Active Mind Levels: A special mode designed to sharpen your mind and improve memory abilities in the mahjong games. \n• Customizable Scoring:  You can enjoy free classic mahjong games without a timer and any score pressure.\n• Super Combo: When you consecutively match mahjong tiles during the game, you will unlock special experiences.\n• Helpful Hints: Our game provides free useful props, such as hints, undo, and shuffle, to help players overcome challenging puzzles.\n• Daily Challenge: Take on daily practice to collect trophies and improve your classic mahjong solitaire game skills.\n• Offline Mode: Full offline support lets you enjoy Vita Mahjong anytime, anywhere, without needing internet.\n• Multi-device: Optimized for pad and phone, ensuring everyone can enjoy the classic mahjong game.\n\nVita Mahjong is a versatile game made for those who love tile matching games. Download Vita Mahjong and start your mahjong dynasty now!\n\nNote: This is a puzzle game in the style of Mahjong Solitaire. It does not contain the rules of traditional Mahjong or other types of solitaire or card games. The term “Mahjong” here refers solely to the visual style of the tiles.\n\nContact us : support@vitastudio.ai\nFor more information, you can:\nJoin our Facebook group: https://www.facebook.com/groups/vitastudio\nVisit our official website: www.vitamahjong.com",
+            "whatsNew": "",
+            "media": {
+                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/icon.png",
+                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/banner.png",
+                "screenshots": [
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/screenshots/1.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/screenshots/2.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/screenshots/3.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/screenshots/4.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/screenshots/5.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/screenshots/6.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/screenshots/7.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/screenshots/8.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/screenshots/9.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/screenshots/10.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/screenshots/11.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/screenshots/12.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/screenshots/13.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/vita/screenshots/14.jpg"
+                ]
+            },
+            "downloadLinks": {
+                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong",
+                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.vitastudio.mahjong",
+                "webpage": [
+                    "https://game-guard-three.vercel.app/game/vita"
+                ],
+                "load1": null,
+                "load2": null,
+                "apkInfo": {
+                    "signatureSha1": "3D:26:F6:ED:DD:51:DA:56:8D:7A:48:09:98:76:08:88:55:63:9C:4A"
+                },
+                "apk1": null,
+                "apk2": null
+            }
+        },
+        {
             "id": "helixjump",
             "title": "Helix Jump",
             "package": "com.h8games.helixjump",
@@ -6501,6 +6425,50 @@
                 ],
                 "load1": null,
                 "load2": null,
+                "apk1": null,
+                "apk2": null
+            }
+        },
+        {
+            "id": "coinmaster",
+            "title": "Coin Master",
+            "package": "com.moonactive.coinmaster",
+            "details": {
+                "downloads": "348M+",
+                "rating": 4.55,
+                "size": "88.3MB",
+                "ageRating": "PEGI-18",
+                "androidVersion": "6.0+",
+                "version": "3.5.2720",
+                "isFree": true
+            },
+            "description": "Join your Facebook friends and millions of players around the world for prize-winning spins as you build village after village on your journey to the top!\r\n\r\nDo you have what it takes to be the next Coin Master?\r\n\r\nGet ready to team up with friends for thrilling expeditions or join forces with a crew of fellow players. You’ll always find a new adventure with an ever-changing lineup of special events, packed with unique challenges and exciting surprises to keep you on your toes!\r\n\r\nSpin and Attack!\r\n\r\nSpin the wheel to discover your fortune- or attack friends' villages and steal their coins to help build your own! You can also win gold sacks to build magnificent villages throughout the game and advance through thousands of levels. Don't forget to win shields from the wheel too—you'll need them to guard your village from other players trying to attack you back! Become the Coin Master with the most impressive villages and the most incredible prizes!\r\n\r\nEmbark on Fun Expeditions with Friends!\r\n\r\nEarning coins from the prize wheel isn’t the only way to gather resources—you can find them on exciting expeditions too! Team up with friends to journey to other villages and uncover treasures that will help you build and advance to the next level. You never know what wonders you'll find in the next world you explore!\r\n\r\nCollect all the Cards!\r\n\r\nIt's not always about the coins; it's about the treasure too! Collecting cards completes sets and unlocks the next village in your grand adventure. With thousands of villages to create and build, each completed set is a step forward in your journey. With every village you master, your wins will be even greater.\r\n\r\nPlay and Create Teams with Friends!\r\n\r\nTrade your cards with our online community to collect them all! Join our fast-growing interactive Facebook community to meet new friends, create your dream team, earn big rewards, and trade treasures to help each other build and progress faster!\r\n\r\nCoin Master is free on all devices with in-app purchases\r\n\r\n\r\nCoin Master is intended for amusement purposes only and does not offer ‘real money’ gambling, or an opportunity to win real money or real prizes based on game play. \r\nCoin Master does not require payment to download and play, but it also allows you to purchase virtual items with real money inside the game. You can disable in-app purchases in your device’s settings.\r\n\r\nFollow Coin Master on Facebook and Instagram for exclusive offers and bonuses!\r\nFacebook: facebook.com/coinmaster\r\nInstagram: instagram.com/coinmasterofficial/\r\n\r\nTerms of Service: https://static.moonactive.net/legal/terms.html?lang=en\r\n\r\nPrivacy Notice: https://static.moonactive.net/legal/privacy.html?lang=en\r\n\r\nQuestions about the game? Our support is ready and waiting at:  https://support.coinmastergame.com/",
+            "whatsNew": "",
+            "media": {
+                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/icon.png",
+                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/banner.png",
+                "screenshots": [
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/1.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/2.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/3.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/4.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/5.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/6.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/7.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/8.jpg"
+                ]
+            },
+            "downloadLinks": {
+                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.moonactive.coinmaster",
+                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.moonactive.coinmaster",
+                "webpage": [
+                    "https://game-guard-three.vercel.app/game/coinmaster"
+                ],
+                "load1": null,
+                "load2": null,
+                "apkInfo": {
+                    "signatureSha1": "E9:D7:DC:0C:6F:A8:5D:5E:12:00:14:17:1B:ED:78:0A:E1:19:80:C5"
+                },
                 "apk1": null,
                 "apk2": null
             }
