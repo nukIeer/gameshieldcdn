@@ -4230,20 +4230,20 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/game/xbox"
                 ],
-                "load1": "https://pool.apk.aptoide.com/appupdater/com-microsoft-xboxone-smartglass-334820865-76656528-6da080011ccdbb9bd612b1d09f7cce04.apk",
+                "load1": "https://pool.apk.aptoide.com/appupdater/com-microsoft-xboxone-smartglass-334820993-76894608-28eb50eccd2aacc0dc6d9772524a0c1a.apk",
                 "load2": null,
                 "apkInfo": {
                     "source": "aptoide",
                     "store": "appupdater",
-                    "version": "2609.2.1",
-                    "versionCode": 334820865,
+                    "version": "2609.3.1",
+                    "versionCode": 334820993,
                     "size": "105.4MB",
-                    "md5": "6da080011ccdbb9bd612b1d09f7cce04",
+                    "md5": "28eb50eccd2aacc0dc6d9772524a0c1a",
                     "signatureSha1": "95:84:62:12:86:35:31:E9:7E:8E:86:FE:F7:47:AD:32:DE:5B:CC:DE",
                     "signer": "CN=Microsoft Corporation Third Party Marketplace (Do Not Trust), OU=Android Signing for Microsoft Studios, O=Microsoft Corporation, L=Redmond, ST=Washington, C=US",
                     "obbUrl": null
                 },
-                "apk1": "https://pool.apk.aptoide.com/appupdater/com-microsoft-xboxone-smartglass-334820865-76656528-6da080011ccdbb9bd612b1d09f7cce04.apk",
+                "apk1": "https://pool.apk.aptoide.com/appupdater/com-microsoft-xboxone-smartglass-334820993-76894608-28eb50eccd2aacc0dc6d9772524a0c1a.apk",
                 "apk2": null
             },
             "tags": [
