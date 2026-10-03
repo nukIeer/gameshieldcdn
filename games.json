@@ -4125,20 +4125,20 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/game/pixelgun3d"
                 ],
-                "load1": "https://pool.apk.aptoide.com/appupdater/com-pixel-gun3d-641142-76783246-6c50fd90e9e9c3a38ebbce3fc4f95651.apk",
+                "load1": "https://pool.apk.aptoide.com/appupdater/com-pixel-gun3d-643486-76934112-e394757507a82665152f10c51116e0f3.apk",
                 "load2": null,
                 "apkInfo": {
                     "source": "aptoide",
                     "store": "appupdater",
-                    "version": "26.11.3",
-                    "versionCode": 641142,
-                    "size": "103.7MB",
-                    "md5": "6c50fd90e9e9c3a38ebbce3fc4f95651",
+                    "version": "26.12.1",
+                    "versionCode": 643486,
+                    "size": "103.3MB",
+                    "md5": "e394757507a82665152f10c51116e0f3",
                     "signatureSha1": "7C:AD:A1:D8:C6:D6:AF:F7:F8:49:F4:69:DB:F5:91:D6:EA:0F:5B:03",
                     "signer": "O=DefaultCompany, OU=1, CN=pixel gun",
                     "obbUrl": "https://pool.obb.aptoide.com/appupdater/main-303587-com-pixel-gun3d-47fc201a860f72e9c5b7126dc76a4c9c.obb"
                 },
-                "apk1": "https://pool.apk.aptoide.com/appupdater/com-pixel-gun3d-641142-76783246-6c50fd90e9e9c3a38ebbce3fc4f95651.apk",
+                "apk1": "https://pool.apk.aptoide.com/appupdater/com-pixel-gun3d-643486-76934112-e394757507a82665152f10c51116e0f3.apk",
                 "apk2": null
             }
         },
@@ -4300,6 +4300,58 @@
                 },
                 "apk1": "https://pool.apk.aptoide.com/appupdater/com-chess-265880-75029963-84835b3c9594c5d4ab8cf1e3ea1adffe.apk",
                 "apk2": null
+            }
+        },
+        {
+            "id": "badpiggies",
+            "title": "Bad Piggies",
+            "package": "com.rovio.BadPiggies",
+            "details": {
+                "downloads": "109M+",
+                "rating": 4.25,
+                "size": "Varies with device",
+                "ageRating": "PEGI-3",
+                "androidVersion": "Varies with device",
+                "version": "2.4.3471",
+                "isFree": true
+            },
+            "description": "OiNk! Build makeshift contraptions from a huge collection of parts and make it to the goal without blowing your vehicle to pieces!\r\n\r\nIGN's \"Best Mobile Game of 2012\" Winner!\r\n\r\n\"Extremely fun and very challenging\" -- Kotaku\r\n\r\n“The best title Rovio has released yet” - IGN\r\n\r\n“4/4 - Must Have” -- Slide to Play\r\n\r\n\"If you can’t enjoy watching a pig drive a badly constructed car off a cliff and onto a pile of dynamite, you probably don’t have a soul.\" - Yahoo/BGR\r\n\r\nCreate the ultimate flying/crawling/rolling/spinning/crashing device and pilot the pigs safely to the eggs!\r\n\r\nThe Bad Piggies are after the eggs again -- but as usual, nothing is going according to plan! Can you create the ultimate flying machine and steer them safely to their destination? Those tricky pigs have a few objects they can use, but they need your help to turn these into the perfect transportation!\r\n\r\nWith more than 200 levels, and free updates coming up, you have hours and hours of pig-crashing, exploding, and flying fun! Get three stars to unlock over 40 more levels! HINT: Sometimes you need to play the level several times to achieve all the objectives -- try building a new device or steering in a different way to earn all the stars!\r\n\r\nFeatures:\r\n● Over 200 levels crammed with flying/driving/crashing fun!\r\n● 40+ special levels unlocked by getting three stars!\r\n● Free updates!\r\n● 9+ sandbox levels to stretch your creativity!\r\n● Ultra-special, ultra-secret, ultra-difficult sandbox level to unlock by collecting ten skulls! Oh – guess it’s not a secret anymore...\r\n● 42 objects to create the ultimate machine: motors, wings, fans, bottle rockets, umbrellas, balloons, and much more!\r\n\r\nMechanic Pig\r\n● Need help? This little piggy will build it for you!\r\n● Mechanic pig pre-assembles transport for you!\r\n● All you have to do is pilot it!\r\n● Tweak his design to get all three stars!\r\n\r\nGet ready to see pigs fly!\r\n\r\nBecome a fan of Bad Piggies on Facebook:\r\nhttp://facebook.com/badpiggies\r\n\r\nFollow us on Twitter:\r\nhttp://twitter.com/badpiggies\r\n\r\nWe may update the game periodically, for example to add new features or content or to fix bugs or other technical issues. Please note that the game may not function properly if you do not have the newest version installed. If you have not installed the latest update, Rovio will not be responsible for the game failing to function as expected.\r\n\r\nWhile our game is free to download and play, some game items can also be purchased for real money and the game may include loot boxes or other game mechanics with random rewards. Purchasing these items is optional but you can also disable in-app purchases in your device’s settings.\r\n\r\nTerms of Use: https://www.rovio.com/terms-of-service\r\nPrivacy Policy: https://www.rovio.com/privacy\r\n\r\n\r\nImportant Message for Parents\r\n\r\nThis game may include:\r\n- Direct links to social networking websites that are intended for an audience over the age of 13.\r\n- Direct links to the internet that can take players away from the game with the potential to browse any web page.\r\n- Advertising of Rovio products and also products from select partners.\r\n- The option to make in-app purchases. The bill payer should always be consulted beforehand.",
+            "whatsNew": "",
+            "media": {
+                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/badpiggies/icon.png",
+                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/badpiggies/banner.png",
+                "screenshots": [
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/badpiggies/screenshots/1.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/badpiggies/screenshots/2.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/badpiggies/screenshots/3.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/badpiggies/screenshots/4.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/badpiggies/screenshots/5.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/badpiggies/screenshots/6.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/badpiggies/screenshots/7.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/badpiggies/screenshots/8.jpg"
+                ]
+            },
+            "downloadLinks": {
+                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rovio.BadPiggies",
+                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.rovio.BadPiggies",
+                "webpage": [
+                    "https://game-guard-three.vercel.app/game/badpiggies"
+                ],
+                "load1": "https://pool.apk.aptoide.com/krumgarage/com-rovio-badpiggies-3471-76931934-abc6562090b813d8730075303d6959d5.apk",
+                "load2": null,
+                "apk1": "https://pool.apk.aptoide.com/krumgarage/com-rovio-badpiggies-3471-76931934-abc6562090b813d8730075303d6959d5.apk",
+                "apk2": null,
+                "apkInfo": {
+                    "source": "aptoide",
+                    "store": "krumgarage",
+                    "version": "2.4.3471",
+                    "versionCode": 3471,
+                    "size": "161.7MB",
+                    "md5": "abc6562090b813d8730075303d6959d5",
+                    "signatureSha1": "49:69:00:E8:E6:F9:47:AD:54:2A:5F:5F:04:34:CB:7A:A0:10:29:AC",
+                    "signer": "CN=APKVISION.ORG, OU=APKVISION.ORG, O=APKVISION.ORG, L=APKVISION.ORG, ST=APKVISION.ORG, C=APKVISION.ORG",
+                    "obbUrl": null
+                }
             }
         },
         {
@@ -8764,47 +8816,6 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.criticalforceentertainment.criticalops",
                 "webpage": [
                     "https://game-guard-three.vercel.app/game/critical"
-                ],
-                "load1": null,
-                "load2": null,
-                "apk1": null,
-                "apk2": null
-            }
-        },
-        {
-            "id": "badpiggies",
-            "title": "Bad Piggies",
-            "package": "com.rovio.BadPiggies",
-            "details": {
-                "downloads": "109M+",
-                "rating": 4.25,
-                "size": "Varies with device",
-                "ageRating": "PEGI-3",
-                "androidVersion": "Varies with device",
-                "version": "2.4.3471",
-                "isFree": true
-            },
-            "description": "OiNk! Build makeshift contraptions from a huge collection of parts and make it to the goal without blowing your vehicle to pieces!\r\n\r\nIGN's \"Best Mobile Game of 2012\" Winner!\r\n\r\n\"Extremely fun and very challenging\" -- Kotaku\r\n\r\n“The best title Rovio has released yet” - IGN\r\n\r\n“4/4 - Must Have” -- Slide to Play\r\n\r\n\"If you can’t enjoy watching a pig drive a badly constructed car off a cliff and onto a pile of dynamite, you probably don’t have a soul.\" - Yahoo/BGR\r\n\r\nCreate the ultimate flying/crawling/rolling/spinning/crashing device and pilot the pigs safely to the eggs!\r\n\r\nThe Bad Piggies are after the eggs again -- but as usual, nothing is going according to plan! Can you create the ultimate flying machine and steer them safely to their destination? Those tricky pigs have a few objects they can use, but they need your help to turn these into the perfect transportation!\r\n\r\nWith more than 200 levels, and free updates coming up, you have hours and hours of pig-crashing, exploding, and flying fun! Get three stars to unlock over 40 more levels! HINT: Sometimes you need to play the level several times to achieve all the objectives -- try building a new device or steering in a different way to earn all the stars!\r\n\r\nFeatures:\r\n● Over 200 levels crammed with flying/driving/crashing fun!\r\n● 40+ special levels unlocked by getting three stars!\r\n● Free updates!\r\n● 9+ sandbox levels to stretch your creativity!\r\n● Ultra-special, ultra-secret, ultra-difficult sandbox level to unlock by collecting ten skulls! Oh – guess it’s not a secret anymore...\r\n● 42 objects to create the ultimate machine: motors, wings, fans, bottle rockets, umbrellas, balloons, and much more!\r\n\r\nMechanic Pig\r\n● Need help? This little piggy will build it for you!\r\n● Mechanic pig pre-assembles transport for you!\r\n● All you have to do is pilot it!\r\n● Tweak his design to get all three stars!\r\n\r\nGet ready to see pigs fly!\r\n\r\nBecome a fan of Bad Piggies on Facebook:\r\nhttp://facebook.com/badpiggies\r\n\r\nFollow us on Twitter:\r\nhttp://twitter.com/badpiggies\r\n\r\nWe may update the game periodically, for example to add new features or content or to fix bugs or other technical issues. Please note that the game may not function properly if you do not have the newest version installed. If you have not installed the latest update, Rovio will not be responsible for the game failing to function as expected.\r\n\r\nWhile our game is free to download and play, some game items can also be purchased for real money and the game may include loot boxes or other game mechanics with random rewards. Purchasing these items is optional but you can also disable in-app purchases in your device’s settings.\r\n\r\nTerms of Use: https://www.rovio.com/terms-of-service\r\nPrivacy Policy: https://www.rovio.com/privacy\r\n\r\n\r\nImportant Message for Parents\r\n\r\nThis game may include:\r\n- Direct links to social networking websites that are intended for an audience over the age of 13.\r\n- Direct links to the internet that can take players away from the game with the potential to browse any web page.\r\n- Advertising of Rovio products and also products from select partners.\r\n- The option to make in-app purchases. The bill payer should always be consulted beforehand.",
-            "whatsNew": "",
-            "media": {
-                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/badpiggies/icon.png",
-                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/badpiggies/banner.png",
-                "screenshots": [
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/badpiggies/screenshots/1.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/badpiggies/screenshots/2.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/badpiggies/screenshots/3.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/badpiggies/screenshots/4.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/badpiggies/screenshots/5.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/badpiggies/screenshots/6.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/badpiggies/screenshots/7.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/badpiggies/screenshots/8.jpg"
-                ]
-            },
-            "downloadLinks": {
-                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rovio.BadPiggies",
-                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.rovio.BadPiggies",
-                "webpage": [
-                    "https://game-guard-three.vercel.app/game/badpiggies"
                 ],
                 "load1": null,
                 "load2": null,
