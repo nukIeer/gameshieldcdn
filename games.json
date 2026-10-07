@@ -2392,12 +2392,20 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/game/8"
                 ],
-                "load1": null,
+                "load1": "https://pool.apk.aptoide.com/appupdater/com-miniclip-eightballpool-1009-76996897-332fa210da42d23ba35c02b31bebc473.apk",
                 "load2": null,
-                "apk1": null,
+                "apk1": "https://pool.apk.aptoide.com/appupdater/com-miniclip-eightballpool-1009-76996897-332fa210da42d23ba35c02b31bebc473.apk",
                 "apk2": null,
                 "apkInfo": {
-                    "signatureSha1": "87:61:53:43:65:7C:0A:98:15:5D:71:EC:5A:31:58:21:8B:9A:9F:62"
+                    "source": "aptoide",
+                    "store": "appupdater",
+                    "version": "3.10.2",
+                    "versionCode": 1009,
+                    "size": "43.3MB",
+                    "md5": "332fa210da42d23ba35c02b31bebc473",
+                    "signatureSha1": "87:61:53:43:65:7C:0A:98:15:5D:71:EC:5A:31:58:21:8B:9A:9F:62",
+                    "signer": "CN=edward barber, OU=miniclip portugal, O=miniclip, L=oeiras, ST=lisbon, C=PT",
+                    "obbUrl": null
                 }
             }
         },
@@ -3879,6 +3887,58 @@
                     "obbUrl": null
                 },
                 "apk1": "https://pool.apk.aptoide.com/89080913731/com-skgames-trafficracer-252-73876360-cadf275d82f4dd9187d2257cbcaab2e0.apk",
+                "apk2": null
+            }
+        },
+        {
+            "id": "coinmaster",
+            "title": "Coin Master",
+            "package": "com.moonactive.coinmaster",
+            "details": {
+                "downloads": "348M+",
+                "rating": 4.55,
+                "size": "88.3MB",
+                "ageRating": "PEGI-18",
+                "androidVersion": "6.0+",
+                "version": "3.5.2730",
+                "isFree": true
+            },
+            "description": "Join your Facebook friends and millions of players around the world for prize-winning spins as you build village after village on your journey to the top!\r\n\r\nDo you have what it takes to be the next Coin Master?\r\n\r\nGet ready to team up with friends for thrilling expeditions or join forces with a crew of fellow players. You’ll always find a new adventure with an ever-changing lineup of special events, packed with unique challenges and exciting surprises to keep you on your toes!\r\n\r\nSpin and Attack!\r\n\r\nSpin the wheel to discover your fortune- or attack friends' villages and steal their coins to help build your own! You can also win gold sacks to build magnificent villages throughout the game and advance through thousands of levels. Don't forget to win shields from the wheel too—you'll need them to guard your village from other players trying to attack you back! Become the Coin Master with the most impressive villages and the most incredible prizes!\r\n\r\nEmbark on Fun Expeditions with Friends!\r\n\r\nEarning coins from the prize wheel isn’t the only way to gather resources—you can find them on exciting expeditions too! Team up with friends to journey to other villages and uncover treasures that will help you build and advance to the next level. You never know what wonders you'll find in the next world you explore!\r\n\r\nCollect all the Cards!\r\n\r\nIt's not always about the coins; it's about the treasure too! Collecting cards completes sets and unlocks the next village in your grand adventure. With thousands of villages to create and build, each completed set is a step forward in your journey. With every village you master, your wins will be even greater.\r\n\r\nPlay and Create Teams with Friends!\r\n\r\nTrade your cards with our online community to collect them all! Join our fast-growing interactive Facebook community to meet new friends, create your dream team, earn big rewards, and trade treasures to help each other build and progress faster!\r\n\r\nCoin Master is free on all devices with in-app purchases\r\n\r\n\r\nCoin Master is intended for amusement purposes only and does not offer ‘real money’ gambling, or an opportunity to win real money or real prizes based on game play. \r\nCoin Master does not require payment to download and play, but it also allows you to purchase virtual items with real money inside the game. You can disable in-app purchases in your device’s settings.\r\n\r\nFollow Coin Master on Facebook and Instagram for exclusive offers and bonuses!\r\nFacebook: facebook.com/coinmaster\r\nInstagram: instagram.com/coinmasterofficial/\r\n\r\nTerms of Service: https://static.moonactive.net/legal/terms.html?lang=en\r\n\r\nPrivacy Notice: https://static.moonactive.net/legal/privacy.html?lang=en\r\n\r\nQuestions about the game? Our support is ready and waiting at:  https://support.coinmastergame.com/",
+            "whatsNew": "",
+            "media": {
+                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/icon.png",
+                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/banner.png",
+                "screenshots": [
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/1.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/2.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/3.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/4.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/5.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/6.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/7.jpg",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/8.jpg"
+                ]
+            },
+            "downloadLinks": {
+                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.moonactive.coinmaster",
+                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.moonactive.coinmaster",
+                "webpage": [
+                    "https://game-guard-three.vercel.app/game/coinmaster"
+                ],
+                "load1": "https://pool.apk.aptoide.com/appupdater/com-moonactive-coinmaster-3329882-76990367-c1198ef343669827e83e0d555dbc1a31.apk",
+                "load2": null,
+                "apkInfo": {
+                    "source": "aptoide",
+                    "store": "appupdater",
+                    "version": "3.5.2330",
+                    "versionCode": 3329882,
+                    "size": "91.1MB",
+                    "md5": "c1198ef343669827e83e0d555dbc1a31",
+                    "signatureSha1": "E9:D7:DC:0C:6F:A8:5D:5E:12:00:14:17:1B:ED:78:0A:E1:19:80:C5",
+                    "signer": "CN=Lior Tal, OU=Moon Active, O=Moon Active, L=Unknown, ST=Unknown, C=IL",
+                    "obbUrl": null
+                },
+                "apk1": "https://pool.apk.aptoide.com/appupdater/com-moonactive-coinmaster-3329882-76990367-c1198ef343669827e83e0d555dbc1a31.apk",
                 "apk2": null
             }
         },
@@ -6477,50 +6537,6 @@
                 ],
                 "load1": null,
                 "load2": null,
-                "apk1": null,
-                "apk2": null
-            }
-        },
-        {
-            "id": "coinmaster",
-            "title": "Coin Master",
-            "package": "com.moonactive.coinmaster",
-            "details": {
-                "downloads": "348M+",
-                "rating": 4.55,
-                "size": "88.3MB",
-                "ageRating": "PEGI-18",
-                "androidVersion": "6.0+",
-                "version": "3.5.2730",
-                "isFree": true
-            },
-            "description": "Join your Facebook friends and millions of players around the world for prize-winning spins as you build village after village on your journey to the top!\r\n\r\nDo you have what it takes to be the next Coin Master?\r\n\r\nGet ready to team up with friends for thrilling expeditions or join forces with a crew of fellow players. You’ll always find a new adventure with an ever-changing lineup of special events, packed with unique challenges and exciting surprises to keep you on your toes!\r\n\r\nSpin and Attack!\r\n\r\nSpin the wheel to discover your fortune- or attack friends' villages and steal their coins to help build your own! You can also win gold sacks to build magnificent villages throughout the game and advance through thousands of levels. Don't forget to win shields from the wheel too—you'll need them to guard your village from other players trying to attack you back! Become the Coin Master with the most impressive villages and the most incredible prizes!\r\n\r\nEmbark on Fun Expeditions with Friends!\r\n\r\nEarning coins from the prize wheel isn’t the only way to gather resources—you can find them on exciting expeditions too! Team up with friends to journey to other villages and uncover treasures that will help you build and advance to the next level. You never know what wonders you'll find in the next world you explore!\r\n\r\nCollect all the Cards!\r\n\r\nIt's not always about the coins; it's about the treasure too! Collecting cards completes sets and unlocks the next village in your grand adventure. With thousands of villages to create and build, each completed set is a step forward in your journey. With every village you master, your wins will be even greater.\r\n\r\nPlay and Create Teams with Friends!\r\n\r\nTrade your cards with our online community to collect them all! Join our fast-growing interactive Facebook community to meet new friends, create your dream team, earn big rewards, and trade treasures to help each other build and progress faster!\r\n\r\nCoin Master is free on all devices with in-app purchases\r\n\r\n\r\nCoin Master is intended for amusement purposes only and does not offer ‘real money’ gambling, or an opportunity to win real money or real prizes based on game play. \r\nCoin Master does not require payment to download and play, but it also allows you to purchase virtual items with real money inside the game. You can disable in-app purchases in your device’s settings.\r\n\r\nFollow Coin Master on Facebook and Instagram for exclusive offers and bonuses!\r\nFacebook: facebook.com/coinmaster\r\nInstagram: instagram.com/coinmasterofficial/\r\n\r\nTerms of Service: https://static.moonactive.net/legal/terms.html?lang=en\r\n\r\nPrivacy Notice: https://static.moonactive.net/legal/privacy.html?lang=en\r\n\r\nQuestions about the game? Our support is ready and waiting at:  https://support.coinmastergame.com/",
-            "whatsNew": "",
-            "media": {
-                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/icon.png",
-                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/banner.png",
-                "screenshots": [
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/1.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/2.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/3.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/4.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/5.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/6.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/7.jpg",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/coinmaster/screenshots/8.jpg"
-                ]
-            },
-            "downloadLinks": {
-                "playStoreUrl": "https://play.google.com/store/apps/details?id=com.moonactive.coinmaster",
-                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.moonactive.coinmaster",
-                "webpage": [
-                    "https://game-guard-three.vercel.app/game/coinmaster"
-                ],
-                "load1": null,
-                "load2": null,
-                "apkInfo": {
-                    "signatureSha1": "E9:D7:DC:0C:6F:A8:5D:5E:12:00:14:17:1B:ED:78:0A:E1:19:80:C5"
-                },
                 "apk1": null,
                 "apk2": null
             }
