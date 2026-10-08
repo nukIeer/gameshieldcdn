@@ -4784,7 +4784,7 @@
                 "size": "28.9MB",
                 "ageRating": "PEGI-7",
                 "androidVersion": "9+",
-                "version": "4.0.1",
+                "version": "4.0.2",
                 "isFree": true
             },
             "description": "<b>Shattered Pixel Dungeon</b> is a traditional roguelike dungeon crawler RPG that's simple to get into but hard to master! Every game is a unique challenge, with six different heroes, randomized levels and enemies, and hundreds of items to collect and use. ShatteredPD is also updated with new content roughly every three months, so there's always something new.\r\n\r\n<h2><b><u>Choose Your Hero</u></b></h2>\r\nEach of ShatteredPD's six playable heroes has their own unique mechanics and gameplay style. Cut down foes as the durable Warrior or deadly Duelist, fry your enemies as the arcane Mage or divine Cleric, or use terrain to your advantage as the stealthy Rogue or the markswoman Huntress!\r\n\r\nAs you progress through the dungeon you'll earn points to spend on talents, choose a subclass, and gain powerful lategame abilities. You can turn the Duelist into a dual-wielding Champion, the Cleric into a righteous Paladin, the Huntress into a precise Sniper, or explore loads of other possibilities!\r\n\r\n<h2><b><u>Explore the Dungeon</u></b></h2>\r\nShatteredPD's dungeon is procedurally generated with random layouts, room types, items, traps, and enemies. In each game you'll find equipment and collect or craft consumable items to power you up or help you out in a pinch. There is a huge variety to what you might see from run to run and region to region.\r\n\r\nAs you progress through the dungeon you'll find equipment that can be enchanted, upgraded, and augmented as you outfit your hero. Set foes ablaze with an enchanted weapon, wade through enemies with upgraded armor, or gain powerful damage, defensive, or utility benefits from one of the many magical wands, rings, artifacts, or trinkets.\r\n\r\n<h2><b><u>Succeed or Die Trying</u></b></h2>\r\nThe Dungeon is filled with enemies, traps, hazards, and bosses intent on ending your run! Battle hostile wildlife in the sewers and caves, mad thieves and guards in the prison, occult servants in the fallen dwarven city, and maybe something even worse further down...\r\n\r\nAll these hazards can make the game quite tough, but don't be discouraged! You probably won't win on your first try, but there are many tricks and strategies to discover and learn on the path to getting your first win. Afterward, there are optional challenges and achivements if you want to put your skills to the test!\r\n\r\n<h2><b><u>Over A Decade in the Making</u></b></h2>\r\nShattered Pixel Dungeon is an open source game based on the source code of Pixel Dungeon by Watabou (first released in late 2012). It started in 2014 as a project to rebalance Pixel Dungeon but has steadily grown into its own game over the last 10 years!\r\n\r\n<b>Features Include:</b>\r\n• 6 Heroes, each with 2 subclasses, 3 endgame abilities, and over 25 talents.\r\n• Over 300 items including equipment, consumables, and items crafted via alchemy.\r\n• 5 dungeon regions, 26 floors, over 100 room types, and trillions of possible floor layouts.\r\n• Over 60 regular enemy types, 30 traps, and 10 bosses to test your skills.\r\n• An in-game catalog to fill in, with just over 500 entries.\r\n• 9 stackable challenges and over 100 achievements for completionists.\r\n• Interface modes for large and small screens, and support for multiple input types.\r\n• Updates roughly every 3 months with new content, fixes, and improvements.\r\n• Support for many languages thanks to the game's dedicated communities.",
@@ -4809,16 +4809,16 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/game/shatteredpd"
                 ],
-                "load1": "https://github.com/00-Evan/shattered-pixel-dungeon/releases/download/v4.0.1/ShatteredPD-v4.0.1-Android.apk",
+                "load1": "https://github.com/00-Evan/shattered-pixel-dungeon/releases/download/v4.0.2/ShatteredPD-v4.0.2-Android.apk",
                 "load2": null,
                 "apkInfo": {
                     "source": "github",
                     "repo": "00-Evan/shattered-pixel-dungeon",
                     "assetPattern": "-Android\\.apk$",
-                    "version": "4.0.1",
+                    "version": "4.0.2",
                     "size": "28.9MB"
                 },
-                "apk1": "https://github.com/00-Evan/shattered-pixel-dungeon/releases/download/v4.0.1/ShatteredPD-v4.0.1-Android.apk",
+                "apk1": "https://github.com/00-Evan/shattered-pixel-dungeon/releases/download/v4.0.2/ShatteredPD-v4.0.2-Android.apk",
                 "apk2": null
             }
         },
