@@ -4099,6 +4099,54 @@
             }
         },
         {
+            "id": "ppsspp",
+            "title": "PPSSPP - PSP emulator",
+            "package": "org.ppsspp.ppsspp",
+            "details": {
+                "downloads": "230M+",
+                "rating": 4.12,
+                "size": "28.4MB",
+                "ageRating": "PEGI-3",
+                "androidVersion": "Varies with device",
+                "version": "v1.20.4"
+            },
+            "description": "PPSSPP is a PSP emulator designed for Android devices that allows users to play PlayStation Portable games at high definition, offering enhanced features and improved performance. This application is recognized as one of the leading PSP emulators available, enabling players to experience their favorite PSP titles on their mobile devices. Users can download PPSSPP to access a wide range of games by utilizing their own PSP game files, converted into .ISO or .CSO format, or by playing free homebrew games available online.\n\nThe application supports a multitude of games, though the performance may vary based on the specifications of the individual Android device. PPSSPP provides users with the ability to adjust various settings to optimize gaming performance and visual quality. Players can modify aspects such as rendering resolution, texture filtering, and frame skipping to create a tailored gaming experience that suits their preferences and device capabilities. \n\nOne of the key attributes of PPSSPP is its compatibility with many popular PSP titles. This versatility allows gamers to revisit classic games or discover new ones, all while enjoying enhanced graphics and smoother gameplay compared to the original handheld console. The emulator supports save states, enabling players to save their game progress at any point and resume later, which is particularly useful for those with limited gaming time.\n\nIn addition to standard gameplay features, PPSSPP introduces additional functionalities that further enhance the user experience. The app allows for customizable controls, enabling users to adjust button layouts according to their preferences. This feature caters to different play styles, making the emulator accessible to a wider audience. Additionally, players can connect external controllers to their Android devices, which can enhance gameplay for those who prefer traditional gaming setups.\n\nPPSSPP also offers options for multiplayer gaming, allowing users to engage with friends or other players online. By utilizing Wi-Fi, users can enjoy cooperative or competitive gameplay, expanding the social aspect of gaming beyond single-player experiences. This connectivity feature increases the longevity and replay value of games played through the emulator.\n\nThe emulator supports a wide variety of game formats, and users can easily load their game files by placing them in the designated folder on their SD card or USB storage. This straightforward process ensures that accessing games is simple and user-friendly. Furthermore, PPSSPP has a robust community that contributes to ongoing development and compatibility updates, allowing users to stay informed about the latest improvements and supported titles.\n\nCustomization extends beyond controls and graphics; the emulator also includes several audio settings to enhance the gaming experience. Players can adjust sound quality and select audio output options, ensuring that they achieve an optimal auditory experience while gaming. This attention to detail makes PPSSPP a versatile option for gamers who prioritize both visual and audio fidelity.\n\nFor those who wish to support the ongoing development of the emulator, there is a premium version available known as PPSSPP Gold. This paid version provides additional features and benefits while contributing to future updates and improvements. Users can choose to download PPSSPP Gold to experience the full potential of the emulator while supporting its creators.\n\nThe user interface of PPSSPP is designed to be intuitive, allowing for easy navigation through settings and game selections. New users will find it accessible, while experienced gamers will appreciate the depth of customization options available. The design ensures that finding and launching games is a seamless process, promoting a user-friendly experience.\n\nCommunity engagement is a significant aspect of PPSSPP, as the forums provide a platform for users to discuss game compatibility, share tips, and offer feedback on the emulator. This collaborative environment fosters a sense of belonging among users and encourages knowledge sharing, which can enhance the overall gaming experience.\n\nAs a comprehensive emulator for Android devices, PPSSPP stands out for its ability to bring classic PSP games to modern phones and tablets. With its extensive compatibility, customizable features, and supportive community, it serves as a valuable tool for gamers looking to relive their favorite PlayStation Portable experiences. Whether users are interested in revisiting nostalgic titles or exploring new games, PPSSPP provides them with the tools necessary for an enjoyable gaming experience.\n\nFor more information on game compatibility and features, you can visit the official website at http://www.ppsspp.org.",
+            "whatsNew": "Lots of performance and compatibility fixes! See the website for details.",
+            "media": {
+                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/ppsspp/icon.png",
+                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/ppsspp/banner.png",
+                "screenshots": [
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/ppsspp/screenshots/1.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/ppsspp/screenshots/2.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/ppsspp/screenshots/3.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/ppsspp/screenshots/4.png",
+                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/ppsspp/screenshots/5.png"
+                ]
+            },
+            "downloadLinks": {
+                "playStoreUrl": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp",
+                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/org.ppsspp.ppsspp",
+                "webpage": [
+                    "https://game-guard-three.vercel.app/game/ppsspp"
+                ],
+                "load1": "https://pool.apk.aptoide.com/appupdater/org-ppsspp-ppsspp-1010-77030089-14d2c3eacda5db8f33cf93715ba3bc4b.apk",
+                "load2": null,
+                "apk1": "https://pool.apk.aptoide.com/appupdater/org-ppsspp-ppsspp-1010-77030089-14d2c3eacda5db8f33cf93715ba3bc4b.apk",
+                "apk2": null,
+                "apkInfo": {
+                    "source": "aptoide",
+                    "store": "appupdater",
+                    "version": "1.0.1.0",
+                    "versionCode": 1010,
+                    "size": "15.5MB",
+                    "md5": "14d2c3eacda5db8f33cf93715ba3bc4b",
+                    "signatureSha1": "73:4A:68:73:FA:A9:A7:FC:59:0C:1B:12:00:44:75:14:CC:E7:D1:19",
+                    "signer": "CN=Henrik Rydgard, OU=Unknown, O=Unknown, L=Stockholm, ST=Stockholm, C=SE",
+                    "obbUrl": null
+                }
+            }
+        },
+        {
             "id": "smashhit",
             "title": "Smash Hit",
             "package": "com.mediocre.smashhit",
@@ -7082,43 +7130,6 @@
                 "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.pazugames.avatarworld",
                 "webpage": [
                     "https://game-guard-three.vercel.app/game/avatarworld"
-                ],
-                "load1": null,
-                "load2": null,
-                "apk1": null,
-                "apk2": null
-            }
-        },
-        {
-            "id": "ppsspp",
-            "title": "PPSSPP - PSP emulator",
-            "package": "org.ppsspp.ppsspp",
-            "details": {
-                "downloads": "230M+",
-                "rating": 4.12,
-                "size": "28.4MB",
-                "ageRating": "PEGI-3",
-                "androidVersion": "Varies with device",
-                "version": "v1.20.4"
-            },
-            "description": "PPSSPP is a PSP emulator designed for Android devices that allows users to play PlayStation Portable games at high definition, offering enhanced features and improved performance. This application is recognized as one of the leading PSP emulators available, enabling players to experience their favorite PSP titles on their mobile devices. Users can download PPSSPP to access a wide range of games by utilizing their own PSP game files, converted into .ISO or .CSO format, or by playing free homebrew games available online.\n\nThe application supports a multitude of games, though the performance may vary based on the specifications of the individual Android device. PPSSPP provides users with the ability to adjust various settings to optimize gaming performance and visual quality. Players can modify aspects such as rendering resolution, texture filtering, and frame skipping to create a tailored gaming experience that suits their preferences and device capabilities. \n\nOne of the key attributes of PPSSPP is its compatibility with many popular PSP titles. This versatility allows gamers to revisit classic games or discover new ones, all while enjoying enhanced graphics and smoother gameplay compared to the original handheld console. The emulator supports save states, enabling players to save their game progress at any point and resume later, which is particularly useful for those with limited gaming time.\n\nIn addition to standard gameplay features, PPSSPP introduces additional functionalities that further enhance the user experience. The app allows for customizable controls, enabling users to adjust button layouts according to their preferences. This feature caters to different play styles, making the emulator accessible to a wider audience. Additionally, players can connect external controllers to their Android devices, which can enhance gameplay for those who prefer traditional gaming setups.\n\nPPSSPP also offers options for multiplayer gaming, allowing users to engage with friends or other players online. By utilizing Wi-Fi, users can enjoy cooperative or competitive gameplay, expanding the social aspect of gaming beyond single-player experiences. This connectivity feature increases the longevity and replay value of games played through the emulator.\n\nThe emulator supports a wide variety of game formats, and users can easily load their game files by placing them in the designated folder on their SD card or USB storage. This straightforward process ensures that accessing games is simple and user-friendly. Furthermore, PPSSPP has a robust community that contributes to ongoing development and compatibility updates, allowing users to stay informed about the latest improvements and supported titles.\n\nCustomization extends beyond controls and graphics; the emulator also includes several audio settings to enhance the gaming experience. Players can adjust sound quality and select audio output options, ensuring that they achieve an optimal auditory experience while gaming. This attention to detail makes PPSSPP a versatile option for gamers who prioritize both visual and audio fidelity.\n\nFor those who wish to support the ongoing development of the emulator, there is a premium version available known as PPSSPP Gold. This paid version provides additional features and benefits while contributing to future updates and improvements. Users can choose to download PPSSPP Gold to experience the full potential of the emulator while supporting its creators.\n\nThe user interface of PPSSPP is designed to be intuitive, allowing for easy navigation through settings and game selections. New users will find it accessible, while experienced gamers will appreciate the depth of customization options available. The design ensures that finding and launching games is a seamless process, promoting a user-friendly experience.\n\nCommunity engagement is a significant aspect of PPSSPP, as the forums provide a platform for users to discuss game compatibility, share tips, and offer feedback on the emulator. This collaborative environment fosters a sense of belonging among users and encourages knowledge sharing, which can enhance the overall gaming experience.\n\nAs a comprehensive emulator for Android devices, PPSSPP stands out for its ability to bring classic PSP games to modern phones and tablets. With its extensive compatibility, customizable features, and supportive community, it serves as a valuable tool for gamers looking to relive their favorite PlayStation Portable experiences. Whether users are interested in revisiting nostalgic titles or exploring new games, PPSSPP provides them with the tools necessary for an enjoyable gaming experience.\n\nFor more information on game compatibility and features, you can visit the official website at http://www.ppsspp.org.",
-            "whatsNew": "Lots of performance and compatibility fixes! See the website for details.",
-            "media": {
-                "iconUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/ppsspp/icon.png",
-                "bannerUrl": "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/ppsspp/banner.png",
-                "screenshots": [
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/ppsspp/screenshots/1.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/ppsspp/screenshots/2.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/ppsspp/screenshots/3.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/ppsspp/screenshots/4.png",
-                    "https://cdn.jsdelivr.net/gh/nukIeer/gameshieldcdn@master/games/ppsspp/screenshots/5.png"
-                ]
-            },
-            "downloadLinks": {
-                "playStoreUrl": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp",
-                "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/org.ppsspp.ppsspp",
-                "webpage": [
-                    "https://game-guard-three.vercel.app/game/ppsspp"
                 ],
                 "load1": null,
                 "load2": null,
