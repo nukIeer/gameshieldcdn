@@ -3070,10 +3070,21 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/game/pou"
                 ],
-                "load1": null,
+                "load1": "https://pool.apk.aptoide.com/appupdater/me-pou-app-285-77039741-bfa90af27dc04ac4c1e971d932830999.apk",
                 "load2": null,
-                "apk1": null,
-                "apk2": null
+                "apk1": "https://pool.apk.aptoide.com/appupdater/me-pou-app-285-77039741-bfa90af27dc04ac4c1e971d932830999.apk",
+                "apk2": null,
+                "apkInfo": {
+                    "source": "aptoide",
+                    "store": "appupdater",
+                    "version": "1.4.136",
+                    "versionCode": 285,
+                    "size": "87.1MB",
+                    "md5": "bfa90af27dc04ac4c1e971d932830999",
+                    "signatureSha1": "A0:8D:D5:D7:D6:59:A0:D8:8A:C4:4F:E0:75:C5:E4:FF:65:56:62:97",
+                    "signer": "CN=Paul",
+                    "obbUrl": null
+                }
             }
         },
         {
