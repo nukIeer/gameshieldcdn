@@ -3988,20 +3988,20 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/game/pvz2"
                 ],
-                "load1": "https://pool.apk.aptoide.com/appupdater/com-ea-game-pvz2-row-1055-76232578-11cce0449081b2ac142dc61c04009490.apk",
+                "load1": "https://pool.apk.aptoide.com/lormejor67/com-ea-game-pvz2-row-1063-77056588-e5d779768851eef5db5b6bbb258e4895.apk",
                 "load2": null,
                 "apkInfo": {
                     "source": "aptoide",
-                    "store": "appupdater",
-                    "version": "13.4.1",
-                    "versionCode": 1055,
-                    "size": "55.8MB",
-                    "md5": "11cce0449081b2ac142dc61c04009490",
+                    "store": "lormejor67",
+                    "version": "13.5.1",
+                    "versionCode": 1063,
+                    "size": "62.7MB",
+                    "md5": "e5d779768851eef5db5b6bbb258e4895",
                     "signatureSha1": "12:F1:98:C1:38:45:05:B5:B2:66:01:2E:3D:F0:DC:C2:25:E9:CB:43",
                     "signer": "CN=EAM, OU=EAM, O=EAM, L=LA, ST=CA, C=US",
-                    "obbUrl": "https://pool.obb.aptoide.com/appupdater/main-826-com-ea-game-pvz2-row-e44a36dc6d7604e0eaa440c494ddbe71.obb"
+                    "obbUrl": "https://pool.obb.aptoide.com/lormejor67/main-1055-com-ea-game-pvz2-row-1fd989f49e57efcb3f7503de25d161fd.obb"
                 },
-                "apk1": "https://pool.apk.aptoide.com/appupdater/com-ea-game-pvz2-row-1055-76232578-11cce0449081b2ac142dc61c04009490.apk",
+                "apk1": "https://pool.apk.aptoide.com/lormejor67/com-ea-game-pvz2-row-1063-77056588-e5d779768851eef5db5b6bbb258e4895.apk",
                 "apk2": null
             }
         },
