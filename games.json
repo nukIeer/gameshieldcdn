@@ -2608,20 +2608,12 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/game/mobilelegends"
                 ],
-                "load1": "https://pool.apk.aptoide.com/aptoide-apparena/com-mobile-legends-1211812321-76644434-5b053a803b5aeb77af93f31164c9ce2c.apk",
+                "load1": null,
                 "load2": null,
                 "apkInfo": {
-                    "source": "aptoide",
-                    "store": "aptoide-apparena",
-                    "version": "22.2.16.12321",
-                    "versionCode": 1211812321,
-                    "size": "187.9MB",
-                    "md5": "5b053a803b5aeb77af93f31164c9ce2c",
-                    "signatureSha1": "D6:59:C5:39:7A:8F:2A:5B:6F:34:89:E5:46:A3:89:CA:54:FD:28:FC",
-                    "signer": "C=cn, ST=sh, L=sh, O=mu, OU=mu, CN=mu",
-                    "obbUrl": null
+                    "signatureSha1": "D6:59:C5:39:7A:8F:2A:5B:6F:34:89:E5:46:A3:89:CA:54:FD:28:FC"
                 },
-                "apk1": "https://pool.apk.aptoide.com/aptoide-apparena/com-mobile-legends-1211812321-76644434-5b053a803b5aeb77af93f31164c9ce2c.apk",
+                "apk1": null,
                 "apk2": null
             }
         },
@@ -3700,10 +3692,21 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/game/geometry"
                 ],
-                "load1": null,
+                "load1": "https://pool.apk.aptoide.com/appupdater/com-robtopx-geometryjumplite-35-77110287-1dde3c9ff9b5c4c2e5b83c1e865af8b6.apk",
                 "load2": null,
-                "apk1": null,
-                "apk2": null
+                "apk1": "https://pool.apk.aptoide.com/appupdater/com-robtopx-geometryjumplite-35-77110287-1dde3c9ff9b5c4c2e5b83c1e865af8b6.apk",
+                "apk2": null,
+                "apkInfo": {
+                    "source": "aptoide",
+                    "store": "appupdater",
+                    "version": "2.2.11",
+                    "versionCode": 35,
+                    "size": "68.8MB",
+                    "md5": "1dde3c9ff9b5c4c2e5b83c1e865af8b6",
+                    "signatureSha1": "40:D4:30:44:26:01:C3:20:BF:7B:22:80:1B:01:A3:D8:6D:01:BB:93",
+                    "signer": "CN=Robert Topala, OU=RobTop Games, O=RobTop Games, L=Stockholm, ST=Upplands Vasby, C=SE",
+                    "obbUrl": null
+                }
             }
         },
         {
@@ -4252,20 +4255,20 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/game/pixelgun3d"
                 ],
-                "load1": "https://pool.apk.aptoide.com/appupdater/com-pixel-gun3d-643486-76934112-e394757507a82665152f10c51116e0f3.apk",
+                "load1": "https://pool.apk.aptoide.com/appupdater/com-pixel-gun3d-646536-77107291-350b19bb0fb391b2b9b1b5078583ef79.apk",
                 "load2": null,
                 "apkInfo": {
                     "source": "aptoide",
                     "store": "appupdater",
-                    "version": "26.12.1",
-                    "versionCode": 643486,
-                    "size": "103.3MB",
-                    "md5": "e394757507a82665152f10c51116e0f3",
+                    "version": "26.13.0",
+                    "versionCode": 646536,
+                    "size": "101.1MB",
+                    "md5": "350b19bb0fb391b2b9b1b5078583ef79",
                     "signatureSha1": "7C:AD:A1:D8:C6:D6:AF:F7:F8:49:F4:69:DB:F5:91:D6:EA:0F:5B:03",
                     "signer": "O=DefaultCompany, OU=1, CN=pixel gun",
                     "obbUrl": "https://pool.obb.aptoide.com/appupdater/main-303587-com-pixel-gun3d-47fc201a860f72e9c5b7126dc76a4c9c.obb"
                 },
-                "apk1": "https://pool.apk.aptoide.com/appupdater/com-pixel-gun3d-643486-76934112-e394757507a82665152f10c51116e0f3.apk",
+                "apk1": "https://pool.apk.aptoide.com/appupdater/com-pixel-gun3d-646536-77107291-350b19bb0fb391b2b9b1b5078583ef79.apk",
                 "apk2": null
             }
         },
@@ -4357,20 +4360,20 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/game/xbox"
                 ],
-                "load1": "https://pool.apk.aptoide.com/appupdater/com-microsoft-xboxone-smartglass-334820993-76894608-28eb50eccd2aacc0dc6d9772524a0c1a.apk",
+                "load1": "https://pool.apk.aptoide.com/appupdater/com-microsoft-xboxone-smartglass-334821249-77111682-88bc403880c6d7e9c4878dc67f41cc80.apk",
                 "load2": null,
                 "apkInfo": {
                     "source": "aptoide",
                     "store": "appupdater",
-                    "version": "2609.3.1",
-                    "versionCode": 334820993,
+                    "version": "2610.1.1",
+                    "versionCode": 334821249,
                     "size": "105.4MB",
-                    "md5": "28eb50eccd2aacc0dc6d9772524a0c1a",
+                    "md5": "88bc403880c6d7e9c4878dc67f41cc80",
                     "signatureSha1": "95:84:62:12:86:35:31:E9:7E:8E:86:FE:F7:47:AD:32:DE:5B:CC:DE",
                     "signer": "CN=Microsoft Corporation Third Party Marketplace (Do Not Trust), OU=Android Signing for Microsoft Studios, O=Microsoft Corporation, L=Redmond, ST=Washington, C=US",
                     "obbUrl": null
                 },
-                "apk1": "https://pool.apk.aptoide.com/appupdater/com-microsoft-xboxone-smartglass-334820993-76894608-28eb50eccd2aacc0dc6d9772524a0c1a.apk",
+                "apk1": "https://pool.apk.aptoide.com/appupdater/com-microsoft-xboxone-smartglass-334821249-77111682-88bc403880c6d7e9c4878dc67f41cc80.apk",
                 "apk2": null
             },
             "tags": [
