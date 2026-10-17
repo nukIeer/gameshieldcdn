@@ -3947,7 +3947,7 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/game/coinmaster"
                 ],
-                "load1": "https://pool.apk.aptoide.com/appupdater/com-moonactive-coinmaster-3329882-76990367-c1198ef343669827e83e0d555dbc1a31.apk",
+                "load1": "https://pool.apk.aptoide.com/appupdater/com-moonactive-coinmaster-3329882-77144433-045b4fbcc3e461864d95646ef806a455.apk",
                 "load2": null,
                 "apkInfo": {
                     "source": "aptoide",
@@ -3955,12 +3955,12 @@
                     "version": "3.5.2330",
                     "versionCode": 3329882,
                     "size": "91.1MB",
-                    "md5": "c1198ef343669827e83e0d555dbc1a31",
+                    "md5": "045b4fbcc3e461864d95646ef806a455",
                     "signatureSha1": "E9:D7:DC:0C:6F:A8:5D:5E:12:00:14:17:1B:ED:78:0A:E1:19:80:C5",
                     "signer": "CN=Lior Tal, OU=Moon Active, O=Moon Active, L=Unknown, ST=Unknown, C=IL",
                     "obbUrl": null
                 },
-                "apk1": "https://pool.apk.aptoide.com/appupdater/com-moonactive-coinmaster-3329882-76990367-c1198ef343669827e83e0d555dbc1a31.apk",
+                "apk1": "https://pool.apk.aptoide.com/appupdater/com-moonactive-coinmaster-3329882-77144433-045b4fbcc3e461864d95646ef806a455.apk",
                 "apk2": null
             }
         },
