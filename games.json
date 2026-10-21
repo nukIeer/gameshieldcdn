@@ -3947,7 +3947,7 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/game/coinmaster"
                 ],
-                "load1": "https://pool.apk.aptoide.com/appupdater/com-moonactive-coinmaster-3329882-77144433-045b4fbcc3e461864d95646ef806a455.apk",
+                "load1": "https://pool.apk.aptoide.com/appupdater/com-moonactive-coinmaster-3329882-77191402-f2dc2c16b803745630b37a45bc077a72.apk",
                 "load2": null,
                 "apkInfo": {
                     "source": "aptoide",
@@ -3955,12 +3955,12 @@
                     "version": "3.5.2330",
                     "versionCode": 3329882,
                     "size": "91.1MB",
-                    "md5": "045b4fbcc3e461864d95646ef806a455",
+                    "md5": "f2dc2c16b803745630b37a45bc077a72",
                     "signatureSha1": "E9:D7:DC:0C:6F:A8:5D:5E:12:00:14:17:1B:ED:78:0A:E1:19:80:C5",
                     "signer": "CN=Lior Tal, OU=Moon Active, O=Moon Active, L=Unknown, ST=Unknown, C=IL",
                     "obbUrl": null
                 },
-                "apk1": "https://pool.apk.aptoide.com/appupdater/com-moonactive-coinmaster-3329882-77144433-045b4fbcc3e461864d95646ef806a455.apk",
+                "apk1": "https://pool.apk.aptoide.com/appupdater/com-moonactive-coinmaster-3329882-77191402-f2dc2c16b803745630b37a45bc077a72.apk",
                 "apk2": null
             }
         },
@@ -4103,20 +4103,20 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/game/simsfreeplay"
                 ],
-                "load1": "https://pool.apk.aptoide.com/appupdater/com-ea-games-simsfreeplay-row-11800000-77082144-35a84a775d046b0afd11bdec76ddbff9.apk",
+                "load1": "https://pool.apk.aptoide.com/appupdater/com-ea-games-simsfreeplay-row-11800001-77197472-6484260ab384d4a7d6c15567dc5f467d.apk",
                 "load2": null,
                 "apkInfo": {
                     "source": "aptoide",
                     "store": "appupdater",
-                    "version": "118.0.282574",
-                    "versionCode": 11800000,
-                    "size": "181.6MB",
-                    "md5": "35a84a775d046b0afd11bdec76ddbff9",
+                    "version": "118.1.284528",
+                    "versionCode": 11800001,
+                    "size": "181.7MB",
+                    "md5": "6484260ab384d4a7d6c15567dc5f467d",
                     "signatureSha1": "12:F1:98:C1:38:45:05:B5:B2:66:01:2E:3D:F0:DC:C2:25:E9:CB:43",
                     "signer": "CN=EAM, OU=EAM, O=EAM, L=LA, ST=CA, C=US",
                     "obbUrl": null
                 },
-                "apk1": "https://pool.apk.aptoide.com/appupdater/com-ea-games-simsfreeplay-row-11800000-77082144-35a84a775d046b0afd11bdec76ddbff9.apk",
+                "apk1": "https://pool.apk.aptoide.com/appupdater/com-ea-games-simsfreeplay-row-11800001-77197472-6484260ab384d4a7d6c15567dc5f467d.apk",
                 "apk2": null
             }
         },
