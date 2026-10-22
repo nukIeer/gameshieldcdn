@@ -4415,20 +4415,20 @@
                 "webpage": [
                     "https://game-guard-three.vercel.app/game/chess"
                 ],
-                "load1": "https://pool.apk.aptoide.com/appupdater/com-chess-265880-75029963-84835b3c9594c5d4ab8cf1e3ea1adffe.apk",
+                "load1": "https://pool.apk.aptoide.com/appupdater/com-chess-265976-77218261-cc8c5cafdc019e3bac45520714b13f66.apk",
                 "load2": null,
                 "apkInfo": {
                     "source": "aptoide",
                     "store": "appupdater",
-                    "version": "4.9.27-googleplay",
-                    "versionCode": 265880,
-                    "size": "98.8MB",
-                    "md5": "84835b3c9594c5d4ab8cf1e3ea1adffe",
+                    "version": "4.9.32-googleplay",
+                    "versionCode": 265976,
+                    "size": "99.2MB",
+                    "md5": "cc8c5cafdc019e3bac45520714b13f66",
                     "signatureSha1": "C4:EC:83:31:5F:23:0F:FD:86:27:C9:98:B1:56:98:5B:34:F6:19:CF",
                     "signer": "CN=Anton Shapovalov, OU=developer, O=Jetmind, L=Kharkov",
                     "obbUrl": null
                 },
-                "apk1": "https://pool.apk.aptoide.com/appupdater/com-chess-265880-75029963-84835b3c9594c5d4ab8cf1e3ea1adffe.apk",
+                "apk1": "https://pool.apk.aptoide.com/appupdater/com-chess-265976-77218261-cc8c5cafdc019e3bac45520714b13f66.apk",
                 "apk2": null
             }
         },
