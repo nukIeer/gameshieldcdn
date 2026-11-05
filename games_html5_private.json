@@ -1,0 +1,414 @@
+{
+    "games": [
+        {
+            "id": "snake-html5",
+            "title": "Snake",
+            "package": null,
+            "details": {
+                "downloads": "Web",
+                "rating": 0,
+                "size": "HTML5",
+                "ageRating": "PEGI-3",
+                "androidVersion": "Modern web browser",
+                "version": "Web",
+                "isFree": true
+            },
+            "description": "Klasik yılan oyunu. Tek HTML dosyasıdır; harici bağımlılık, ağ isteği veya analitik kullanmaz.\n\nLicense: MIT. Source: https://github.com/prateek121/90s-games\nPrivacy: no ads or analytics/tracking are declared by the project; game progress/settings stay in the browser.",
+            "whatsNew": "Tarayıcıda doğrudan oynanır; kurulum veya APK gerekmez.",
+            "media": {
+                "iconUrl": null,
+                "bannerUrl": null,
+                "screenshots": []
+            },
+            "downloadLinks": {
+                "playStoreUrl": null,
+                "galaxyStoreUrl": null,
+                "webpage": [
+                    "https://prateek121.github.io/90s-games/games/snake.html"
+                ],
+                "load1": null,
+                "load2": null,
+                "apk1": null,
+                "apk2": null
+            },
+            "tags": [
+                "html5",
+                "browser",
+                "free",
+                "mit",
+                "no-ads",
+                "no-tracking",
+                "arcade"
+            ]
+        },
+        {
+            "id": "2048-html5",
+            "title": "2048",
+            "package": null,
+            "details": {
+                "downloads": "Web",
+                "rating": 0,
+                "size": "HTML5",
+                "ageRating": "PEGI-3",
+                "androidVersion": "Modern web browser",
+                "version": "Web",
+                "isFree": true
+            },
+            "description": "Sayıları birleştirerek 2048'e ulaşmaya çalış. Tek dosyalı HTML5 oyunudur; ağ isteği ve analitik içermez.\n\nLicense: MIT. Source: https://github.com/prateek121/90s-games\nPrivacy: no ads or analytics/tracking are declared by the project; game progress/settings stay in the browser.",
+            "whatsNew": "Tarayıcıda doğrudan oynanır; kurulum veya APK gerekmez.",
+            "media": {
+                "iconUrl": null,
+                "bannerUrl": null,
+                "screenshots": []
+            },
+            "downloadLinks": {
+                "playStoreUrl": null,
+                "galaxyStoreUrl": null,
+                "webpage": [
+                    "https://prateek121.github.io/90s-games/games/2048.html"
+                ],
+                "load1": null,
+                "load2": null,
+                "apk1": null,
+                "apk2": null
+            },
+            "tags": [
+                "html5",
+                "browser",
+                "free",
+                "mit",
+                "no-ads",
+                "no-tracking",
+                "puzzle"
+            ]
+        },
+        {
+            "id": "minesweeper-html5",
+            "title": "Minesweeper",
+            "package": null,
+            "details": {
+                "downloads": "Web",
+                "rating": 0,
+                "size": "HTML5",
+                "ageRating": "PEGI-7",
+                "androidVersion": "Modern web browser",
+                "version": "Web",
+                "isFree": true
+            },
+            "description": "Mayınlara basmadan güvenli kareleri aç. Tek dosyalı HTML5 oyunudur; ağ isteği ve analitik içermez.\n\nLicense: MIT. Source: https://github.com/prateek121/90s-games\nPrivacy: no ads or analytics/tracking are declared by the project; game progress/settings stay in the browser.",
+            "whatsNew": "Tarayıcıda doğrudan oynanır; kurulum veya APK gerekmez.",
+            "media": {
+                "iconUrl": null,
+                "bannerUrl": null,
+                "screenshots": []
+            },
+            "downloadLinks": {
+                "playStoreUrl": null,
+                "galaxyStoreUrl": null,
+                "webpage": [
+                    "https://prateek121.github.io/90s-games/games/minesweeper.html"
+                ],
+                "load1": null,
+                "load2": null,
+                "apk1": null,
+                "apk2": null
+            },
+            "tags": [
+                "html5",
+                "browser",
+                "free",
+                "mit",
+                "no-ads",
+                "no-tracking",
+                "puzzle"
+            ]
+        },
+        {
+            "id": "sokoban-html5",
+            "title": "Sokoban",
+            "package": null,
+            "details": {
+                "downloads": "Web",
+                "rating": 0,
+                "size": "HTML5",
+                "ageRating": "PEGI-3",
+                "androidVersion": "Modern web browser",
+                "version": "Web",
+                "isFree": true
+            },
+            "description": "Kutuları hedef karelere iterek bölümleri tamamla. Tek dosyalı HTML5 oyunudur; ağ isteği ve analitik içermez.\n\nLicense: MIT. Source: https://github.com/prateek121/90s-games\nPrivacy: no ads or analytics/tracking are declared by the project; game progress/settings stay in the browser.",
+            "whatsNew": "Tarayıcıda doğrudan oynanır; kurulum veya APK gerekmez.",
+            "media": {
+                "iconUrl": null,
+                "bannerUrl": null,
+                "screenshots": []
+            },
+            "downloadLinks": {
+                "playStoreUrl": null,
+                "galaxyStoreUrl": null,
+                "webpage": [
+                    "https://prateek121.github.io/90s-games/games/sokoban.html"
+                ],
+                "load1": null,
+                "load2": null,
+                "apk1": null,
+                "apk2": null
+            },
+            "tags": [
+                "html5",
+                "browser",
+                "free",
+                "mit",
+                "no-ads",
+                "no-tracking",
+                "puzzle"
+            ]
+        },
+        {
+            "id": "vaporwave-escape-html5",
+            "title": "Vaporwave Escape",
+            "package": null,
+            "details": {
+                "downloads": "Web",
+                "rating": 0,
+                "size": "HTML5",
+                "ageRating": "PEGI-7",
+                "androidVersion": "Modern web browser",
+                "version": "Web",
+                "isFree": true
+            },
+            "description": "Neon temalı refleks ve kaçış oyunu. Tek dosyalı HTML5 oyunudur; ağ isteği ve analitik içermez.\n\nLicense: MIT. Source: https://github.com/prateek121/90s-games\nPrivacy: no ads or analytics/tracking are declared by the project; game progress/settings stay in the browser.",
+            "whatsNew": "Tarayıcıda doğrudan oynanır; kurulum veya APK gerekmez.",
+            "media": {
+                "iconUrl": null,
+                "bannerUrl": null,
+                "screenshots": []
+            },
+            "downloadLinks": {
+                "playStoreUrl": null,
+                "galaxyStoreUrl": null,
+                "webpage": [
+                    "https://prateek121.github.io/90s-games/games/vaporwave-escape.html"
+                ],
+                "load1": null,
+                "load2": null,
+                "apk1": null,
+                "apk2": null
+            },
+            "tags": [
+                "html5",
+                "browser",
+                "free",
+                "mit",
+                "no-ads",
+                "no-tracking",
+                "arcade"
+            ]
+        },
+        {
+            "id": "mah-mahjong",
+            "title": "Mahjong Solitaire (Mah)",
+            "package": null,
+            "details": {
+                "downloads": "Web",
+                "rating": 0,
+                "size": "HTML5",
+                "ageRating": "PEGI-3",
+                "androidVersion": "Modern web browser",
+                "version": "Web",
+                "isFree": true
+            },
+            "description": "HTML5 ve SVG ile hazırlanmış Mahjong Solitaire. Ücretsizdir; reklam, takip veya bulut kaydı kullanmadığını belirtir.\n\nLicense: MIT. Source: https://github.com/ffalt/mah\nPrivacy: no ads or analytics/tracking are declared by the project; game progress/settings stay in the browser.",
+            "whatsNew": "Tarayıcıda doğrudan oynanır; kurulum veya APK gerekmez.",
+            "media": {
+                "iconUrl": null,
+                "bannerUrl": null,
+                "screenshots": []
+            },
+            "downloadLinks": {
+                "playStoreUrl": null,
+                "galaxyStoreUrl": null,
+                "webpage": [
+                    "https://ffalt.github.io/mah/"
+                ],
+                "load1": null,
+                "load2": null,
+                "apk1": null,
+                "apk2": null
+            },
+            "tags": [
+                "html5",
+                "browser",
+                "free",
+                "mit",
+                "no-ads",
+                "no-tracking",
+                "board"
+            ]
+        },
+        {
+            "id": "klondike-solitaire",
+            "title": "Klondike Solitaire",
+            "package": null,
+            "details": {
+                "downloads": "Web",
+                "rating": 0,
+                "size": "HTML5",
+                "ageRating": "PEGI-3",
+                "androidVersion": "Modern web browser",
+                "version": "Web",
+                "isFree": true
+            },
+            "description": "Mobil uyumlu klasik Solitaire. Tek HTML dosyasıdır; reklam veya takip kodu bulunmadığını, çevrimdışı çalıştığını belirtir.\n\nLicense: MIT. Source: https://github.com/jhatzimalis/solitaire\nPrivacy: no ads or analytics/tracking are declared by the project; game progress/settings stay in the browser.",
+            "whatsNew": "Tarayıcıda doğrudan oynanır; kurulum veya APK gerekmez.",
+            "media": {
+                "iconUrl": null,
+                "bannerUrl": null,
+                "screenshots": []
+            },
+            "downloadLinks": {
+                "playStoreUrl": null,
+                "galaxyStoreUrl": null,
+                "webpage": [
+                    "https://jhatzimalis.github.io/solitaire"
+                ],
+                "load1": null,
+                "load2": null,
+                "apk1": null,
+                "apk2": null
+            },
+            "tags": [
+                "html5",
+                "browser",
+                "free",
+                "mit",
+                "no-ads",
+                "no-tracking",
+                "card"
+            ]
+        },
+        {
+            "id": "escape-run",
+            "title": "Escape Run – Matematik Macerası",
+            "package": null,
+            "details": {
+                "downloads": "Web",
+                "rating": 0,
+                "size": "HTML5",
+                "ageRating": "PEGI-3",
+                "androidVersion": "Modern web browser",
+                "version": "Web",
+                "isFree": true
+            },
+            "description": "6–8 yaş için matematik temalı tarayıcı oyunu. Hesap, reklam, analitik ve takip yok; ilerleme cihazdaki tarayıcıda tutulur.\n\nLicense: MIT. Source: https://github.com/abhas9/escape-run\nPrivacy: no ads or analytics/tracking are declared by the project; game progress/settings stay in the browser.",
+            "whatsNew": "Tarayıcıda doğrudan oynanır; kurulum veya APK gerekmez.",
+            "media": {
+                "iconUrl": null,
+                "bannerUrl": null,
+                "screenshots": []
+            },
+            "downloadLinks": {
+                "playStoreUrl": null,
+                "galaxyStoreUrl": null,
+                "webpage": [
+                    "https://abhas9.github.io/escape-run/"
+                ],
+                "load1": null,
+                "load2": null,
+                "apk1": null,
+                "apk2": null
+            },
+            "tags": [
+                "html5",
+                "browser",
+                "free",
+                "mit",
+                "no-ads",
+                "no-tracking",
+                "educational"
+            ]
+        },
+        {
+            "id": "path-patrol",
+            "title": "Path Patrol",
+            "package": null,
+            "details": {
+                "downloads": "Web",
+                "rating": 0,
+                "size": "HTML5",
+                "ageRating": "PEGI-7",
+                "androidVersion": "Modern web browser",
+                "version": "Web",
+                "isFree": true
+            },
+            "description": "Parmağınla güvenli bir rota çizerek alanı ele geçir. Hesap, reklam, takip veya sunucu gerektirmez; ilerleme cihazda kalır.\n\nLicense: MIT. Source: https://github.com/jgohil07/PathPatrol\nPrivacy: no ads or analytics/tracking are declared by the project; game progress/settings stay in the browser.",
+            "whatsNew": "Tarayıcıda doğrudan oynanır; kurulum veya APK gerekmez.",
+            "media": {
+                "iconUrl": null,
+                "bannerUrl": null,
+                "screenshots": []
+            },
+            "downloadLinks": {
+                "playStoreUrl": null,
+                "galaxyStoreUrl": null,
+                "webpage": [
+                    "https://jgohil07.github.io/PathPatrol/"
+                ],
+                "load1": null,
+                "load2": null,
+                "apk1": null,
+                "apk2": null
+            },
+            "tags": [
+                "html5",
+                "browser",
+                "free",
+                "mit",
+                "no-ads",
+                "no-tracking",
+                "arcade"
+            ]
+        },
+        {
+            "id": "opengames-mini-arcade",
+            "title": "OpenGames – 6 Mini Oyun",
+            "package": null,
+            "details": {
+                "downloads": "Web",
+                "rating": 0,
+                "size": "HTML5",
+                "ageRating": "PEGI-3",
+                "androidVersion": "Modern web browser",
+                "version": "Web",
+                "isFree": true
+            },
+            "description": "Labirent, Snake, Memory, Whac-A-Mole, Flap ve Blocks oyunlarından oluşan mini oyun koleksiyonu. Koleksiyonun tüm oyunları, çizimleri ve sesleri MIT lisanslı; reklamsız, hesapsız ve analitiksiz olduğunu açıkça belirtir.\n\nLicense: MIT. Source: https://opengames-dev.github.io/source.html\nPrivacy: no ads or analytics/tracking are declared by the project; game progress/settings stay in the browser.",
+            "whatsNew": "Tarayıcıda doğrudan oynanır; kurulum veya APK gerekmez.",
+            "media": {
+                "iconUrl": null,
+                "bannerUrl": null,
+                "screenshots": []
+            },
+            "downloadLinks": {
+                "playStoreUrl": null,
+                "galaxyStoreUrl": null,
+                "webpage": [
+                    "https://opengames-dev.github.io/"
+                ],
+                "load1": null,
+                "load2": null,
+                "apk1": null,
+                "apk2": null
+            },
+            "tags": [
+                "html5",
+                "browser",
+                "free",
+                "mit",
+                "no-ads",
+                "no-tracking",
+                "arcade"
+            ]
+        }
+    ]
+}
