@@ -1,0 +1,5359 @@
+{
+  "games": [
+    {
+      "id": "steamlink",
+      "title": "Steam Link",
+      "package": "com.valvesoftware.steamlink",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      },
+      "tags": [
+        "tools"
+      ]
+    },
+    {
+      "id": "geforcenow",
+      "title": "GeForce NOW Cloud Gaming",
+      "package": "com.nvidia.geforcenow",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nvidia.geforcenow",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      },
+      "tags": [
+        "tools"
+      ]
+    },
+    {
+      "id": "subwaysurfers",
+      "title": "Subway Surfers",
+      "package": "com.kiloo.subwaysurf",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "minecraftpe",
+      "title": "Minecraft: Dream it, Build it!",
+      "package": "com.mojang.minecraftpe",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "freefire",
+      "title": "Free Fire",
+      "package": "com.dts.freefireth",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.dts.freefireth",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "supercell",
+      "title": "Brawl Stars",
+      "package": "com.supercell.brawlstars",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "gtasanandreas",
+      "title": "Grand Theft Auto: San Andreas",
+      "package": "com.rockstargames.gtasa",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rockstargames.gtasa",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "among",
+      "title": "Among Us",
+      "package": "com.innersloth.spacemafia",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "clashofclans",
+      "title": "Clash of Clans",
+      "package": "com.supercell.clashofclans",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.supercell.clashofclans",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "mytalkingtom",
+      "title": "My Talking Tom",
+      "package": "com.outfit7.mytalkingtomfree",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "8",
+      "title": "8 Ball Pool",
+      "package": "com.miniclip.eightballpool",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "candycrush",
+      "title": "Candy Crush Saga",
+      "package": "com.king.candycrushsaga",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "codmobile",
+      "title": "Call of Duty®: Mobile",
+      "package": "com.activision.callofduty.shooter",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "clashroyale",
+      "title": "Clash Royale",
+      "package": "com.supercell.clashroyale",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "templerun2",
+      "title": "Temple Run 2",
+      "package": "com.imangi.templerun2",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.imangi.templerun2",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "mobilelegends",
+      "title": "Mobile Legends: Bang Bang",
+      "package": "com.mobile.legends",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mobile.legends",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "gtavicecity",
+      "title": "Grand Theft Auto: Vice City",
+      "package": "com.rockstargames.gtavc",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rockstargames.gtavc",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "pokemongo",
+      "title": "Pokémon GO",
+      "package": "com.nianticlabs.pokemongo",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "block",
+      "title": "Block Blast!",
+      "package": "com.block.juggle",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.block.juggle",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "gamotronix",
+      "title": "Ludo King®",
+      "package": "com.ludo.king",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ludo.king",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "carparking",
+      "title": "Car Parking Multiplayer",
+      "package": "com.olzhas.carparking.multyplayer",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "standoff2",
+      "title": "Standoff 2",
+      "package": "com.axlebolt.standoff2",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.axlebolt.standoff2",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "minionrush",
+      "title": "Minion Rush: Running Game",
+      "package": "com.gameloft.android.ANMP.GloftDMHM",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftDMHM",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "jetpackjoyride",
+      "title": "Jetpack Joyride",
+      "package": "com.halfbrick.jetpackjoyride",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.halfbrick.jetpackjoyride",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "fruitninja",
+      "title": "Fruit Ninja®",
+      "package": "com.halfbrick.fruitninjafree",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.halfbrick.fruitninjafree",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "my",
+      "title": "My Talking Tom 2",
+      "package": "com.outfit7.mytalkingtom2",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "pou",
+      "title": "Pou",
+      "package": "me.pou.app",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=me.pou.app",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "free",
+      "title": "Free Fire MAX",
+      "package": "com.dts.freefiremax",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.dts.freefiremax",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "asphalt",
+      "title": "Asphalt Legends - Racing Game",
+      "package": "com.gameloft.android.ANMP.GloftA9HM",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "hillclimb2",
+      "title": "Hill Climb Racing 2",
+      "package": "com.fingersoft.hcr2",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.fingersoft.hcr2",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "gtalibertycity",
+      "title": "GTA: Liberty City Stories",
+      "package": "com.rockstargames.gtalcs",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rockstargames.gtalcs",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "gtachinatown",
+      "title": "GTA: Chinatown Wars",
+      "package": "com.rockstargames.gtactw",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rockstargames.gtactw",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "gta3",
+      "title": "Grand Theft Auto III",
+      "package": "com.rockstar.gta3",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rockstar.gta3",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "shadowfight2",
+      "title": "Shadow Fight 2",
+      "package": "com.nekki.shadowfight",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nekki.shadowfight",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "granny",
+      "title": "Granny",
+      "package": "com.dvloper.granny",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.dvloper.granny",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "pvz",
+      "title": "Plants vs. Zombies™",
+      "package": "com.ea.game.pvzfree_row",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ea.game.pvzfree_row",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "hungryshark",
+      "title": "Hungry Shark Evolution",
+      "package": "com.fgol.HungrySharkEvolution",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "crossyroad",
+      "title": "Crossy Road",
+      "package": "com.yodo1.crossyroad",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "sniper3d",
+      "title": "Sniper 3D：Gun Shooting Games",
+      "package": "com.fungames.sniper3d",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.fungames.sniper3d",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "gangstarvegas",
+      "title": "Gangstar Vegas: World of Crime",
+      "package": "com.gameloft.android.ANMP.GloftGGHM",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftGGHM",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "asphalt8",
+      "title": "Asphalt 8 - Car Racing Game",
+      "package": "com.gameloft.android.ANMP.GloftA8HM",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA8HM",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "geometry",
+      "title": "Geometry Dash Lite",
+      "package": "com.robtopx.geometryjumplite",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "pubg",
+      "title": "PUBG MOBILE",
+      "package": "com.tencent.ig",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.tencent.ig",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "mytalkinangela",
+      "title": "My Talking Angela",
+      "package": "com.outfit7.mytalkingangelafree",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "slither",
+      "title": "slither.io",
+      "package": "air.com.hypah.io.slither",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=air.com.hypah.io.slither",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "trafficracer",
+      "title": "Traffic Racer",
+      "package": "com.skgames.trafficracer",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.skgames.trafficracer",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "coinmaster",
+      "title": "Coin Master",
+      "package": "com.moonactive.coinmaster",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.moonactive.coinmaster",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "pvz2",
+      "title": "Plants vs Zombies™ 2",
+      "package": "com.ea.game.pvz2_row",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ea.game.pvz2_row",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "pubglite",
+      "title": "PUBG MOBILE LITE",
+      "package": "com.tencent.iglite",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.tencent.iglite",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "simsfreeplay",
+      "title": "The Sims™ FreePlay",
+      "package": "com.ea.games.simsfreeplay_row",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ea.games.simsfreeplay_row",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "ppsspp",
+      "title": "PPSSPP - PSP emulator",
+      "package": "org.ppsspp.ppsspp",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "smashhit",
+      "title": "Smash Hit",
+      "package": "com.mediocre.smashhit",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mediocre.smashhit",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "pixelgun3d",
+      "title": "Pixel Gun 3D - FPS Shooter",
+      "package": "com.pixel.gun3d",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.pixel.gun3d",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "steam",
+      "title": "Steam",
+      "package": "com.valvesoftware.android.steam.community",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      },
+      "tags": [
+        "tools"
+      ]
+    },
+    {
+      "id": "xbox",
+      "title": "XBOX",
+      "package": "com.microsoft.xboxone.smartglass",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.microsoft.xboxone.smartglass",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      },
+      "tags": [
+        "tools"
+      ]
+    },
+    {
+      "id": "chess",
+      "title": "Chess - Play and Learn Online",
+      "package": "com.chess",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.chess",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "badpiggies",
+      "title": "Bad Piggies",
+      "package": "com.rovio.BadPiggies",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rovio.BadPiggies",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "racing",
+      "title": "Racing in Car",
+      "package": "com.ffgames.racingincar",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ffgames.racingincar",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "benji",
+      "title": "Benji Bananas",
+      "package": "com.fingersoft.benjibananas",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.fingersoft.benjibananas",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "doodlejump",
+      "title": "Doodle Jump",
+      "package": "com.lima.doodlejump",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.lima.doodlejump",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "headsoccer",
+      "title": "Head Soccer",
+      "package": "com.dnddream.headsoccer.android",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.dnddream.headsoccer.android",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "gangstarneworleans",
+      "title": "Gangstar New Orleans",
+      "package": "com.gameloft.android.ANMP.GloftOLHM",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftOLHM",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "clumsyninja",
+      "title": "Clumsy Ninja",
+      "package": "com.naturalmotion.clumsyninja",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.naturalmotion.clumsyninja",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "crashofcars",
+      "title": "Crash of Cars",
+      "package": "com.notdoppler.crashofcars",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.notdoppler.crashofcars",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "shatteredpd",
+      "title": "Shattered Pixel Dungeon",
+      "package": "com.shatteredpixel.shatteredpixeldungeon",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "hill",
+      "title": "Hill Climb Racing",
+      "package": "com.fingersoft.hillclimb",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "temple",
+      "title": "Temple Run",
+      "package": "com.imangi.templerun",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.imangi.templerun",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "aha",
+      "title": "AHA Games: 10K+ Offline Games",
+      "package": "net.bat.store",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=net.bat.store",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "magic",
+      "title": "Magic Tiles 3: Piano Game",
+      "package": "com.youmusic.magictiles",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "mytalkingtomfriends",
+      "title": "My Talking Tom Friends",
+      "package": "com.outfit7.mytalkingtomfriends",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "traffic",
+      "title": "Traffic Rider",
+      "package": "com.skgames.trafficrider",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.skgames.trafficrider",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "fifa",
+      "title": "EA SPORTS FC™: UEFA EURO 2024™",
+      "package": "com.ea.gp.fifamobile",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "talkingtomgoldrun",
+      "title": "Talking Tom Gold Run",
+      "package": "com.outfit7.talkingtomgoldrun",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.outfit7.talkingtomgoldrun",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "extreme",
+      "title": "Extreme Car Driving Simulator",
+      "package": "com.aim.racing",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.aim.racing",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "assassin",
+      "title": "Hunter Assassin",
+      "package": "com.rubygames.assassin",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rubygames.assassin",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "drdriving",
+      "title": "Dr. Driving",
+      "package": "com.ansangha.drdriving",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "wormszone",
+      "title": "Worms Zone .io - Hungry Snake",
+      "package": "com.wildspike.wormszone",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.wildspike.wormszone",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "beat",
+      "title": "Tiles Hop Music & Ball Game",
+      "package": "com.amanotes.beathopper",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.amanotes.beathopper",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "talkingtomcat",
+      "title": "Talking Tom Cat",
+      "package": "com.outfit7.talkingtom",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.outfit7.talkingtom",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "carrom",
+      "title": "Carrom Pool: Disc Game",
+      "package": "com.miniclip.carrom",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.miniclip.carrom",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "lordsmobile",
+      "title": "Lords Mobile x Transformers",
+      "package": "com.igg.android.lordsmobile",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.igg.android.lordsmobile",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "candycrushsoda",
+      "title": "Candy Crush Soda Saga",
+      "package": "com.king.candycrushsodasaga",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.king.candycrushsodasaga",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "gardenscapes",
+      "title": "Gardenscapes",
+      "package": "com.playrix.gardenscapes",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.playrix.gardenscapes",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "zombie",
+      "title": "Zombie Tsunami",
+      "package": "net.mobigame.zombietsunami",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=net.mobigame.zombietsunami",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "blockcraft",
+      "title": "Block Craft 3D：Building Game",
+      "package": "com.fungames.blockcraft",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.fungames.blockcraft",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "stickman",
+      "title": "Stickman Party 234 MiniGames",
+      "package": "com.PlayMax.playergames",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.PlayMax.playergames",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "billiards",
+      "title": "Pooking - Billiards City",
+      "package": "com.billiards.city.pool.nation.club",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.billiards.city.pool.nation.club",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "talking",
+      "title": "Talking Tom Hero Dash",
+      "package": "com.outfit7.herodash",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.outfit7.herodash",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "bridge",
+      "title": "Bridge Race",
+      "package": "com.Garawell.BridgeRace",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.Garawell.BridgeRace",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "mytalkingangela2",
+      "title": "My Talking Angela 2",
+      "package": "com.outfit7.mytalkingangela2",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "fish",
+      "title": "Bubble Shooter: 2024 Classic",
+      "package": "bubbleshooter.orig",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=bubbleshooter.orig",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "stack",
+      "title": "Stack Ball - Crash Platforms",
+      "package": "com.azurgames.stackball",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.azurgames.stackball",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "township",
+      "title": "Township",
+      "package": "com.playrix.township",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.playrix.township",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "sonic",
+      "title": "Sonic Dash Run",
+      "package": "com.sega.sonicdash",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sega.sonicdash",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "homescapes",
+      "title": "Homescapes",
+      "package": "com.playrix.homescapes",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.playrix.homescapes",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "kickthebuddy",
+      "title": "Kick the Buddy－Fun Action Game",
+      "package": "com.playgendary.kickthebuddy",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.playgendary.kickthebuddy",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "paperio2",
+      "title": "Paper.io 2",
+      "package": "io.voodoo.paper2",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=io.voodoo.paper2",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "talkingtomcat2",
+      "title": "Talking Tom Cat 2",
+      "package": "com.outfit7.talkingtom2free",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.outfit7.talkingtom2free",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "footballleague",
+      "title": "Football League 2024",
+      "package": "com.football.soccer.league",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.football.soccer.league",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "farmheroes",
+      "title": "Farm Heroes Saga",
+      "package": "com.king.farmheroessaga",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.king.farmheroessaga",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "vita",
+      "title": "Vita Mahjong",
+      "package": "com.vitastudio.mahjong",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "pizzaready",
+      "title": "Pizza Ready!",
+      "package": "io.supercent.pizzaidle",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "helixjump",
+      "title": "Helix Jump",
+      "package": "com.h8games.helixjump",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.h8games.helixjump",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "hayday",
+      "title": "Hay Day",
+      "package": "com.supercell.hayday",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.supercell.hayday",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "angrybirds2",
+      "title": "Angry Birds 2",
+      "package": "com.rovio.baba",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rovio.baba",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "nfsnolimits",
+      "title": "Need for Speed™ No Limits",
+      "package": "com.ea.game.nfs14_row",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ea.game.nfs14_row",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "robbery",
+      "title": "Robbery Bob - King of Sneak",
+      "package": "com.chillingo.robberybobfree.android.row",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "cookingfever",
+      "title": "Cooking Fever: Restaurant Game",
+      "package": "com.nordcurrent.canteenhd",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nordcurrent.canteenhd",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "minimilitia",
+      "title": "Mini Militia - War.io",
+      "package": "com.appsomniacs.da2",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.appsomniacs.da2",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "talkingben",
+      "title": "Talking Ben the Dog",
+      "package": "com.outfit7.talkingben",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.outfit7.talkingben",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "bikerace",
+      "title": "Bike Race：Motorcycle Games",
+      "package": "com.topfreegames.bikeracefreeworld",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.topfreegames.bikeracefreeworld",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "uno",
+      "title": "UNO!™",
+      "package": "com.matteljv.uno",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.matteljv.uno",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "talkingginger",
+      "title": "Talking Ginger",
+      "package": "com.outfit7.talkinggingerfree",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.outfit7.talkinggingerfree",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "tile",
+      "title": "Tile Explorer - Triple Match",
+      "package": "com.oakever.tiletrip",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "vector",
+      "title": "Vector",
+      "package": "com.nekki.vector",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nekki.vector",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "avatarworld",
+      "title": "Avatar World ®",
+      "package": "com.pazugames.avatarworld",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.pazugames.avatarworld",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "nail",
+      "title": "Hello Kitty Nail Salon",
+      "package": "com.budgestudios.HelloKittyNailSalon",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.budgestudios.HelloKittyNailSalon",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "cuttherope",
+      "title": "Cut the Rope",
+      "package": "com.zeptolab.ctr.ads",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.zeptolab.ctr.ads",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "bubbu",
+      "title": "Bubbu – My Virtual Pet Cat",
+      "package": "com.bubadu.bubbu",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.bubadu.bubbu",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "tileclub",
+      "title": "Tile Club - Match Puzzle Games",
+      "package": "com.gamovation.tileclub",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gamovation.tileclub",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "talkingangela",
+      "title": "Talking Angela",
+      "package": "com.outfit7.talkingangelafree",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.outfit7.talkingangelafree",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "lep",
+      "title": "Lep's World 2",
+      "package": "at.ner.lepsWorld2",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=at.ner.lepsWorld2",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "shadowfight3",
+      "title": "Shadow Fight 3 - RPG fighting",
+      "package": "com.nekki.shadowfight3",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nekki.shadowfight3",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "offline",
+      "title": "Offline Games - No Wifi Games",
+      "package": "com.JindoBlu.OfflineGames",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.JindoBlu.OfflineGames",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "moderncombat5",
+      "title": "Modern Combat 5: mobile FPS",
+      "package": "com.gameloft.android.ANMP.GloftM5HM",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftM5HM",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "spider",
+      "title": "Spider Fighter 3: Action Game",
+      "package": "com.starplay.spider.fighter.openworld",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.starplay.spider.fighter.openworld",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "myperfecthotel",
+      "title": "My Perfect Hotel",
+      "package": "com.master.hotelmaster",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.master.hotelmaster",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "drparking",
+      "title": "Dr. Parking 4",
+      "package": "com.ansangha.drparking4",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ansangha.drparking4",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "snake",
+      "title": "Snake Clash!",
+      "package": "io.supercent.linkedcubic",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "criminalcase",
+      "title": "Criminal Case",
+      "package": "com.prettysimple.criminalcaseandroid",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.prettysimple.criminalcaseandroid",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "strike",
+      "title": "FPS Strike Ops : Modern Arena",
+      "package": "com.ta.strike.ops",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ta.strike.ops",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "vehicle",
+      "title": "Vehicle Masters",
+      "package": "com.pd.vehiclemasters",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.pd.vehiclemasters",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "tictactoe",
+      "title": "Tic Tac Toe - 2 Player XO",
+      "package": "com.cdg.tictactoe",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.cdg.tictactoe",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "rollance",
+      "title": "Rollance : Adventure Balls",
+      "package": "com.atesgamestudio.rollance",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.atesgamestudio.rollance",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "supermarket",
+      "title": "My Supermarket Simulator 3D®",
+      "package": "com.playspare.supermarket.store.simulator",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.playspare.supermarket.store.simulator",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "agario",
+      "title": "Agar.io",
+      "package": "com.miniclip.agar.io",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.miniclip.agar.io",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "mini",
+      "title": "Mini Games: Brainrot Challenge",
+      "package": "com.uc.minigame.relax",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.uc.minigame.relax",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "talkingpierre",
+      "title": "Talking Pierre the Parrot",
+      "package": "com.outfit7.talkingpierrefree",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.outfit7.talkingpierrefree",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "simcity",
+      "title": "SimCity BuildIt",
+      "package": "com.ea.game.simcitymobile_row",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "number",
+      "title": "Number Master: Run and merge",
+      "package": "com.kayac.level_up_number",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kayac.level_up_number",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "genshin",
+      "title": "Genshin Impact",
+      "package": "com.miHoYo.GenshinImpact",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "moto",
+      "title": "Moto Rider, Bike Racing Game",
+      "package": "com.ig.moto.racing",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ig.moto.racing",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "cuttherope2",
+      "title": "Cut the Rope 2",
+      "package": "com.zeptolab.ctr2.f2p.google",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.zeptolab.ctr2.f2p.google",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "tic",
+      "title": "Tic Tac Toe 2 Player: XO Game",
+      "package": "onetap.game.tictactoe",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=onetap.game.tictactoe",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "plagueinc",
+      "title": "Plague Inc.",
+      "package": "com.miniclip.plagueinc",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.miniclip.plagueinc",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "1",
+      "title": "1 2 3 4 Player Games - Offline",
+      "package": "com.JindoBlu.FourPlayers",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.JindoBlu.FourPlayers",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "minirelaxing",
+      "title": "Mini Relaxing Game- pop it",
+      "package": "com.sh.fidget.toys.mini.relaxing.antistress.games",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sh.fidget.toys.mini.relaxing.antistress.games",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "monopoly",
+      "title": "MONOPOLY GO!",
+      "package": "com.scopely.monopolygo",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.scopely.monopolygo",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "dragonmania",
+      "title": "Dragon Mania Legends",
+      "package": "com.gameloft.android.ANMP.GloftDOHM",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftDOHM",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "piano",
+      "title": "Piano Star",
+      "package": "com.piano.tiles.music.game.circles.dancing.beat.magictiles",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.piano.tiles.music.game.circles.dancing.beat.magictiles",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "project",
+      "title": "Blood Strike - FPS for all",
+      "package": "com.netease.newspike",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.netease.newspike",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "agent",
+      "title": "Agent Hunt – Hitman Shooter",
+      "package": "com.gnarlygamestudio.agenthunt",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gnarlygamestudio.agenthunt",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "melon",
+      "title": "Melon Sandbox",
+      "package": "com.studio27.MelonPlayground",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.studio27.MelonPlayground",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "bomberfriends",
+      "title": "Bomber Friends",
+      "package": "com.hyperkani.bomberfriends",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.hyperkani.bomberfriends",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "drive",
+      "title": "Drive Ahead! - Fun car battles",
+      "package": "com.dodreams.driveahead",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.dodreams.driveahead",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "lastwar",
+      "title": "Last War:Survival Game",
+      "package": "com.fun.lastwar.gp",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.fun.lastwar.gp",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "critical",
+      "title": "Critical Ops: Multiplayer FPS",
+      "package": "com.criticalforceentertainment.criticalops",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.criticalforceentertainment.criticalops",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "megapolis",
+      "title": "Megapolis: City Building Sim",
+      "package": "com.socialquantum.acityint",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.socialquantum.acityint",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "drivezone",
+      "title": "Drive Zone: Car Simulator Game",
+      "package": "com.drivezone.car.race.game",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.drivezone.car.race.game",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "boombeach",
+      "title": "Boom Beach: War Strategy Game",
+      "package": "com.supercell.boombeach",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.supercell.boombeach",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "deadtrigger2",
+      "title": "Dead Trigger 2 FPS Zombie Game",
+      "package": "com.madfingergames.deadtrigger2",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.madfingergames.deadtrigger2",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "antistress",
+      "title": "Antistress relaxing toy game",
+      "package": "com.xplay.pop_antistress_simulator",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.xplay.pop_antistress_simulator",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "burger",
+      "title": "Burger Please!",
+      "package": "io.supercent.burgeridle",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=io.supercent.burgeridle",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "slow",
+      "title": "Slow Mo Run",
+      "package": "com.paurau.SlowMoRun",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.paurau.SlowMoRun",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "attackhole",
+      "title": "Attack Hole - Black Hole Games",
+      "package": "com.redlinegames.attackhole",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.redlinegames.attackhole",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "honorofkings",
+      "title": "Honor of Kings",
+      "package": "com.levelinfinite.sgameGlobal",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.levelinfinite.sgameGlobal",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "riseofkingdoms",
+      "title": "Rise of Kingdoms: Lost Crusade",
+      "package": "com.lilithgame.roc.gp",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.lilithgame.roc.gp",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "deadtrigger",
+      "title": "Dead Trigger: Survival Shooter",
+      "package": "com.madfingergames.deadtrigger",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.madfingergames.deadtrigger",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "csr2",
+      "title": "CSR 2 Realistic Drag Racing",
+      "package": "com.naturalmotion.customstreetracer2",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.naturalmotion.customstreetracer2",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "raidshadowlegends",
+      "title": "RAID: Shadow Legends",
+      "package": "com.plarium.raidlegends",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.plarium.raidlegends",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "ketchappstack",
+      "title": "Stack",
+      "package": "com.ketchapp.stack",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ketchapp.stack",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "realmoto",
+      "title": "Real Moto Driving Racing World",
+      "package": "com.v09.real.moto.bike.driving.racing.city.open.world",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.v09.real.moto.bike.driving.racing.city.open.world",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "zigzag",
+      "title": "ZigZag",
+      "package": "com.ketchapp.zigzaggame",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ketchapp.zigzaggame",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "angrybirdstransformers",
+      "title": "Angry Birds Transformers",
+      "package": "com.rovio.angrybirdstransformers",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rovio.angrybirdstransformers",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "badland",
+      "title": "BADLAND",
+      "package": "com.frogmind.badland",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.frogmind.badland",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "squadbusters",
+      "title": "Squad Busters",
+      "package": "com.supercell.squad",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.supercell.squad",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "starrail",
+      "title": "Honkai: Star Rail",
+      "package": "com.HoYoverse.hkrpgoversea",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "fruitninja2",
+      "title": "Fruit Ninja 2 Fun Action Games",
+      "package": "com.halfbrick.fruitninjax",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play",
+        "isFree": null
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.halfbrick.fruitninjax",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "minecraft",
+      "title": "Village City Life Building",
+      "package": "com.game.minicraft.village",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.game.minicraft.village",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "subway",
+      "title": "Subway Princess Runner",
+      "package": "com.rioo.runnersubway",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    },
+    {
+      "id": "welcome",
+      "title": "Bike Race: Racing Games",
+      "package": "com.dino.moto.race.master",
+      "details": {
+        "downloads": "See Google Play",
+        "rating": 0,
+        "size": "See Google Play",
+        "ageRating": "See Google Play",
+        "androidVersion": "See Google Play",
+        "version": "See Google Play"
+      },
+      "description": "Catalog entry only. Open the official Google Play listing to check current availability, pricing, age rating, compatibility, and developer information.",
+      "whatsNew": "",
+      "media": {
+        "iconUrl": "",
+        "bannerUrl": "",
+        "screenshots": []
+      },
+      "downloadLinks": {
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.dino.moto.race.master",
+        "galaxyStoreUrl": null,
+        "webpage": [],
+        "load1": null,
+        "load2": null,
+        "apk1": null,
+        "apk2": null
+      }
+    }
+  ]
+}
