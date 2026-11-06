@@ -38,7 +38,8 @@
                 "mit",
                 "no-ads",
                 "no-tracking",
-                "arcade"
+                "arcade",
+                "exclusive"
             ]
         },
         {
@@ -79,7 +80,8 @@
                 "mit",
                 "no-ads",
                 "no-tracking",
-                "puzzle"
+                "puzzle",
+                "exclusive"
             ]
         },
         {
@@ -120,7 +122,8 @@
                 "mit",
                 "no-ads",
                 "no-tracking",
-                "puzzle"
+                "puzzle",
+                "exclusive"
             ]
         },
         {
@@ -161,7 +164,8 @@
                 "mit",
                 "no-ads",
                 "no-tracking",
-                "puzzle"
+                "puzzle",
+                "exclusive"
             ]
         },
         {
@@ -202,7 +206,8 @@
                 "mit",
                 "no-ads",
                 "no-tracking",
-                "arcade"
+                "arcade",
+                "exclusive"
             ]
         },
         {
@@ -243,7 +248,8 @@
                 "mit",
                 "no-ads",
                 "no-tracking",
-                "board"
+                "board",
+                "exclusive"
             ]
         },
         {
@@ -284,7 +290,8 @@
                 "mit",
                 "no-ads",
                 "no-tracking",
-                "card"
+                "card",
+                "exclusive"
             ]
         },
         {
@@ -325,7 +332,8 @@
                 "mit",
                 "no-ads",
                 "no-tracking",
-                "educational"
+                "educational",
+                "exclusive"
             ]
         },
         {
@@ -366,7 +374,8 @@
                 "mit",
                 "no-ads",
                 "no-tracking",
-                "arcade"
+                "arcade",
+                "exclusive"
             ]
         },
         {
@@ -407,7 +416,8 @@
                 "mit",
                 "no-ads",
                 "no-tracking",
-                "arcade"
+                "arcade",
+                "exclusive"
             ]
         }
     ]
